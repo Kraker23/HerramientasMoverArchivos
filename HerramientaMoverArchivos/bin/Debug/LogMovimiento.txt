@@ -1,0 +1,2914 @@
+24/01/2019 12:48:44->		 ----> Copiar Archivos 
+24/01/2019 12:48:44->Copiando -> EntityFramework.dll
+24/01/2019 12:50:07->		 ----> Copiar Archivos 
+24/01/2019 12:50:07->Copiando -> EntityFramework.dll
+24/01/2019 12:50:22->Copiando -> EntityFramework.SqlServer.dll
+24/01/2019 12:50:23->Copiando -> EntityFramework.SqlServer.xml
+24/01/2019 12:50:23->Copiando -> EntityFramework.xml
+24/01/2019 12:50:23->Copiando -> Infragistics4.Shared.v12.2.dll
+24/01/2019 12:50:23->Copiando -> Infragistics4.Shared.v12.2.xml
+24/01/2019 12:50:23->Copiando -> Infragistics4.Win.Misc.v12.2.dll
+24/01/2019 12:50:24->Copiando -> Infragistics4.Win.Misc.v12.2.xml
+24/01/2019 12:50:24->Copiando -> Infragistics4.Win.UltraWinTabbedMdi.v12.2.dll
+24/01/2019 12:50:24->Copiando -> Infragistics4.Win.UltraWinTabbedMdi.v12.2.xml
+24/01/2019 12:50:24->Copiando -> Infragistics4.Win.v12.2.dll
+24/01/2019 12:50:24->Copiando -> Infragistics4.Win.v12.2.xml
+24/01/2019 12:50:25->Copiando -> Microsoft.AspNet.Identity.Core.dll
+24/01/2019 12:50:25->Copiando -> Microsoft.AspNet.Identity.Core.xml
+24/01/2019 12:50:25->Copiando -> MiniGestorCodigo.BL.dll
+24/01/2019 12:50:25->Copiando -> MiniGestorCodigo.BL.dll.config
+24/01/2019 12:50:25->Copiando -> MiniGestorCodigo.DM.dll
+24/01/2019 12:50:26->Copiando -> MiniGestorCodigo.DM.dll.config
+24/01/2019 12:50:26->Copiando -> MiniGestorCodigo.Security.exe
+24/01/2019 12:50:26->Copiando -> MiniGestorCodigo.Security.exe.config
+24/01/2019 12:50:26->Copiando -> MiniGestorCodigo.Starter.exe
+24/01/2019 12:50:26->Copiando -> MiniGestorCodigo.Starter.exe.config
+24/01/2019 12:50:26->Copiando -> MiniGestorCodigo.UI.exe
+24/01/2019 12:50:26->Copiando -> MiniGestorCodigo.UI.exe.config
+24/01/2019 12:50:26->Copiando -> Utilities.Clases.dll
+24/01/2019 12:50:26->Copiando -> Utilities.Controls.dll
+24/01/2019 12:50:26->Copiando -> Utilities.Extensions.dll
+24/01/2019 12:50:26->		 ----> Finalizar Copiado 
+24/01/2019 12:50:26->		 ----> Finalizado el proceso 
+24/01/2019 12:51:10->		 ----> Mover Archivos 
+24/01/2019 12:51:10->Moviendo -> EntityFramework.dll
+24/01/2019 12:51:48->		 ----> Mover Archivos 
+24/01/2019 12:51:48->Moviendo -> EntityFramework.dll
+24/01/2019 12:51:48->Moviendo -> EntityFramework.SqlServer.dll
+24/01/2019 12:51:48->Moviendo -> EntityFramework.SqlServer.xml
+24/01/2019 12:51:48->Moviendo -> EntityFramework.xml
+24/01/2019 12:51:48->Moviendo -> Infragistics4.Shared.v12.2.dll
+24/01/2019 12:51:49->Moviendo -> Infragistics4.Shared.v12.2.xml
+24/01/2019 12:51:49->Moviendo -> Infragistics4.Win.Misc.v12.2.dll
+24/01/2019 12:51:49->Moviendo -> Infragistics4.Win.Misc.v12.2.xml
+24/01/2019 12:51:49->Moviendo -> Infragistics4.Win.UltraWinTabbedMdi.v12.2.dll
+24/01/2019 12:51:49->Moviendo -> Infragistics4.Win.UltraWinTabbedMdi.v12.2.xml
+24/01/2019 12:51:49->Moviendo -> Infragistics4.Win.v12.2.dll
+24/01/2019 12:51:50->Moviendo -> Infragistics4.Win.v12.2.xml
+24/01/2019 12:51:50->Moviendo -> Microsoft.AspNet.Identity.Core.dll
+24/01/2019 12:51:50->Moviendo -> Microsoft.AspNet.Identity.Core.xml
+24/01/2019 12:51:50->Moviendo -> MiniGestorCodigo.BL.dll
+24/01/2019 12:51:50->Moviendo -> MiniGestorCodigo.BL.dll.config
+24/01/2019 12:51:51->Moviendo -> MiniGestorCodigo.DM.dll
+24/01/2019 12:51:51->Moviendo -> MiniGestorCodigo.DM.dll.config
+24/01/2019 12:51:51->Moviendo -> MiniGestorCodigo.Security.exe
+24/01/2019 12:51:51->Moviendo -> MiniGestorCodigo.Security.exe.config
+24/01/2019 12:51:51->Moviendo -> MiniGestorCodigo.Starter.exe
+24/01/2019 12:51:51->Moviendo -> MiniGestorCodigo.Starter.exe.config
+24/01/2019 12:51:51->Moviendo -> MiniGestorCodigo.UI.exe
+24/01/2019 12:51:51->Moviendo -> MiniGestorCodigo.UI.exe.config
+24/01/2019 12:51:51->Moviendo -> Utilities.Clases.dll
+24/01/2019 12:51:51->Moviendo -> Utilities.Controls.dll
+24/01/2019 12:51:51->Moviendo -> Utilities.Extensions.dll
+24/01/2019 12:51:51->		 ----> Finalizar Moviemiento de Archivos 
+24/01/2019 12:51:52->		 ----> Eliminar Residuos de la carpeta Origen
+24/01/2019 12:51:52->		 ----> Finalizar Eliminar 
+24/01/2019 12:51:52->		 ----> Finalizado el proceso 
+24/01/2019 12:53:50->		 ----> Mover Archivos 
+24/01/2019 12:53:50->Moviendo -> EntityFramework.dll
+24/01/2019 12:53:54->Moviendo -> EntityFramework.SqlServer.dll
+24/01/2019 12:53:54->Moviendo -> EntityFramework.SqlServer.xml
+24/01/2019 12:53:54->Moviendo -> EntityFramework.xml
+24/01/2019 12:53:54->Moviendo -> Infragistics4.Shared.v12.2.dll
+24/01/2019 12:53:54->Moviendo -> Infragistics4.Shared.v12.2.xml
+24/01/2019 12:53:55->Moviendo -> Infragistics4.Win.Misc.v12.2.dll
+24/01/2019 12:53:55->Moviendo -> Infragistics4.Win.Misc.v12.2.xml
+24/01/2019 12:53:55->Moviendo -> Infragistics4.Win.UltraWinTabbedMdi.v12.2.dll
+24/01/2019 12:53:55->Moviendo -> Infragistics4.Win.UltraWinTabbedMdi.v12.2.xml
+24/01/2019 12:53:55->Moviendo -> Infragistics4.Win.v12.2.dll
+24/01/2019 12:53:55->Moviendo -> Infragistics4.Win.v12.2.xml
+24/01/2019 12:53:55->Moviendo -> Microsoft.AspNet.Identity.Core.dll
+24/01/2019 12:53:55->Moviendo -> Microsoft.AspNet.Identity.Core.xml
+24/01/2019 12:53:55->Moviendo -> MiniGestorCodigo.BL.dll
+24/01/2019 12:53:56->Moviendo -> MiniGestorCodigo.BL.dll.config
+24/01/2019 12:53:56->Moviendo -> MiniGestorCodigo.DM.dll
+24/01/2019 12:53:56->Moviendo -> MiniGestorCodigo.DM.dll.config
+24/01/2019 12:53:56->Moviendo -> MiniGestorCodigo.Security.exe
+24/01/2019 12:53:56->Moviendo -> MiniGestorCodigo.Security.exe.config
+24/01/2019 12:53:56->Moviendo -> MiniGestorCodigo.Starter.exe
+24/01/2019 12:53:56->Moviendo -> MiniGestorCodigo.Starter.exe.config
+24/01/2019 12:53:56->Moviendo -> MiniGestorCodigo.UI.exe
+24/01/2019 12:53:56->Moviendo -> MiniGestorCodigo.UI.exe.config
+24/01/2019 12:53:56->Moviendo -> Utilities.Clases.dll
+24/01/2019 12:53:56->Moviendo -> Utilities.Controls.dll
+24/01/2019 12:53:57->Moviendo -> Utilities.Extensions.dll
+24/01/2019 12:53:57->		 ----> Finalizar Moviemiento de Archivos 
+24/01/2019 12:53:57->		 ----> Eliminar Residuos de la carpeta Origen
+24/01/2019 12:55:28->		 ----> Mover Archivos 
+24/01/2019 12:55:28->Moviendo -> EntityFramework.dll
+24/01/2019 12:56:02->		 ----> Eliminar Residuos de la carpeta Origen
+24/01/2019 12:56:02->		 ----> Finalizar Eliminar 
+24/01/2019 12:56:02->		 ----> Finalizado el proceso 
+24/01/2019 12:56:22->		 ----> Mover Archivos 
+24/01/2019 12:56:22->Moviendo -> EntityFramework.dll
+24/01/2019 12:57:59->		 ----> Mover Archivos 
+24/01/2019 12:57:59->Moviendo -> EntityFramework.dll
+24/01/2019 12:57:59->Moviendo -> EntityFramework.SqlServer.dll
+24/01/2019 12:57:59->Moviendo -> EntityFramework.SqlServer.xml
+24/01/2019 12:58:00->Moviendo -> EntityFramework.xml
+24/01/2019 12:58:00->Moviendo -> Infragistics4.Shared.v12.2.dll
+24/01/2019 12:58:00->Moviendo -> Infragistics4.Shared.v12.2.xml
+24/01/2019 12:58:00->Moviendo -> Infragistics4.Win.Misc.v12.2.dll
+24/01/2019 12:58:00->Moviendo -> Infragistics4.Win.Misc.v12.2.xml
+24/01/2019 12:58:00->Moviendo -> Infragistics4.Win.UltraWinTabbedMdi.v12.2.dll
+24/01/2019 12:58:00->Moviendo -> Infragistics4.Win.UltraWinTabbedMdi.v12.2.xml
+24/01/2019 12:58:00->Moviendo -> Infragistics4.Win.v12.2.dll
+24/01/2019 12:58:00->Moviendo -> Infragistics4.Win.v12.2.xml
+24/01/2019 12:58:00->Moviendo -> Microsoft.AspNet.Identity.Core.dll
+24/01/2019 12:58:00->Moviendo -> Microsoft.AspNet.Identity.Core.xml
+24/01/2019 12:58:00->Moviendo -> MiniGestorCodigo.BL.dll
+24/01/2019 12:58:00->Moviendo -> MiniGestorCodigo.BL.dll.config
+24/01/2019 12:58:00->Moviendo -> MiniGestorCodigo.DM.dll
+24/01/2019 12:58:00->Moviendo -> MiniGestorCodigo.DM.dll.config
+24/01/2019 12:58:00->Moviendo -> MiniGestorCodigo.Security.exe
+24/01/2019 12:58:00->Moviendo -> MiniGestorCodigo.Security.exe.config
+24/01/2019 12:58:00->Moviendo -> MiniGestorCodigo.Starter.exe
+24/01/2019 12:58:01->Moviendo -> MiniGestorCodigo.Starter.exe.config
+24/01/2019 12:58:01->Moviendo -> MiniGestorCodigo.UI.exe
+24/01/2019 12:58:01->Moviendo -> MiniGestorCodigo.UI.exe.config
+24/01/2019 12:58:01->Moviendo -> Utilities.Clases.dll
+24/01/2019 12:58:01->Moviendo -> Utilities.Controls.dll
+24/01/2019 12:58:01->Moviendo -> Utilities.Extensions.dll
+24/01/2019 12:58:01->		 ----> Finalizar Moviemiento de Archivos 
+24/01/2019 12:58:01->		 ----> Eliminar Residuos de la carpeta Origen
+24/01/2019 12:58:43->		 ----> Mover Archivos 
+24/01/2019 12:58:43->Moviendo -> EntityFramework.dll
+24/01/2019 12:58:43->Moviendo -> EntityFramework.SqlServer.dll
+24/01/2019 12:58:43->Moviendo -> EntityFramework.SqlServer.xml
+24/01/2019 12:58:43->Moviendo -> EntityFramework.xml
+24/01/2019 12:58:43->Moviendo -> Infragistics4.Shared.v12.2.dll
+24/01/2019 12:58:43->Moviendo -> Infragistics4.Shared.v12.2.xml
+24/01/2019 12:58:44->Moviendo -> Infragistics4.Win.Misc.v12.2.dll
+24/01/2019 12:58:44->Moviendo -> Infragistics4.Win.Misc.v12.2.xml
+24/01/2019 12:58:44->Moviendo -> Infragistics4.Win.UltraWinTabbedMdi.v12.2.dll
+24/01/2019 12:58:44->Moviendo -> Infragistics4.Win.UltraWinTabbedMdi.v12.2.xml
+24/01/2019 12:58:44->Moviendo -> Infragistics4.Win.v12.2.dll
+24/01/2019 12:58:44->Moviendo -> Infragistics4.Win.v12.2.xml
+24/01/2019 12:58:44->Moviendo -> Microsoft.AspNet.Identity.Core.dll
+24/01/2019 12:58:44->Moviendo -> Microsoft.AspNet.Identity.Core.xml
+24/01/2019 12:58:44->Moviendo -> MiniGestorCodigo.BL.dll
+24/01/2019 12:58:44->Moviendo -> MiniGestorCodigo.BL.dll.config
+24/01/2019 12:58:44->Moviendo -> MiniGestorCodigo.DM.dll
+24/01/2019 12:58:44->Moviendo -> MiniGestorCodigo.DM.dll.config
+24/01/2019 12:58:44->Moviendo -> MiniGestorCodigo.Security.exe
+24/01/2019 12:58:44->Moviendo -> MiniGestorCodigo.Security.exe.config
+24/01/2019 12:58:44->Moviendo -> MiniGestorCodigo.Starter.exe
+24/01/2019 12:58:44->Moviendo -> MiniGestorCodigo.Starter.exe.config
+24/01/2019 12:58:44->Moviendo -> MiniGestorCodigo.UI.exe
+24/01/2019 12:58:44->Moviendo -> MiniGestorCodigo.UI.exe.config
+24/01/2019 12:58:44->Moviendo -> Utilities.Clases.dll
+24/01/2019 12:58:45->Moviendo -> Utilities.Controls.dll
+24/01/2019 12:58:45->Moviendo -> Utilities.Extensions.dll
+24/01/2019 12:58:45->		 ----> Finalizar Moviemiento de Archivos 
+24/01/2019 12:58:45->		 ----> Eliminar Residuos de la carpeta Origen
+24/01/2019 12:58:45->		 ----> Finalizar Eliminar 
+24/01/2019 12:58:45->		 ----> Finalizado el proceso 
+24/01/2019 14:30:23->Esperando un tiempo de Demora
+24/01/2019 14:31:45->Esperando un tiempo de Demora
+24/01/2019 14:31:45->Esperando un tiempo de Demora
+24/01/2019 14:31:45->Esperando un tiempo de Demora
+24/01/2019 14:31:45->Esperando un tiempo de Demora
+24/01/2019 14:31:45->Esperando un tiempo de Demora
+24/01/2019 14:31:45->Esperando un tiempo de Demora
+24/01/2019 14:31:45->Esperando un tiempo de Demora
+24/01/2019 14:31:45->Esperando un tiempo de Demora
+24/01/2019 14:31:45->Esperando un tiempo de Demora
+24/01/2019 14:31:45->Esperando un tiempo de Demora
+24/01/2019 14:31:45->Esperando un tiempo de Demora
+24/01/2019 14:31:45->Esperando un tiempo de Demora
+24/01/2019 14:31:45->Esperando un tiempo de Demora
+24/01/2019 14:31:45->Esperando un tiempo de Demora
+24/01/2019 14:31:45->Esperando un tiempo de Demora
+24/01/2019 14:31:46->Esperando un tiempo de Demora
+24/01/2019 14:31:46->Esperando un tiempo de Demora
+24/01/2019 14:31:46->Esperando un tiempo de Demora
+24/01/2019 14:31:46->Esperando un tiempo de Demora
+24/01/2019 14:31:46->Esperando un tiempo de Demora
+24/01/2019 14:31:46->Esperando un tiempo de Demora
+24/01/2019 14:31:46->Esperando un tiempo de Demora
+24/01/2019 14:31:46->Esperando un tiempo de Demora
+24/01/2019 14:31:46->Esperando un tiempo de Demora
+24/01/2019 14:31:46->Esperando un tiempo de Demora
+24/01/2019 14:31:46->Esperando un tiempo de Demora
+24/01/2019 14:31:46->Esperando un tiempo de Demora
+24/01/2019 14:31:46->Esperando un tiempo de Demora
+24/01/2019 14:31:46->Esperando un tiempo de Demora
+24/01/2019 14:31:46->Esperando un tiempo de Demora
+24/01/2019 14:31:46->Esperando un tiempo de Demora
+24/01/2019 14:31:46->Esperando un tiempo de Demora
+24/01/2019 14:31:46->Esperando un tiempo de Demora
+24/01/2019 14:31:46->Esperando un tiempo de Demora
+24/01/2019 14:31:46->Esperando un tiempo de Demora
+24/01/2019 14:31:46->Esperando un tiempo de Demora
+24/01/2019 14:31:46->Esperando un tiempo de Demora
+24/01/2019 14:31:46->Esperando un tiempo de Demora
+24/01/2019 14:31:46->Esperando un tiempo de Demora
+24/01/2019 14:31:46->Esperando un tiempo de Demora
+24/01/2019 14:31:46->Esperando un tiempo de Demora
+24/01/2019 14:31:46->Esperando un tiempo de Demora
+24/01/2019 14:31:47->Esperando un tiempo de Demora
+24/01/2019 14:31:47->Esperando un tiempo de Demora
+24/01/2019 14:31:47->Esperando un tiempo de Demora
+24/01/2019 14:31:47->Esperando un tiempo de Demora
+24/01/2019 14:31:47->Esperando un tiempo de Demora
+24/01/2019 14:31:47->Esperando un tiempo de Demora
+24/01/2019 14:31:47->Esperando un tiempo de Demora
+24/01/2019 14:31:47->Esperando un tiempo de Demora
+24/01/2019 14:31:47->Esperando un tiempo de Demora
+24/01/2019 14:31:47->Esperando un tiempo de Demora
+24/01/2019 14:31:47->Esperando un tiempo de Demora
+24/01/2019 14:31:47->Esperando un tiempo de Demora
+24/01/2019 14:31:47->Esperando un tiempo de Demora
+24/01/2019 14:31:47->Esperando un tiempo de Demora
+24/01/2019 14:31:47->Esperando un tiempo de Demora
+24/01/2019 14:31:47->Esperando un tiempo de Demora
+24/01/2019 14:31:47->Esperando un tiempo de Demora
+24/01/2019 14:31:47->Esperando un tiempo de Demora
+24/01/2019 14:31:47->Esperando un tiempo de Demora
+24/01/2019 14:31:47->Esperando un tiempo de Demora
+24/01/2019 14:31:47->Esperando un tiempo de Demora
+24/01/2019 14:31:47->Esperando un tiempo de Demora
+24/01/2019 14:31:47->Esperando un tiempo de Demora
+24/01/2019 14:31:47->Esperando un tiempo de Demora
+24/01/2019 14:31:47->Esperando un tiempo de Demora
+24/01/2019 14:31:47->Esperando un tiempo de Demora
+24/01/2019 14:31:48->Esperando un tiempo de Demora
+24/01/2019 14:31:48->Esperando un tiempo de Demora
+24/01/2019 14:31:48->Esperando un tiempo de Demora
+24/01/2019 14:31:48->Esperando un tiempo de Demora
+24/01/2019 14:31:48->Esperando un tiempo de Demora
+24/01/2019 14:31:48->Esperando un tiempo de Demora
+24/01/2019 14:31:48->Esperando un tiempo de Demora
+24/01/2019 14:31:48->Esperando un tiempo de Demora
+24/01/2019 14:31:48->Esperando un tiempo de Demora
+24/01/2019 14:31:48->Esperando un tiempo de Demora
+24/01/2019 14:31:48->Esperando un tiempo de Demora
+24/01/2019 14:31:48->Esperando un tiempo de Demora
+24/01/2019 14:31:48->Esperando un tiempo de Demora
+24/01/2019 14:31:48->Esperando un tiempo de Demora
+24/01/2019 14:31:48->Esperando un tiempo de Demora
+24/01/2019 14:31:48->Esperando un tiempo de Demora
+24/01/2019 14:31:48->Esperando un tiempo de Demora
+24/01/2019 14:31:48->Esperando un tiempo de Demora
+24/01/2019 14:31:48->Esperando un tiempo de Demora
+24/01/2019 14:31:48->Esperando un tiempo de Demora
+24/01/2019 14:31:48->Esperando un tiempo de Demora
+24/01/2019 14:31:48->Esperando un tiempo de Demora
+24/01/2019 14:31:48->Esperando un tiempo de Demora
+24/01/2019 14:31:48->Esperando un tiempo de Demora
+24/01/2019 14:31:49->Esperando un tiempo de Demora
+24/01/2019 14:31:49->Esperando un tiempo de Demora
+24/01/2019 14:31:49->Esperando un tiempo de Demora
+24/01/2019 14:31:49->Esperando un tiempo de Demora
+24/01/2019 14:31:49->Esperando un tiempo de Demora
+24/01/2019 14:31:49->Esperando un tiempo de Demora
+24/01/2019 14:31:49->Esperando un tiempo de Demora
+24/01/2019 14:31:49->Esperando un tiempo de Demora
+24/01/2019 14:31:49->Esperando un tiempo de Demora
+24/01/2019 14:31:49->Esperando un tiempo de Demora
+24/01/2019 14:31:49->Esperando un tiempo de Demora
+24/01/2019 14:31:49->Esperando un tiempo de Demora
+24/01/2019 14:31:49->Esperando un tiempo de Demora
+24/01/2019 14:31:49->Esperando un tiempo de Demora
+24/01/2019 14:31:49->Esperando un tiempo de Demora
+24/01/2019 14:31:49->Esperando un tiempo de Demora
+24/01/2019 14:31:49->Esperando un tiempo de Demora
+24/01/2019 14:31:49->Esperando un tiempo de Demora
+24/01/2019 14:31:49->Esperando un tiempo de Demora
+24/01/2019 14:31:49->Esperando un tiempo de Demora
+24/01/2019 14:31:50->Esperando un tiempo de Demora
+24/01/2019 14:31:50->Esperando un tiempo de Demora
+24/01/2019 14:31:50->Esperando un tiempo de Demora
+24/01/2019 14:31:50->Esperando un tiempo de Demora
+24/01/2019 14:31:50->Esperando un tiempo de Demora
+24/01/2019 14:31:50->Esperando un tiempo de Demora
+24/01/2019 14:31:50->Esperando un tiempo de Demora
+24/01/2019 14:31:50->Esperando un tiempo de Demora
+24/01/2019 14:31:50->Esperando un tiempo de Demora
+24/01/2019 14:31:50->Esperando un tiempo de Demora
+24/01/2019 14:31:50->Esperando un tiempo de Demora
+24/01/2019 14:31:50->Esperando un tiempo de Demora
+24/01/2019 14:31:50->Esperando un tiempo de Demora
+24/01/2019 14:31:50->Esperando un tiempo de Demora
+24/01/2019 14:31:50->Esperando un tiempo de Demora
+24/01/2019 14:31:50->Esperando un tiempo de Demora
+24/01/2019 14:31:50->Esperando un tiempo de Demora
+24/01/2019 14:31:50->Esperando un tiempo de Demora
+24/01/2019 14:31:50->Esperando un tiempo de Demora
+24/01/2019 14:31:50->Esperando un tiempo de Demora
+24/01/2019 14:31:50->Esperando un tiempo de Demora
+24/01/2019 14:31:51->Esperando un tiempo de Demora
+24/01/2019 14:31:51->Esperando un tiempo de Demora
+24/01/2019 14:31:51->Esperando un tiempo de Demora
+24/01/2019 14:31:51->Esperando un tiempo de Demora
+24/01/2019 14:31:51->Esperando un tiempo de Demora
+24/01/2019 14:31:51->Esperando un tiempo de Demora
+24/01/2019 14:31:51->Esperando un tiempo de Demora
+24/01/2019 14:31:51->Esperando un tiempo de Demora
+24/01/2019 14:31:51->Esperando un tiempo de Demora
+24/01/2019 14:31:51->Esperando un tiempo de Demora
+24/01/2019 14:31:51->Esperando un tiempo de Demora
+24/01/2019 14:31:51->Esperando un tiempo de Demora
+24/01/2019 14:31:51->Esperando un tiempo de Demora
+24/01/2019 14:31:51->Esperando un tiempo de Demora
+24/01/2019 14:31:51->Esperando un tiempo de Demora
+24/01/2019 14:31:51->Esperando un tiempo de Demora
+24/01/2019 14:31:51->Esperando un tiempo de Demora
+24/01/2019 14:31:51->Esperando un tiempo de Demora
+24/01/2019 14:31:51->Esperando un tiempo de Demora
+24/01/2019 14:31:51->Esperando un tiempo de Demora
+24/01/2019 14:31:51->Esperando un tiempo de Demora
+24/01/2019 14:31:52->Esperando un tiempo de Demora
+24/01/2019 14:31:52->Esperando un tiempo de Demora
+24/01/2019 14:31:52->Esperando un tiempo de Demora
+24/01/2019 14:31:52->Esperando un tiempo de Demora
+24/01/2019 14:31:52->Esperando un tiempo de Demora
+24/01/2019 14:31:52->Esperando un tiempo de Demora
+24/01/2019 14:31:52->Esperando un tiempo de Demora
+24/01/2019 14:31:52->Esperando un tiempo de Demora
+24/01/2019 14:31:52->Esperando un tiempo de Demora
+24/01/2019 14:31:52->Esperando un tiempo de Demora
+24/01/2019 14:31:52->Esperando un tiempo de Demora
+24/01/2019 14:31:52->Esperando un tiempo de Demora
+24/01/2019 14:31:52->Esperando un tiempo de Demora
+24/01/2019 14:31:52->Esperando un tiempo de Demora
+24/01/2019 14:31:52->Esperando un tiempo de Demora
+24/01/2019 14:31:52->Esperando un tiempo de Demora
+24/01/2019 14:31:52->Esperando un tiempo de Demora
+24/01/2019 14:31:52->Esperando un tiempo de Demora
+24/01/2019 14:31:52->Esperando un tiempo de Demora
+24/01/2019 14:31:52->Esperando un tiempo de Demora
+24/01/2019 14:31:52->Esperando un tiempo de Demora
+24/01/2019 14:31:53->Esperando un tiempo de Demora
+24/01/2019 14:31:53->Esperando un tiempo de Demora
+24/01/2019 14:31:53->Esperando un tiempo de Demora
+24/01/2019 14:31:53->Esperando un tiempo de Demora
+24/01/2019 14:31:53->Esperando un tiempo de Demora
+24/01/2019 14:31:53->Esperando un tiempo de Demora
+24/01/2019 14:31:53->Esperando un tiempo de Demora
+24/01/2019 14:31:53->Esperando un tiempo de Demora
+24/01/2019 14:31:53->Esperando un tiempo de Demora
+24/01/2019 14:31:53->Esperando un tiempo de Demora
+24/01/2019 14:31:53->Esperando un tiempo de Demora
+24/01/2019 14:31:53->Esperando un tiempo de Demora
+24/01/2019 14:31:53->Esperando un tiempo de Demora
+24/01/2019 14:31:53->Esperando un tiempo de Demora
+24/01/2019 14:31:53->Esperando un tiempo de Demora
+24/01/2019 14:31:53->Esperando un tiempo de Demora
+24/01/2019 14:31:53->Esperando un tiempo de Demora
+24/01/2019 14:31:53->Esperando un tiempo de Demora
+24/01/2019 14:31:53->Esperando un tiempo de Demora
+24/01/2019 14:31:53->Esperando un tiempo de Demora
+24/01/2019 14:31:54->Esperando un tiempo de Demora
+24/01/2019 14:31:54->Esperando un tiempo de Demora
+24/01/2019 14:31:54->Esperando un tiempo de Demora
+24/01/2019 14:31:54->Esperando un tiempo de Demora
+24/01/2019 14:31:54->Esperando un tiempo de Demora
+24/01/2019 14:31:54->Esperando un tiempo de Demora
+24/01/2019 14:31:54->Esperando un tiempo de Demora
+24/01/2019 14:31:54->Esperando un tiempo de Demora
+24/01/2019 14:31:54->Esperando un tiempo de Demora
+24/01/2019 14:31:54->Esperando un tiempo de Demora
+24/01/2019 14:31:54->Esperando un tiempo de Demora
+24/01/2019 14:31:54->Esperando un tiempo de Demora
+24/01/2019 14:31:55->Esperando un tiempo de Demora
+24/01/2019 14:31:55->Esperando un tiempo de Demora
+24/01/2019 14:31:55->Esperando un tiempo de Demora
+24/01/2019 14:31:55->Esperando un tiempo de Demora
+24/01/2019 14:31:55->Esperando un tiempo de Demora
+24/01/2019 14:31:55->Esperando un tiempo de Demora
+24/01/2019 14:31:55->Esperando un tiempo de Demora
+24/01/2019 14:31:55->Esperando un tiempo de Demora
+24/01/2019 14:31:55->Esperando un tiempo de Demora
+24/01/2019 14:31:55->Esperando un tiempo de Demora
+24/01/2019 14:31:55->Esperando un tiempo de Demora
+24/01/2019 14:31:55->Esperando un tiempo de Demora
+24/01/2019 14:31:55->Esperando un tiempo de Demora
+24/01/2019 14:31:55->Esperando un tiempo de Demora
+24/01/2019 14:31:55->Esperando un tiempo de Demora
+24/01/2019 14:31:55->Esperando un tiempo de Demora
+24/01/2019 14:31:56->Esperando un tiempo de Demora
+24/01/2019 14:31:56->Esperando un tiempo de Demora
+24/01/2019 14:31:56->Esperando un tiempo de Demora
+24/01/2019 14:31:56->Esperando un tiempo de Demora
+24/01/2019 14:31:56->Esperando un tiempo de Demora
+24/01/2019 14:31:56->Esperando un tiempo de Demora
+24/01/2019 14:31:56->Esperando un tiempo de Demora
+24/01/2019 14:31:56->Esperando un tiempo de Demora
+24/01/2019 14:31:56->Esperando un tiempo de Demora
+24/01/2019 14:31:56->Esperando un tiempo de Demora
+24/01/2019 14:31:56->Esperando un tiempo de Demora
+24/01/2019 14:31:56->Esperando un tiempo de Demora
+24/01/2019 14:31:56->Esperando un tiempo de Demora
+24/01/2019 14:31:56->Esperando un tiempo de Demora
+24/01/2019 14:31:56->Esperando un tiempo de Demora
+24/01/2019 14:31:56->Esperando un tiempo de Demora
+24/01/2019 14:31:56->Esperando un tiempo de Demora
+24/01/2019 14:31:56->Esperando un tiempo de Demora
+24/01/2019 14:31:56->Esperando un tiempo de Demora
+24/01/2019 14:31:56->Esperando un tiempo de Demora
+24/01/2019 14:31:56->Esperando un tiempo de Demora
+24/01/2019 14:31:57->Esperando un tiempo de Demora
+24/01/2019 14:31:57->Esperando un tiempo de Demora
+24/01/2019 14:31:57->Esperando un tiempo de Demora
+24/01/2019 14:31:57->Esperando un tiempo de Demora
+24/01/2019 14:31:57->Esperando un tiempo de Demora
+24/01/2019 14:31:57->Esperando un tiempo de Demora
+24/01/2019 14:31:57->Esperando un tiempo de Demora
+24/01/2019 14:31:57->Esperando un tiempo de Demora
+24/01/2019 14:31:57->Esperando un tiempo de Demora
+24/01/2019 14:31:57->Esperando un tiempo de Demora
+24/01/2019 14:31:57->Esperando un tiempo de Demora
+24/01/2019 14:31:57->Esperando un tiempo de Demora
+24/01/2019 14:31:57->Esperando un tiempo de Demora
+24/01/2019 14:31:57->Esperando un tiempo de Demora
+24/01/2019 14:31:57->Esperando un tiempo de Demora
+24/01/2019 14:31:57->Esperando un tiempo de Demora
+24/01/2019 14:31:57->Esperando un tiempo de Demora
+24/01/2019 14:31:58->Esperando un tiempo de Demora
+24/01/2019 14:31:58->Esperando un tiempo de Demora
+24/01/2019 14:31:58->Esperando un tiempo de Demora
+24/01/2019 14:31:58->Esperando un tiempo de Demora
+24/01/2019 14:31:58->Esperando un tiempo de Demora
+24/01/2019 14:31:58->Esperando un tiempo de Demora
+24/01/2019 14:31:58->Esperando un tiempo de Demora
+24/01/2019 14:31:58->Esperando un tiempo de Demora
+24/01/2019 14:31:58->Esperando un tiempo de Demora
+24/01/2019 14:31:58->Esperando un tiempo de Demora
+24/01/2019 14:31:58->Esperando un tiempo de Demora
+24/01/2019 14:31:58->Esperando un tiempo de Demora
+24/01/2019 14:31:58->Esperando un tiempo de Demora
+24/01/2019 14:31:58->Esperando un tiempo de Demora
+24/01/2019 14:31:58->Esperando un tiempo de Demora
+24/01/2019 14:31:58->Esperando un tiempo de Demora
+24/01/2019 14:31:58->Esperando un tiempo de Demora
+24/01/2019 14:31:58->Esperando un tiempo de Demora
+24/01/2019 14:31:58->Esperando un tiempo de Demora
+24/01/2019 14:31:58->Esperando un tiempo de Demora
+24/01/2019 14:31:58->Esperando un tiempo de Demora
+24/01/2019 14:31:58->Esperando un tiempo de Demora
+24/01/2019 14:31:59->Esperando un tiempo de Demora
+24/01/2019 14:31:59->Esperando un tiempo de Demora
+24/01/2019 14:31:59->Esperando un tiempo de Demora
+24/01/2019 14:31:59->Esperando un tiempo de Demora
+24/01/2019 14:31:59->Esperando un tiempo de Demora
+24/01/2019 14:31:59->Esperando un tiempo de Demora
+24/01/2019 14:31:59->Esperando un tiempo de Demora
+24/01/2019 14:31:59->Esperando un tiempo de Demora
+24/01/2019 14:31:59->Esperando un tiempo de Demora
+24/01/2019 14:31:59->Esperando un tiempo de Demora
+24/01/2019 14:31:59->Esperando un tiempo de Demora
+24/01/2019 14:31:59->Esperando un tiempo de Demora
+24/01/2019 14:31:59->Esperando un tiempo de Demora
+24/01/2019 14:31:59->Esperando un tiempo de Demora
+24/01/2019 14:31:59->Esperando un tiempo de Demora
+24/01/2019 14:31:59->Esperando un tiempo de Demora
+24/01/2019 14:31:59->Esperando un tiempo de Demora
+24/01/2019 14:31:59->Esperando un tiempo de Demora
+24/01/2019 14:31:59->Esperando un tiempo de Demora
+24/01/2019 14:31:59->Esperando un tiempo de Demora
+24/01/2019 14:31:59->Esperando un tiempo de Demora
+24/01/2019 14:31:59->Esperando un tiempo de Demora
+24/01/2019 14:31:59->Esperando un tiempo de Demora
+24/01/2019 14:31:59->Esperando un tiempo de Demora
+24/01/2019 14:31:59->Esperando un tiempo de Demora
+24/01/2019 14:32:00->Esperando un tiempo de Demora
+24/01/2019 14:32:00->Esperando un tiempo de Demora
+24/01/2019 14:32:00->Esperando un tiempo de Demora
+24/01/2019 14:32:00->Esperando un tiempo de Demora
+24/01/2019 14:32:00->Esperando un tiempo de Demora
+24/01/2019 14:32:00->Esperando un tiempo de Demora
+24/01/2019 14:32:00->Esperando un tiempo de Demora
+24/01/2019 14:32:00->Esperando un tiempo de Demora
+24/01/2019 14:32:00->Esperando un tiempo de Demora
+24/01/2019 14:32:00->Esperando un tiempo de Demora
+24/01/2019 14:32:00->Esperando un tiempo de Demora
+24/01/2019 14:32:00->Esperando un tiempo de Demora
+24/01/2019 14:32:00->Esperando un tiempo de Demora
+24/01/2019 14:32:00->Esperando un tiempo de Demora
+24/01/2019 14:32:00->Esperando un tiempo de Demora
+24/01/2019 14:32:00->Esperando un tiempo de Demora
+24/01/2019 14:32:00->Esperando un tiempo de Demora
+24/01/2019 14:32:00->Esperando un tiempo de Demora
+24/01/2019 14:32:00->Esperando un tiempo de Demora
+24/01/2019 14:32:00->Esperando un tiempo de Demora
+24/01/2019 14:32:00->Esperando un tiempo de Demora
+24/01/2019 14:32:00->Esperando un tiempo de Demora
+24/01/2019 14:32:00->Esperando un tiempo de Demora
+24/01/2019 14:32:00->Esperando un tiempo de Demora
+24/01/2019 14:32:00->Esperando un tiempo de Demora
+24/01/2019 14:32:00->Esperando un tiempo de Demora
+24/01/2019 14:32:01->Esperando un tiempo de Demora
+24/01/2019 14:32:01->Esperando un tiempo de Demora
+24/01/2019 14:32:01->Esperando un tiempo de Demora
+24/01/2019 14:32:01->Esperando un tiempo de Demora
+24/01/2019 14:32:01->Esperando un tiempo de Demora
+24/01/2019 14:32:01->Esperando un tiempo de Demora
+24/01/2019 14:32:01->Esperando un tiempo de Demora
+24/01/2019 14:32:01->Esperando un tiempo de Demora
+24/01/2019 14:32:01->Esperando un tiempo de Demora
+24/01/2019 14:32:01->Esperando un tiempo de Demora
+24/01/2019 14:32:01->Esperando un tiempo de Demora
+24/01/2019 14:32:01->Esperando un tiempo de Demora
+24/01/2019 14:32:01->Esperando un tiempo de Demora
+24/01/2019 14:32:01->Esperando un tiempo de Demora
+24/01/2019 14:32:01->Esperando un tiempo de Demora
+24/01/2019 14:32:01->Esperando un tiempo de Demora
+24/01/2019 14:32:02->Esperando un tiempo de Demora
+24/01/2019 14:32:02->Esperando un tiempo de Demora
+24/01/2019 14:32:02->Esperando un tiempo de Demora
+24/01/2019 14:32:02->Esperando un tiempo de Demora
+24/01/2019 14:32:02->Esperando un tiempo de Demora
+24/01/2019 14:32:02->Esperando un tiempo de Demora
+24/01/2019 14:32:02->Esperando un tiempo de Demora
+24/01/2019 14:32:02->Esperando un tiempo de Demora
+24/01/2019 14:32:02->Esperando un tiempo de Demora
+24/01/2019 14:32:02->Esperando un tiempo de Demora
+24/01/2019 14:32:02->Esperando un tiempo de Demora
+24/01/2019 14:32:02->Esperando un tiempo de Demora
+24/01/2019 14:32:02->Esperando un tiempo de Demora
+24/01/2019 14:32:02->Esperando un tiempo de Demora
+24/01/2019 14:32:02->Esperando un tiempo de Demora
+24/01/2019 14:32:02->Esperando un tiempo de Demora
+24/01/2019 14:32:02->Esperando un tiempo de Demora
+24/01/2019 14:32:02->Esperando un tiempo de Demora
+24/01/2019 14:32:02->Esperando un tiempo de Demora
+24/01/2019 14:32:02->Esperando un tiempo de Demora
+24/01/2019 14:32:02->Esperando un tiempo de Demora
+24/01/2019 14:32:02->Esperando un tiempo de Demora
+24/01/2019 14:32:02->Esperando un tiempo de Demora
+24/01/2019 14:32:02->Esperando un tiempo de Demora
+24/01/2019 14:32:03->Esperando un tiempo de Demora
+24/01/2019 14:32:03->Esperando un tiempo de Demora
+24/01/2019 14:32:03->Esperando un tiempo de Demora
+24/01/2019 14:32:03->Esperando un tiempo de Demora
+24/01/2019 14:32:03->Esperando un tiempo de Demora
+24/01/2019 14:32:03->Esperando un tiempo de Demora
+24/01/2019 14:32:03->Esperando un tiempo de Demora
+24/01/2019 14:32:03->Esperando un tiempo de Demora
+24/01/2019 14:32:03->Esperando un tiempo de Demora
+24/01/2019 14:32:03->Esperando un tiempo de Demora
+24/01/2019 14:32:03->Esperando un tiempo de Demora
+24/01/2019 14:32:03->Esperando un tiempo de Demora
+24/01/2019 14:32:03->Esperando un tiempo de Demora
+24/01/2019 14:32:03->Esperando un tiempo de Demora
+24/01/2019 14:32:03->Esperando un tiempo de Demora
+24/01/2019 14:32:03->Esperando un tiempo de Demora
+24/01/2019 14:32:03->Esperando un tiempo de Demora
+24/01/2019 14:32:03->Esperando un tiempo de Demora
+24/01/2019 14:32:03->Esperando un tiempo de Demora
+24/01/2019 14:32:03->Esperando un tiempo de Demora
+24/01/2019 14:32:03->Esperando un tiempo de Demora
+24/01/2019 14:32:03->Esperando un tiempo de Demora
+24/01/2019 14:32:03->Esperando un tiempo de Demora
+24/01/2019 14:32:03->Esperando un tiempo de Demora
+24/01/2019 14:32:04->Esperando un tiempo de Demora
+24/01/2019 14:32:04->Esperando un tiempo de Demora
+24/01/2019 14:32:04->Esperando un tiempo de Demora
+24/01/2019 14:32:04->Esperando un tiempo de Demora
+24/01/2019 14:32:04->Esperando un tiempo de Demora
+24/01/2019 14:32:04->Esperando un tiempo de Demora
+24/01/2019 14:32:04->Esperando un tiempo de Demora
+24/01/2019 14:32:04->Esperando un tiempo de Demora
+24/01/2019 14:32:04->Esperando un tiempo de Demora
+24/01/2019 14:32:04->Esperando un tiempo de Demora
+24/01/2019 14:32:04->Esperando un tiempo de Demora
+24/01/2019 14:32:04->Esperando un tiempo de Demora
+24/01/2019 14:32:04->Esperando un tiempo de Demora
+24/01/2019 14:32:04->Esperando un tiempo de Demora
+24/01/2019 14:32:04->Esperando un tiempo de Demora
+24/01/2019 14:32:04->Esperando un tiempo de Demora
+24/01/2019 14:32:04->Esperando un tiempo de Demora
+24/01/2019 14:32:04->Esperando un tiempo de Demora
+24/01/2019 14:32:04->Esperando un tiempo de Demora
+24/01/2019 14:32:04->Esperando un tiempo de Demora
+24/01/2019 14:32:04->Esperando un tiempo de Demora
+24/01/2019 14:32:04->Esperando un tiempo de Demora
+24/01/2019 14:32:04->Esperando un tiempo de Demora
+24/01/2019 14:32:04->Esperando un tiempo de Demora
+24/01/2019 14:32:04->Esperando un tiempo de Demora
+24/01/2019 14:32:05->Esperando un tiempo de Demora
+24/01/2019 14:32:05->Esperando un tiempo de Demora
+24/01/2019 14:32:05->Esperando un tiempo de Demora
+24/01/2019 14:32:05->Esperando un tiempo de Demora
+24/01/2019 14:32:05->Esperando un tiempo de Demora
+24/01/2019 14:32:05->Esperando un tiempo de Demora
+24/01/2019 14:32:05->Esperando un tiempo de Demora
+24/01/2019 14:32:05->Esperando un tiempo de Demora
+24/01/2019 14:32:05->Esperando un tiempo de Demora
+24/01/2019 14:32:05->Esperando un tiempo de Demora
+24/01/2019 14:32:05->Esperando un tiempo de Demora
+24/01/2019 14:32:05->Esperando un tiempo de Demora
+24/01/2019 14:32:05->Esperando un tiempo de Demora
+24/01/2019 14:32:05->Esperando un tiempo de Demora
+24/01/2019 14:32:05->Esperando un tiempo de Demora
+24/01/2019 14:32:05->Esperando un tiempo de Demora
+24/01/2019 14:32:05->Esperando un tiempo de Demora
+24/01/2019 14:32:05->Esperando un tiempo de Demora
+24/01/2019 14:32:05->Esperando un tiempo de Demora
+24/01/2019 14:32:05->Esperando un tiempo de Demora
+24/01/2019 14:32:05->Esperando un tiempo de Demora
+24/01/2019 14:32:05->Esperando un tiempo de Demora
+24/01/2019 14:32:05->Esperando un tiempo de Demora
+24/01/2019 14:32:06->Esperando un tiempo de Demora
+24/01/2019 14:32:06->Esperando un tiempo de Demora
+24/01/2019 14:32:06->Esperando un tiempo de Demora
+24/01/2019 14:32:06->Esperando un tiempo de Demora
+24/01/2019 14:32:06->Esperando un tiempo de Demora
+24/01/2019 14:32:06->Esperando un tiempo de Demora
+24/01/2019 14:32:06->Esperando un tiempo de Demora
+24/01/2019 14:32:06->Esperando un tiempo de Demora
+24/01/2019 14:32:06->Esperando un tiempo de Demora
+24/01/2019 14:32:06->Esperando un tiempo de Demora
+24/01/2019 14:32:06->Esperando un tiempo de Demora
+24/01/2019 14:32:06->Esperando un tiempo de Demora
+24/01/2019 14:32:06->Esperando un tiempo de Demora
+24/01/2019 14:32:06->Esperando un tiempo de Demora
+24/01/2019 14:32:06->Esperando un tiempo de Demora
+24/01/2019 14:32:06->Esperando un tiempo de Demora
+24/01/2019 14:32:06->Esperando un tiempo de Demora
+24/01/2019 14:32:06->Esperando un tiempo de Demora
+24/01/2019 14:32:06->Esperando un tiempo de Demora
+24/01/2019 14:32:06->Esperando un tiempo de Demora
+24/01/2019 14:32:06->Esperando un tiempo de Demora
+24/01/2019 14:32:06->Esperando un tiempo de Demora
+24/01/2019 14:32:06->Esperando un tiempo de Demora
+24/01/2019 14:32:06->Esperando un tiempo de Demora
+24/01/2019 14:32:07->Esperando un tiempo de Demora
+24/01/2019 14:32:07->Esperando un tiempo de Demora
+24/01/2019 14:32:07->Esperando un tiempo de Demora
+24/01/2019 14:32:07->Esperando un tiempo de Demora
+24/01/2019 14:32:07->Esperando un tiempo de Demora
+24/01/2019 14:32:07->Esperando un tiempo de Demora
+24/01/2019 14:32:07->Esperando un tiempo de Demora
+24/01/2019 14:32:07->Esperando un tiempo de Demora
+24/01/2019 14:32:07->Esperando un tiempo de Demora
+24/01/2019 14:32:07->Esperando un tiempo de Demora
+24/01/2019 14:32:07->Esperando un tiempo de Demora
+24/01/2019 14:32:07->Esperando un tiempo de Demora
+24/01/2019 14:32:07->Esperando un tiempo de Demora
+24/01/2019 14:32:07->Esperando un tiempo de Demora
+24/01/2019 14:32:07->Esperando un tiempo de Demora
+24/01/2019 14:32:07->Esperando un tiempo de Demora
+24/01/2019 14:32:07->Esperando un tiempo de Demora
+24/01/2019 14:32:07->Esperando un tiempo de Demora
+24/01/2019 14:32:07->Esperando un tiempo de Demora
+24/01/2019 14:32:07->Esperando un tiempo de Demora
+24/01/2019 14:32:07->Esperando un tiempo de Demora
+24/01/2019 14:32:07->Esperando un tiempo de Demora
+24/01/2019 14:32:07->Esperando un tiempo de Demora
+24/01/2019 14:32:08->Esperando un tiempo de Demora
+24/01/2019 14:32:08->Esperando un tiempo de Demora
+24/01/2019 14:32:08->Esperando un tiempo de Demora
+24/01/2019 14:32:08->Esperando un tiempo de Demora
+24/01/2019 14:32:08->Esperando un tiempo de Demora
+24/01/2019 14:32:08->Esperando un tiempo de Demora
+24/01/2019 14:32:08->Esperando un tiempo de Demora
+24/01/2019 14:32:08->Esperando un tiempo de Demora
+24/01/2019 14:32:08->Esperando un tiempo de Demora
+24/01/2019 14:32:08->Esperando un tiempo de Demora
+24/01/2019 14:32:08->Esperando un tiempo de Demora
+24/01/2019 14:32:08->Esperando un tiempo de Demora
+24/01/2019 14:32:08->Esperando un tiempo de Demora
+24/01/2019 14:32:08->Esperando un tiempo de Demora
+24/01/2019 14:32:08->Esperando un tiempo de Demora
+24/01/2019 14:32:08->Esperando un tiempo de Demora
+24/01/2019 14:32:08->Esperando un tiempo de Demora
+24/01/2019 14:32:08->Esperando un tiempo de Demora
+24/01/2019 14:32:08->Esperando un tiempo de Demora
+24/01/2019 14:32:09->Esperando un tiempo de Demora
+24/01/2019 14:32:09->Esperando un tiempo de Demora
+24/01/2019 14:32:09->Esperando un tiempo de Demora
+24/01/2019 14:32:09->Esperando un tiempo de Demora
+24/01/2019 14:32:09->Esperando un tiempo de Demora
+24/01/2019 14:32:09->Esperando un tiempo de Demora
+24/01/2019 14:32:09->Esperando un tiempo de Demora
+24/01/2019 14:32:09->Esperando un tiempo de Demora
+24/01/2019 14:32:09->Esperando un tiempo de Demora
+24/01/2019 14:32:09->Esperando un tiempo de Demora
+24/01/2019 14:32:09->Esperando un tiempo de Demora
+24/01/2019 14:32:09->Esperando un tiempo de Demora
+24/01/2019 14:32:09->Esperando un tiempo de Demora
+24/01/2019 14:32:09->Esperando un tiempo de Demora
+24/01/2019 14:32:09->Esperando un tiempo de Demora
+24/01/2019 14:32:09->Esperando un tiempo de Demora
+24/01/2019 14:32:09->Esperando un tiempo de Demora
+24/01/2019 14:32:09->Esperando un tiempo de Demora
+24/01/2019 14:32:09->Esperando un tiempo de Demora
+24/01/2019 14:32:09->Esperando un tiempo de Demora
+24/01/2019 14:32:09->Esperando un tiempo de Demora
+24/01/2019 14:32:09->Esperando un tiempo de Demora
+24/01/2019 14:32:09->Esperando un tiempo de Demora
+24/01/2019 14:32:10->Esperando un tiempo de Demora
+24/01/2019 14:32:10->Esperando un tiempo de Demora
+24/01/2019 14:32:10->Esperando un tiempo de Demora
+24/01/2019 14:32:10->Esperando un tiempo de Demora
+24/01/2019 14:32:10->Esperando un tiempo de Demora
+24/01/2019 14:32:10->Esperando un tiempo de Demora
+24/01/2019 14:32:10->Esperando un tiempo de Demora
+24/01/2019 14:32:10->Esperando un tiempo de Demora
+24/01/2019 14:32:10->Esperando un tiempo de Demora
+24/01/2019 14:32:10->Esperando un tiempo de Demora
+24/01/2019 14:32:10->Esperando un tiempo de Demora
+24/01/2019 14:32:10->Esperando un tiempo de Demora
+24/01/2019 14:32:10->Esperando un tiempo de Demora
+24/01/2019 14:32:10->Esperando un tiempo de Demora
+24/01/2019 14:32:10->Esperando un tiempo de Demora
+24/01/2019 14:32:10->Esperando un tiempo de Demora
+24/01/2019 14:32:10->Esperando un tiempo de Demora
+24/01/2019 14:32:10->Esperando un tiempo de Demora
+24/01/2019 14:32:10->Esperando un tiempo de Demora
+24/01/2019 14:32:10->Esperando un tiempo de Demora
+24/01/2019 14:32:10->Esperando un tiempo de Demora
+24/01/2019 14:32:10->Esperando un tiempo de Demora
+24/01/2019 14:32:10->Esperando un tiempo de Demora
+24/01/2019 14:32:10->Esperando un tiempo de Demora
+24/01/2019 14:32:11->Esperando un tiempo de Demora
+24/01/2019 14:32:11->Esperando un tiempo de Demora
+24/01/2019 14:32:11->Esperando un tiempo de Demora
+24/01/2019 14:32:11->Esperando un tiempo de Demora
+24/01/2019 14:32:11->Esperando un tiempo de Demora
+24/01/2019 14:32:11->Esperando un tiempo de Demora
+24/01/2019 14:32:11->Esperando un tiempo de Demora
+24/01/2019 14:32:11->Esperando un tiempo de Demora
+24/01/2019 14:32:11->Esperando un tiempo de Demora
+24/01/2019 14:32:11->Esperando un tiempo de Demora
+24/01/2019 14:32:11->Esperando un tiempo de Demora
+24/01/2019 14:32:11->Esperando un tiempo de Demora
+24/01/2019 14:32:11->Esperando un tiempo de Demora
+24/01/2019 14:32:11->Esperando un tiempo de Demora
+24/01/2019 14:32:11->Esperando un tiempo de Demora
+24/01/2019 14:32:11->Esperando un tiempo de Demora
+24/01/2019 14:32:11->Esperando un tiempo de Demora
+24/01/2019 14:32:11->Esperando un tiempo de Demora
+24/01/2019 14:32:11->Esperando un tiempo de Demora
+24/01/2019 14:32:11->Esperando un tiempo de Demora
+24/01/2019 14:32:11->Esperando un tiempo de Demora
+24/01/2019 14:32:11->Esperando un tiempo de Demora
+24/01/2019 14:32:12->Esperando un tiempo de Demora
+24/01/2019 14:32:12->Esperando un tiempo de Demora
+24/01/2019 14:32:12->Esperando un tiempo de Demora
+24/01/2019 14:32:12->Esperando un tiempo de Demora
+24/01/2019 14:32:12->Esperando un tiempo de Demora
+24/01/2019 14:32:12->Esperando un tiempo de Demora
+24/01/2019 14:32:12->Esperando un tiempo de Demora
+24/01/2019 14:32:12->Esperando un tiempo de Demora
+24/01/2019 14:32:12->Esperando un tiempo de Demora
+24/01/2019 14:32:12->Esperando un tiempo de Demora
+24/01/2019 14:32:12->Esperando un tiempo de Demora
+24/01/2019 14:32:12->Esperando un tiempo de Demora
+24/01/2019 14:32:12->Esperando un tiempo de Demora
+24/01/2019 14:32:12->Esperando un tiempo de Demora
+24/01/2019 14:32:12->Esperando un tiempo de Demora
+24/01/2019 14:32:12->Esperando un tiempo de Demora
+24/01/2019 14:32:12->Esperando un tiempo de Demora
+24/01/2019 14:32:12->Esperando un tiempo de Demora
+24/01/2019 14:32:12->Esperando un tiempo de Demora
+24/01/2019 14:32:12->Esperando un tiempo de Demora
+24/01/2019 14:32:12->Esperando un tiempo de Demora
+24/01/2019 14:32:12->Esperando un tiempo de Demora
+24/01/2019 14:32:12->Esperando un tiempo de Demora
+24/01/2019 14:32:12->Esperando un tiempo de Demora
+24/01/2019 14:32:13->Esperando un tiempo de Demora
+24/01/2019 14:32:13->Esperando un tiempo de Demora
+24/01/2019 14:32:13->Esperando un tiempo de Demora
+24/01/2019 14:32:13->Esperando un tiempo de Demora
+24/01/2019 14:32:13->Esperando un tiempo de Demora
+24/01/2019 14:32:13->Esperando un tiempo de Demora
+24/01/2019 14:32:13->Esperando un tiempo de Demora
+24/01/2019 14:32:13->Esperando un tiempo de Demora
+24/01/2019 14:32:13->Esperando un tiempo de Demora
+24/01/2019 14:32:13->Esperando un tiempo de Demora
+24/01/2019 14:32:13->Esperando un tiempo de Demora
+24/01/2019 14:32:13->Esperando un tiempo de Demora
+24/01/2019 14:32:13->Esperando un tiempo de Demora
+24/01/2019 14:32:13->Esperando un tiempo de Demora
+24/01/2019 14:32:13->Esperando un tiempo de Demora
+24/01/2019 14:32:13->Esperando un tiempo de Demora
+24/01/2019 14:32:13->Esperando un tiempo de Demora
+24/01/2019 14:32:13->Esperando un tiempo de Demora
+24/01/2019 14:32:13->Esperando un tiempo de Demora
+24/01/2019 14:32:13->Esperando un tiempo de Demora
+24/01/2019 14:32:13->Esperando un tiempo de Demora
+24/01/2019 14:32:13->Esperando un tiempo de Demora
+24/01/2019 14:32:13->Esperando un tiempo de Demora
+24/01/2019 14:32:14->Esperando un tiempo de Demora
+24/01/2019 14:32:14->Esperando un tiempo de Demora
+24/01/2019 14:32:14->Esperando un tiempo de Demora
+24/01/2019 14:32:14->Esperando un tiempo de Demora
+24/01/2019 14:32:14->Esperando un tiempo de Demora
+24/01/2019 14:32:14->Esperando un tiempo de Demora
+24/01/2019 14:32:14->Esperando un tiempo de Demora
+24/01/2019 14:32:14->Esperando un tiempo de Demora
+24/01/2019 14:32:14->Esperando un tiempo de Demora
+24/01/2019 14:32:14->Esperando un tiempo de Demora
+24/01/2019 14:32:14->Esperando un tiempo de Demora
+24/01/2019 14:32:14->Esperando un tiempo de Demora
+24/01/2019 14:32:14->Esperando un tiempo de Demora
+24/01/2019 14:32:14->Esperando un tiempo de Demora
+24/01/2019 14:32:14->Esperando un tiempo de Demora
+24/01/2019 14:32:14->Esperando un tiempo de Demora
+24/01/2019 14:32:14->Esperando un tiempo de Demora
+24/01/2019 14:32:14->Esperando un tiempo de Demora
+24/01/2019 14:32:14->Esperando un tiempo de Demora
+24/01/2019 14:32:14->Esperando un tiempo de Demora
+24/01/2019 14:32:14->Esperando un tiempo de Demora
+24/01/2019 14:32:14->Esperando un tiempo de Demora
+24/01/2019 14:32:14->Esperando un tiempo de Demora
+24/01/2019 14:32:15->Esperando un tiempo de Demora
+24/01/2019 14:32:15->Esperando un tiempo de Demora
+24/01/2019 14:32:15->Esperando un tiempo de Demora
+24/01/2019 14:32:15->Esperando un tiempo de Demora
+24/01/2019 14:32:15->Esperando un tiempo de Demora
+24/01/2019 14:32:15->Esperando un tiempo de Demora
+24/01/2019 14:32:15->Esperando un tiempo de Demora
+24/01/2019 14:32:15->Esperando un tiempo de Demora
+24/01/2019 14:32:15->Esperando un tiempo de Demora
+24/01/2019 14:32:15->Esperando un tiempo de Demora
+24/01/2019 14:32:15->Esperando un tiempo de Demora
+24/01/2019 14:32:15->Esperando un tiempo de Demora
+24/01/2019 14:32:15->Esperando un tiempo de Demora
+24/01/2019 14:32:15->Esperando un tiempo de Demora
+24/01/2019 14:32:15->Esperando un tiempo de Demora
+24/01/2019 14:32:15->Esperando un tiempo de Demora
+24/01/2019 14:32:15->Esperando un tiempo de Demora
+24/01/2019 14:32:15->Esperando un tiempo de Demora
+24/01/2019 14:32:15->Esperando un tiempo de Demora
+24/01/2019 14:32:15->Esperando un tiempo de Demora
+24/01/2019 14:32:15->Esperando un tiempo de Demora
+24/01/2019 14:32:15->Esperando un tiempo de Demora
+24/01/2019 14:32:16->Esperando un tiempo de Demora
+24/01/2019 14:32:16->Esperando un tiempo de Demora
+24/01/2019 14:32:16->Esperando un tiempo de Demora
+24/01/2019 14:32:16->Esperando un tiempo de Demora
+24/01/2019 14:32:16->Esperando un tiempo de Demora
+24/01/2019 14:32:16->Esperando un tiempo de Demora
+24/01/2019 14:32:16->Esperando un tiempo de Demora
+24/01/2019 14:32:16->Esperando un tiempo de Demora
+24/01/2019 14:32:16->Esperando un tiempo de Demora
+24/01/2019 14:32:16->Esperando un tiempo de Demora
+24/01/2019 14:32:16->Esperando un tiempo de Demora
+24/01/2019 14:32:16->Esperando un tiempo de Demora
+24/01/2019 14:32:16->Esperando un tiempo de Demora
+24/01/2019 14:32:16->Esperando un tiempo de Demora
+24/01/2019 14:32:16->Esperando un tiempo de Demora
+24/01/2019 14:32:16->Esperando un tiempo de Demora
+24/01/2019 14:32:16->Esperando un tiempo de Demora
+24/01/2019 14:32:16->Esperando un tiempo de Demora
+24/01/2019 14:32:16->Esperando un tiempo de Demora
+24/01/2019 14:32:16->Esperando un tiempo de Demora
+24/01/2019 14:32:16->Esperando un tiempo de Demora
+24/01/2019 14:32:16->Esperando un tiempo de Demora
+24/01/2019 14:32:16->Esperando un tiempo de Demora
+24/01/2019 14:32:17->Esperando un tiempo de Demora
+24/01/2019 14:32:17->Esperando un tiempo de Demora
+24/01/2019 14:32:17->Esperando un tiempo de Demora
+24/01/2019 14:32:17->Esperando un tiempo de Demora
+24/01/2019 14:32:17->Esperando un tiempo de Demora
+24/01/2019 14:32:17->Esperando un tiempo de Demora
+24/01/2019 14:32:17->Esperando un tiempo de Demora
+24/01/2019 14:32:17->Esperando un tiempo de Demora
+24/01/2019 14:32:17->Esperando un tiempo de Demora
+24/01/2019 14:32:17->Esperando un tiempo de Demora
+24/01/2019 14:32:17->Esperando un tiempo de Demora
+24/01/2019 14:32:17->Esperando un tiempo de Demora
+24/01/2019 14:32:17->Esperando un tiempo de Demora
+24/01/2019 14:32:17->Esperando un tiempo de Demora
+24/01/2019 14:32:17->Esperando un tiempo de Demora
+24/01/2019 14:32:17->Esperando un tiempo de Demora
+24/01/2019 14:32:17->Esperando un tiempo de Demora
+24/01/2019 14:32:17->Esperando un tiempo de Demora
+24/01/2019 14:32:17->Esperando un tiempo de Demora
+24/01/2019 14:32:17->Esperando un tiempo de Demora
+24/01/2019 14:32:18->Esperando un tiempo de Demora
+24/01/2019 14:32:18->Esperando un tiempo de Demora
+24/01/2019 14:32:18->Esperando un tiempo de Demora
+24/01/2019 14:32:18->Esperando un tiempo de Demora
+24/01/2019 14:32:18->Esperando un tiempo de Demora
+24/01/2019 14:32:18->Esperando un tiempo de Demora
+24/01/2019 14:32:18->Esperando un tiempo de Demora
+24/01/2019 14:32:18->Esperando un tiempo de Demora
+24/01/2019 14:32:18->Esperando un tiempo de Demora
+24/01/2019 14:32:18->Esperando un tiempo de Demora
+24/01/2019 14:32:18->Esperando un tiempo de Demora
+24/01/2019 14:32:18->Esperando un tiempo de Demora
+24/01/2019 14:32:18->Esperando un tiempo de Demora
+24/01/2019 14:32:18->Esperando un tiempo de Demora
+24/01/2019 14:32:19->Esperando un tiempo de Demora
+24/01/2019 14:32:19->Esperando un tiempo de Demora
+24/01/2019 14:32:19->Esperando un tiempo de Demora
+24/01/2019 14:32:19->Esperando un tiempo de Demora
+24/01/2019 14:32:19->Esperando un tiempo de Demora
+24/01/2019 14:32:19->Esperando un tiempo de Demora
+24/01/2019 14:32:19->Esperando un tiempo de Demora
+24/01/2019 14:32:19->Esperando un tiempo de Demora
+24/01/2019 14:32:19->Esperando un tiempo de Demora
+24/01/2019 14:32:19->Esperando un tiempo de Demora
+24/01/2019 14:32:19->Esperando un tiempo de Demora
+24/01/2019 14:32:19->Esperando un tiempo de Demora
+24/01/2019 14:32:19->Esperando un tiempo de Demora
+24/01/2019 14:32:19->Esperando un tiempo de Demora
+24/01/2019 14:32:19->Esperando un tiempo de Demora
+24/01/2019 14:32:19->Esperando un tiempo de Demora
+24/01/2019 14:32:19->Esperando un tiempo de Demora
+24/01/2019 14:32:19->Esperando un tiempo de Demora
+24/01/2019 14:32:19->Esperando un tiempo de Demora
+24/01/2019 14:32:19->Esperando un tiempo de Demora
+24/01/2019 14:32:20->Esperando un tiempo de Demora
+24/01/2019 14:32:20->Esperando un tiempo de Demora
+24/01/2019 14:32:20->Esperando un tiempo de Demora
+24/01/2019 14:32:20->Esperando un tiempo de Demora
+24/01/2019 14:32:20->Esperando un tiempo de Demora
+24/01/2019 14:32:20->Esperando un tiempo de Demora
+24/01/2019 14:32:20->Esperando un tiempo de Demora
+24/01/2019 14:32:20->Esperando un tiempo de Demora
+24/01/2019 14:32:20->Esperando un tiempo de Demora
+24/01/2019 14:32:20->Esperando un tiempo de Demora
+24/01/2019 14:32:20->Esperando un tiempo de Demora
+24/01/2019 14:32:20->Esperando un tiempo de Demora
+24/01/2019 14:32:20->Esperando un tiempo de Demora
+24/01/2019 14:32:20->Esperando un tiempo de Demora
+24/01/2019 14:32:20->Esperando un tiempo de Demora
+24/01/2019 14:32:20->Esperando un tiempo de Demora
+24/01/2019 14:32:20->Esperando un tiempo de Demora
+24/01/2019 14:32:20->Esperando un tiempo de Demora
+24/01/2019 14:32:20->Esperando un tiempo de Demora
+24/01/2019 14:32:20->Esperando un tiempo de Demora
+24/01/2019 14:32:20->Esperando un tiempo de Demora
+24/01/2019 14:32:20->Esperando un tiempo de Demora
+24/01/2019 14:32:21->Esperando un tiempo de Demora
+24/01/2019 14:32:21->Esperando un tiempo de Demora
+24/01/2019 14:32:21->Esperando un tiempo de Demora
+24/01/2019 14:32:21->Esperando un tiempo de Demora
+24/01/2019 14:32:21->Esperando un tiempo de Demora
+24/01/2019 14:32:21->Esperando un tiempo de Demora
+24/01/2019 14:32:21->Esperando un tiempo de Demora
+24/01/2019 14:32:21->Esperando un tiempo de Demora
+24/01/2019 14:32:21->Esperando un tiempo de Demora
+24/01/2019 14:32:21->Esperando un tiempo de Demora
+24/01/2019 14:32:21->Esperando un tiempo de Demora
+24/01/2019 14:32:21->Esperando un tiempo de Demora
+24/01/2019 14:32:21->Esperando un tiempo de Demora
+24/01/2019 14:32:21->Esperando un tiempo de Demora
+24/01/2019 14:32:21->Esperando un tiempo de Demora
+24/01/2019 14:32:21->Esperando un tiempo de Demora
+24/01/2019 14:32:21->Esperando un tiempo de Demora
+24/01/2019 14:32:21->Esperando un tiempo de Demora
+24/01/2019 14:32:21->Esperando un tiempo de Demora
+24/01/2019 14:32:21->Esperando un tiempo de Demora
+24/01/2019 14:32:21->Esperando un tiempo de Demora
+24/01/2019 14:32:21->Esperando un tiempo de Demora
+24/01/2019 14:32:22->Esperando un tiempo de Demora
+24/01/2019 14:32:22->Esperando un tiempo de Demora
+24/01/2019 14:32:22->Esperando un tiempo de Demora
+24/01/2019 14:32:22->Esperando un tiempo de Demora
+24/01/2019 14:32:22->Esperando un tiempo de Demora
+24/01/2019 14:32:22->Esperando un tiempo de Demora
+24/01/2019 14:32:22->Esperando un tiempo de Demora
+24/01/2019 14:32:22->Esperando un tiempo de Demora
+24/01/2019 14:32:22->Esperando un tiempo de Demora
+24/01/2019 14:32:22->Esperando un tiempo de Demora
+24/01/2019 14:32:22->Esperando un tiempo de Demora
+24/01/2019 14:32:22->Esperando un tiempo de Demora
+24/01/2019 14:32:22->Esperando un tiempo de Demora
+24/01/2019 14:32:22->Esperando un tiempo de Demora
+24/01/2019 14:32:22->Esperando un tiempo de Demora
+24/01/2019 14:32:22->Esperando un tiempo de Demora
+24/01/2019 14:32:22->Esperando un tiempo de Demora
+24/01/2019 14:32:23->Esperando un tiempo de Demora
+24/01/2019 14:32:23->Esperando un tiempo de Demora
+24/01/2019 14:32:23->Esperando un tiempo de Demora
+24/01/2019 14:32:23->Esperando un tiempo de Demora
+24/01/2019 14:32:23->Esperando un tiempo de Demora
+24/01/2019 14:32:23->Esperando un tiempo de Demora
+24/01/2019 14:32:23->Esperando un tiempo de Demora
+24/01/2019 14:32:23->Esperando un tiempo de Demora
+24/01/2019 14:32:23->Esperando un tiempo de Demora
+24/01/2019 14:32:23->Esperando un tiempo de Demora
+24/01/2019 14:32:23->Esperando un tiempo de Demora
+24/01/2019 14:32:23->Esperando un tiempo de Demora
+24/01/2019 14:32:23->Esperando un tiempo de Demora
+24/01/2019 14:32:23->Esperando un tiempo de Demora
+24/01/2019 14:32:23->Esperando un tiempo de Demora
+24/01/2019 14:32:23->Esperando un tiempo de Demora
+24/01/2019 14:32:23->Esperando un tiempo de Demora
+24/01/2019 14:32:24->Esperando un tiempo de Demora
+24/01/2019 14:32:24->Esperando un tiempo de Demora
+24/01/2019 14:32:24->Esperando un tiempo de Demora
+24/01/2019 14:32:24->Esperando un tiempo de Demora
+24/01/2019 14:32:24->Esperando un tiempo de Demora
+24/01/2019 14:32:24->Esperando un tiempo de Demora
+24/01/2019 14:32:24->Esperando un tiempo de Demora
+24/01/2019 14:32:24->Esperando un tiempo de Demora
+24/01/2019 14:32:24->Esperando un tiempo de Demora
+24/01/2019 14:32:24->Esperando un tiempo de Demora
+24/01/2019 14:32:24->Esperando un tiempo de Demora
+24/01/2019 14:32:24->Esperando un tiempo de Demora
+24/01/2019 14:32:24->Esperando un tiempo de Demora
+24/01/2019 14:32:24->Esperando un tiempo de Demora
+24/01/2019 14:32:24->Esperando un tiempo de Demora
+24/01/2019 14:32:24->Esperando un tiempo de Demora
+24/01/2019 14:32:24->Esperando un tiempo de Demora
+24/01/2019 14:32:24->Esperando un tiempo de Demora
+24/01/2019 14:32:24->Esperando un tiempo de Demora
+24/01/2019 14:32:24->Esperando un tiempo de Demora
+24/01/2019 14:32:24->Esperando un tiempo de Demora
+24/01/2019 14:32:24->Esperando un tiempo de Demora
+24/01/2019 14:32:25->Esperando un tiempo de Demora
+24/01/2019 14:32:25->Esperando un tiempo de Demora
+24/01/2019 14:32:25->Esperando un tiempo de Demora
+24/01/2019 14:32:25->Esperando un tiempo de Demora
+24/01/2019 14:32:25->Esperando un tiempo de Demora
+24/01/2019 14:32:25->Esperando un tiempo de Demora
+24/01/2019 14:32:25->Esperando un tiempo de Demora
+24/01/2019 14:32:25->Esperando un tiempo de Demora
+24/01/2019 14:32:25->Esperando un tiempo de Demora
+24/01/2019 14:32:25->Esperando un tiempo de Demora
+24/01/2019 14:32:25->Esperando un tiempo de Demora
+24/01/2019 14:32:25->Esperando un tiempo de Demora
+24/01/2019 14:32:25->Esperando un tiempo de Demora
+24/01/2019 14:32:25->Esperando un tiempo de Demora
+24/01/2019 14:32:25->Esperando un tiempo de Demora
+24/01/2019 14:32:25->Esperando un tiempo de Demora
+24/01/2019 14:32:25->Esperando un tiempo de Demora
+24/01/2019 14:32:25->Esperando un tiempo de Demora
+24/01/2019 14:32:25->Esperando un tiempo de Demora
+24/01/2019 14:32:25->Esperando un tiempo de Demora
+24/01/2019 14:32:25->Esperando un tiempo de Demora
+24/01/2019 14:32:25->Esperando un tiempo de Demora
+24/01/2019 14:32:26->Esperando un tiempo de Demora
+24/01/2019 14:32:26->Esperando un tiempo de Demora
+24/01/2019 14:32:26->Esperando un tiempo de Demora
+24/01/2019 14:32:26->Esperando un tiempo de Demora
+24/01/2019 14:32:26->Esperando un tiempo de Demora
+24/01/2019 14:32:26->Esperando un tiempo de Demora
+24/01/2019 14:32:26->Esperando un tiempo de Demora
+24/01/2019 14:32:26->Esperando un tiempo de Demora
+24/01/2019 14:32:26->Esperando un tiempo de Demora
+24/01/2019 14:32:26->Esperando un tiempo de Demora
+24/01/2019 14:32:26->Esperando un tiempo de Demora
+24/01/2019 14:32:26->Esperando un tiempo de Demora
+24/01/2019 14:32:26->Esperando un tiempo de Demora
+24/01/2019 14:32:26->Esperando un tiempo de Demora
+24/01/2019 14:32:26->Esperando un tiempo de Demora
+24/01/2019 14:32:26->Esperando un tiempo de Demora
+24/01/2019 14:32:26->Esperando un tiempo de Demora
+24/01/2019 14:32:26->Esperando un tiempo de Demora
+24/01/2019 14:32:26->Esperando un tiempo de Demora
+24/01/2019 14:32:26->Esperando un tiempo de Demora
+24/01/2019 14:32:26->Esperando un tiempo de Demora
+24/01/2019 14:32:27->Esperando un tiempo de Demora
+24/01/2019 14:32:27->Esperando un tiempo de Demora
+24/01/2019 14:32:27->Esperando un tiempo de Demora
+24/01/2019 14:32:27->Esperando un tiempo de Demora
+24/01/2019 14:32:27->Esperando un tiempo de Demora
+24/01/2019 14:32:27->Esperando un tiempo de Demora
+24/01/2019 14:32:27->Esperando un tiempo de Demora
+24/01/2019 14:32:27->Esperando un tiempo de Demora
+24/01/2019 14:32:27->Esperando un tiempo de Demora
+24/01/2019 14:32:27->Esperando un tiempo de Demora
+24/01/2019 14:32:27->Esperando un tiempo de Demora
+24/01/2019 14:32:27->Esperando un tiempo de Demora
+24/01/2019 14:32:27->Esperando un tiempo de Demora
+24/01/2019 14:32:27->Esperando un tiempo de Demora
+24/01/2019 14:32:27->Esperando un tiempo de Demora
+24/01/2019 14:32:27->Esperando un tiempo de Demora
+24/01/2019 14:32:27->Esperando un tiempo de Demora
+24/01/2019 14:32:27->Esperando un tiempo de Demora
+24/01/2019 14:32:27->Esperando un tiempo de Demora
+24/01/2019 14:32:27->Esperando un tiempo de Demora
+24/01/2019 14:32:27->Esperando un tiempo de Demora
+24/01/2019 14:32:28->Esperando un tiempo de Demora
+24/01/2019 14:32:28->Esperando un tiempo de Demora
+24/01/2019 14:32:28->Esperando un tiempo de Demora
+24/01/2019 14:32:28->Esperando un tiempo de Demora
+24/01/2019 14:32:28->Esperando un tiempo de Demora
+24/01/2019 14:32:28->Esperando un tiempo de Demora
+24/01/2019 14:32:28->Esperando un tiempo de Demora
+24/01/2019 14:32:28->Esperando un tiempo de Demora
+24/01/2019 14:32:28->Esperando un tiempo de Demora
+24/01/2019 14:32:28->Esperando un tiempo de Demora
+24/01/2019 14:32:28->Esperando un tiempo de Demora
+24/01/2019 14:32:28->Esperando un tiempo de Demora
+24/01/2019 14:32:28->Esperando un tiempo de Demora
+24/01/2019 14:32:28->Esperando un tiempo de Demora
+24/01/2019 14:32:28->Esperando un tiempo de Demora
+24/01/2019 14:32:28->Esperando un tiempo de Demora
+24/01/2019 14:32:28->Esperando un tiempo de Demora
+24/01/2019 14:32:28->Esperando un tiempo de Demora
+24/01/2019 14:32:28->Esperando un tiempo de Demora
+24/01/2019 14:32:28->Esperando un tiempo de Demora
+24/01/2019 14:32:28->Esperando un tiempo de Demora
+24/01/2019 14:32:29->Esperando un tiempo de Demora
+24/01/2019 14:32:29->Esperando un tiempo de Demora
+24/01/2019 14:32:29->Esperando un tiempo de Demora
+24/01/2019 14:32:29->Esperando un tiempo de Demora
+24/01/2019 14:32:29->Esperando un tiempo de Demora
+24/01/2019 14:32:29->Esperando un tiempo de Demora
+24/01/2019 14:32:29->Esperando un tiempo de Demora
+24/01/2019 14:32:29->Esperando un tiempo de Demora
+24/01/2019 14:32:29->Esperando un tiempo de Demora
+24/01/2019 14:32:29->Esperando un tiempo de Demora
+24/01/2019 14:32:29->Esperando un tiempo de Demora
+24/01/2019 14:32:29->Esperando un tiempo de Demora
+24/01/2019 14:32:29->Esperando un tiempo de Demora
+24/01/2019 14:32:29->Esperando un tiempo de Demora
+24/01/2019 14:32:29->Esperando un tiempo de Demora
+24/01/2019 14:32:29->Esperando un tiempo de Demora
+24/01/2019 14:32:29->Esperando un tiempo de Demora
+24/01/2019 14:32:29->Esperando un tiempo de Demora
+24/01/2019 14:32:29->Esperando un tiempo de Demora
+24/01/2019 14:32:29->Esperando un tiempo de Demora
+24/01/2019 14:32:29->Esperando un tiempo de Demora
+24/01/2019 14:32:30->Esperando un tiempo de Demora
+24/01/2019 14:32:30->Esperando un tiempo de Demora
+24/01/2019 14:32:30->Esperando un tiempo de Demora
+24/01/2019 14:32:30->Esperando un tiempo de Demora
+24/01/2019 14:32:30->Esperando un tiempo de Demora
+24/01/2019 14:32:30->Esperando un tiempo de Demora
+24/01/2019 14:32:30->Esperando un tiempo de Demora
+24/01/2019 14:32:30->Esperando un tiempo de Demora
+24/01/2019 14:32:30->Esperando un tiempo de Demora
+24/01/2019 14:32:30->Esperando un tiempo de Demora
+24/01/2019 14:32:30->Esperando un tiempo de Demora
+24/01/2019 14:32:30->Esperando un tiempo de Demora
+24/01/2019 14:32:30->Esperando un tiempo de Demora
+24/01/2019 14:32:30->Esperando un tiempo de Demora
+24/01/2019 14:32:30->Esperando un tiempo de Demora
+24/01/2019 14:32:30->Esperando un tiempo de Demora
+24/01/2019 14:32:30->Esperando un tiempo de Demora
+24/01/2019 14:32:30->Esperando un tiempo de Demora
+24/01/2019 14:32:30->Esperando un tiempo de Demora
+24/01/2019 14:32:31->Esperando un tiempo de Demora
+24/01/2019 14:32:31->Esperando un tiempo de Demora
+24/01/2019 14:32:31->Esperando un tiempo de Demora
+24/01/2019 14:32:31->Esperando un tiempo de Demora
+24/01/2019 14:32:31->Esperando un tiempo de Demora
+24/01/2019 14:32:31->Esperando un tiempo de Demora
+24/01/2019 14:32:31->Esperando un tiempo de Demora
+24/01/2019 14:32:31->Esperando un tiempo de Demora
+24/01/2019 14:32:31->Esperando un tiempo de Demora
+24/01/2019 14:32:31->Esperando un tiempo de Demora
+24/01/2019 14:32:31->Esperando un tiempo de Demora
+24/01/2019 14:32:31->Esperando un tiempo de Demora
+24/01/2019 14:32:31->Esperando un tiempo de Demora
+24/01/2019 14:32:31->Esperando un tiempo de Demora
+24/01/2019 14:32:31->Esperando un tiempo de Demora
+24/01/2019 14:32:31->Esperando un tiempo de Demora
+24/01/2019 14:32:31->Esperando un tiempo de Demora
+24/01/2019 14:32:31->Esperando un tiempo de Demora
+24/01/2019 14:32:31->Esperando un tiempo de Demora
+24/01/2019 14:32:31->Esperando un tiempo de Demora
+24/01/2019 14:32:32->Esperando un tiempo de Demora
+24/01/2019 14:32:32->Esperando un tiempo de Demora
+24/01/2019 14:32:32->Esperando un tiempo de Demora
+24/01/2019 14:32:32->Esperando un tiempo de Demora
+24/01/2019 14:32:32->Esperando un tiempo de Demora
+24/01/2019 14:32:32->Esperando un tiempo de Demora
+24/01/2019 14:32:32->Esperando un tiempo de Demora
+24/01/2019 14:32:32->Esperando un tiempo de Demora
+24/01/2019 14:32:32->Esperando un tiempo de Demora
+24/01/2019 14:32:32->Esperando un tiempo de Demora
+24/01/2019 14:32:32->Esperando un tiempo de Demora
+24/01/2019 14:32:32->Esperando un tiempo de Demora
+24/01/2019 14:32:32->Esperando un tiempo de Demora
+24/01/2019 14:32:32->Esperando un tiempo de Demora
+24/01/2019 14:32:32->Esperando un tiempo de Demora
+24/01/2019 14:32:32->Esperando un tiempo de Demora
+24/01/2019 14:32:32->Esperando un tiempo de Demora
+24/01/2019 14:32:32->Esperando un tiempo de Demora
+24/01/2019 14:32:32->Esperando un tiempo de Demora
+24/01/2019 14:32:33->Esperando un tiempo de Demora
+24/01/2019 14:32:33->Esperando un tiempo de Demora
+24/01/2019 14:32:33->Esperando un tiempo de Demora
+24/01/2019 14:32:33->Esperando un tiempo de Demora
+24/01/2019 14:32:33->Esperando un tiempo de Demora
+24/01/2019 14:32:33->Esperando un tiempo de Demora
+24/01/2019 14:32:33->Esperando un tiempo de Demora
+24/01/2019 14:32:33->Esperando un tiempo de Demora
+24/01/2019 14:32:33->Esperando un tiempo de Demora
+24/01/2019 14:32:33->Esperando un tiempo de Demora
+24/01/2019 14:32:33->Esperando un tiempo de Demora
+24/01/2019 14:32:33->Esperando un tiempo de Demora
+24/01/2019 14:32:33->Esperando un tiempo de Demora
+24/01/2019 14:32:33->Esperando un tiempo de Demora
+24/01/2019 14:32:33->Esperando un tiempo de Demora
+24/01/2019 14:32:33->Esperando un tiempo de Demora
+24/01/2019 14:32:33->Esperando un tiempo de Demora
+24/01/2019 14:32:34->Esperando un tiempo de Demora
+24/01/2019 14:32:34->Esperando un tiempo de Demora
+24/01/2019 14:32:34->Esperando un tiempo de Demora
+24/01/2019 14:32:34->Esperando un tiempo de Demora
+24/01/2019 14:32:34->Esperando un tiempo de Demora
+24/01/2019 14:32:34->Esperando un tiempo de Demora
+24/01/2019 14:32:34->Esperando un tiempo de Demora
+24/01/2019 14:32:34->Esperando un tiempo de Demora
+24/01/2019 14:32:34->Esperando un tiempo de Demora
+24/01/2019 14:32:34->Esperando un tiempo de Demora
+24/01/2019 14:32:34->Esperando un tiempo de Demora
+24/01/2019 14:32:34->Esperando un tiempo de Demora
+24/01/2019 14:32:34->Esperando un tiempo de Demora
+24/01/2019 14:32:34->Esperando un tiempo de Demora
+24/01/2019 14:32:35->Esperando un tiempo de Demora
+24/01/2019 14:32:35->Esperando un tiempo de Demora
+24/01/2019 14:32:35->Esperando un tiempo de Demora
+24/01/2019 14:32:35->Esperando un tiempo de Demora
+24/01/2019 14:32:35->Esperando un tiempo de Demora
+24/01/2019 14:32:35->Esperando un tiempo de Demora
+24/01/2019 14:32:35->Esperando un tiempo de Demora
+24/01/2019 14:32:35->Esperando un tiempo de Demora
+24/01/2019 14:32:35->Esperando un tiempo de Demora
+24/01/2019 14:32:35->Esperando un tiempo de Demora
+24/01/2019 14:32:35->Esperando un tiempo de Demora
+24/01/2019 14:32:35->Esperando un tiempo de Demora
+24/01/2019 14:32:35->Esperando un tiempo de Demora
+24/01/2019 14:32:35->Esperando un tiempo de Demora
+24/01/2019 14:32:35->Esperando un tiempo de Demora
+24/01/2019 14:32:36->Esperando un tiempo de Demora
+24/01/2019 14:32:36->Esperando un tiempo de Demora
+24/01/2019 14:32:36->Esperando un tiempo de Demora
+24/01/2019 14:32:36->Esperando un tiempo de Demora
+24/01/2019 14:32:36->Esperando un tiempo de Demora
+24/01/2019 14:32:36->Esperando un tiempo de Demora
+24/01/2019 14:32:36->Esperando un tiempo de Demora
+24/01/2019 14:32:36->Esperando un tiempo de Demora
+24/01/2019 14:32:36->Esperando un tiempo de Demora
+24/01/2019 14:32:36->Esperando un tiempo de Demora
+24/01/2019 14:32:36->Esperando un tiempo de Demora
+24/01/2019 14:32:36->Esperando un tiempo de Demora
+24/01/2019 14:32:36->Esperando un tiempo de Demora
+24/01/2019 14:32:36->Esperando un tiempo de Demora
+24/01/2019 14:32:37->Esperando un tiempo de Demora
+24/01/2019 14:32:37->Esperando un tiempo de Demora
+24/01/2019 14:32:37->Esperando un tiempo de Demora
+24/01/2019 14:32:37->Esperando un tiempo de Demora
+24/01/2019 14:32:37->Esperando un tiempo de Demora
+24/01/2019 14:32:37->Esperando un tiempo de Demora
+24/01/2019 14:32:37->Esperando un tiempo de Demora
+24/01/2019 14:32:37->Esperando un tiempo de Demora
+24/01/2019 14:32:37->Esperando un tiempo de Demora
+24/01/2019 14:32:37->Esperando un tiempo de Demora
+24/01/2019 14:32:37->Esperando un tiempo de Demora
+24/01/2019 14:32:37->Esperando un tiempo de Demora
+24/01/2019 14:32:37->Esperando un tiempo de Demora
+24/01/2019 14:32:37->Esperando un tiempo de Demora
+24/01/2019 14:32:37->Esperando un tiempo de Demora
+24/01/2019 14:32:38->Esperando un tiempo de Demora
+24/01/2019 14:32:38->Esperando un tiempo de Demora
+24/01/2019 14:32:38->Esperando un tiempo de Demora
+24/01/2019 14:32:38->Esperando un tiempo de Demora
+24/01/2019 14:32:38->Esperando un tiempo de Demora
+24/01/2019 14:32:38->Esperando un tiempo de Demora
+24/01/2019 14:32:38->Esperando un tiempo de Demora
+24/01/2019 14:32:38->Esperando un tiempo de Demora
+24/01/2019 14:32:38->Esperando un tiempo de Demora
+24/01/2019 14:32:38->Esperando un tiempo de Demora
+24/01/2019 14:32:38->Esperando un tiempo de Demora
+24/01/2019 14:32:38->Esperando un tiempo de Demora
+24/01/2019 14:32:38->Esperando un tiempo de Demora
+24/01/2019 14:32:38->Esperando un tiempo de Demora
+24/01/2019 14:32:38->Esperando un tiempo de Demora
+24/01/2019 14:32:38->Esperando un tiempo de Demora
+24/01/2019 14:32:38->Esperando un tiempo de Demora
+24/01/2019 14:32:38->Esperando un tiempo de Demora
+24/01/2019 14:32:38->Esperando un tiempo de Demora
+24/01/2019 14:32:38->Esperando un tiempo de Demora
+24/01/2019 14:32:39->Esperando un tiempo de Demora
+24/01/2019 14:32:39->Esperando un tiempo de Demora
+24/01/2019 14:32:39->Esperando un tiempo de Demora
+24/01/2019 14:32:39->Esperando un tiempo de Demora
+24/01/2019 14:32:39->Esperando un tiempo de Demora
+24/01/2019 14:32:39->Esperando un tiempo de Demora
+24/01/2019 14:32:39->Esperando un tiempo de Demora
+24/01/2019 14:32:39->Esperando un tiempo de Demora
+24/01/2019 14:32:39->Esperando un tiempo de Demora
+24/01/2019 14:32:39->Esperando un tiempo de Demora
+24/01/2019 14:32:39->Esperando un tiempo de Demora
+24/01/2019 14:32:39->Esperando un tiempo de Demora
+24/01/2019 14:32:39->Esperando un tiempo de Demora
+24/01/2019 14:32:39->Esperando un tiempo de Demora
+24/01/2019 14:32:39->Esperando un tiempo de Demora
+24/01/2019 14:32:39->Esperando un tiempo de Demora
+24/01/2019 14:32:39->Esperando un tiempo de Demora
+24/01/2019 14:32:39->Esperando un tiempo de Demora
+24/01/2019 14:32:39->Esperando un tiempo de Demora
+24/01/2019 14:32:39->Esperando un tiempo de Demora
+24/01/2019 14:32:40->Esperando un tiempo de Demora
+24/01/2019 14:32:40->Esperando un tiempo de Demora
+24/01/2019 14:32:40->Esperando un tiempo de Demora
+24/01/2019 14:32:40->Esperando un tiempo de Demora
+24/01/2019 14:32:40->Esperando un tiempo de Demora
+24/01/2019 14:32:40->Esperando un tiempo de Demora
+24/01/2019 14:32:40->Esperando un tiempo de Demora
+24/01/2019 14:32:40->Esperando un tiempo de Demora
+24/01/2019 14:32:40->Esperando un tiempo de Demora
+24/01/2019 14:32:40->Esperando un tiempo de Demora
+24/01/2019 14:32:40->Esperando un tiempo de Demora
+24/01/2019 14:32:40->Esperando un tiempo de Demora
+24/01/2019 14:32:40->Esperando un tiempo de Demora
+24/01/2019 14:32:40->Esperando un tiempo de Demora
+24/01/2019 14:32:40->Esperando un tiempo de Demora
+24/01/2019 14:32:40->Esperando un tiempo de Demora
+24/01/2019 14:32:40->Esperando un tiempo de Demora
+24/01/2019 14:32:40->Esperando un tiempo de Demora
+24/01/2019 14:32:40->Esperando un tiempo de Demora
+24/01/2019 14:32:40->Esperando un tiempo de Demora
+24/01/2019 14:32:41->Esperando un tiempo de Demora
+24/01/2019 14:32:41->Esperando un tiempo de Demora
+24/01/2019 14:32:41->Esperando un tiempo de Demora
+24/01/2019 14:32:41->Esperando un tiempo de Demora
+24/01/2019 14:32:41->Esperando un tiempo de Demora
+24/01/2019 14:32:41->Esperando un tiempo de Demora
+24/01/2019 14:32:41->Esperando un tiempo de Demora
+24/01/2019 14:32:41->Esperando un tiempo de Demora
+24/01/2019 14:32:41->Esperando un tiempo de Demora
+24/01/2019 14:32:41->Esperando un tiempo de Demora
+24/01/2019 14:32:41->Esperando un tiempo de Demora
+24/01/2019 14:32:41->Esperando un tiempo de Demora
+24/01/2019 14:32:41->Esperando un tiempo de Demora
+24/01/2019 14:32:41->Esperando un tiempo de Demora
+24/01/2019 14:32:41->Esperando un tiempo de Demora
+24/01/2019 14:32:41->Esperando un tiempo de Demora
+24/01/2019 14:32:41->Esperando un tiempo de Demora
+24/01/2019 14:32:41->Esperando un tiempo de Demora
+24/01/2019 14:32:41->Esperando un tiempo de Demora
+24/01/2019 14:32:41->Esperando un tiempo de Demora
+24/01/2019 14:32:41->Esperando un tiempo de Demora
+24/01/2019 14:32:42->Esperando un tiempo de Demora
+24/01/2019 14:32:42->Esperando un tiempo de Demora
+24/01/2019 14:32:42->Esperando un tiempo de Demora
+24/01/2019 14:32:42->Esperando un tiempo de Demora
+24/01/2019 14:32:42->Esperando un tiempo de Demora
+24/01/2019 14:32:42->Esperando un tiempo de Demora
+24/01/2019 14:32:42->Esperando un tiempo de Demora
+24/01/2019 14:32:42->Esperando un tiempo de Demora
+24/01/2019 14:32:42->Esperando un tiempo de Demora
+24/01/2019 14:32:42->Esperando un tiempo de Demora
+24/01/2019 14:32:42->Esperando un tiempo de Demora
+24/01/2019 14:32:42->Esperando un tiempo de Demora
+24/01/2019 14:32:42->Esperando un tiempo de Demora
+24/01/2019 14:32:42->Esperando un tiempo de Demora
+24/01/2019 14:32:42->Esperando un tiempo de Demora
+24/01/2019 14:32:42->Esperando un tiempo de Demora
+24/01/2019 14:32:42->Esperando un tiempo de Demora
+24/01/2019 14:32:42->Esperando un tiempo de Demora
+24/01/2019 14:32:42->Esperando un tiempo de Demora
+24/01/2019 14:32:42->Esperando un tiempo de Demora
+24/01/2019 14:32:43->Esperando un tiempo de Demora
+24/01/2019 14:32:43->Esperando un tiempo de Demora
+24/01/2019 14:32:43->Esperando un tiempo de Demora
+24/01/2019 14:32:43->Esperando un tiempo de Demora
+24/01/2019 14:32:43->Esperando un tiempo de Demora
+24/01/2019 14:32:43->Esperando un tiempo de Demora
+24/01/2019 14:32:43->Esperando un tiempo de Demora
+24/01/2019 14:32:43->Esperando un tiempo de Demora
+24/01/2019 14:32:43->Esperando un tiempo de Demora
+24/01/2019 14:32:43->Esperando un tiempo de Demora
+24/01/2019 14:32:43->Esperando un tiempo de Demora
+24/01/2019 14:32:43->Esperando un tiempo de Demora
+24/01/2019 14:32:43->Esperando un tiempo de Demora
+24/01/2019 14:32:43->Esperando un tiempo de Demora
+24/01/2019 14:32:43->Esperando un tiempo de Demora
+24/01/2019 14:32:44->Esperando un tiempo de Demora
+24/01/2019 14:32:44->Esperando un tiempo de Demora
+24/01/2019 14:32:44->Esperando un tiempo de Demora
+24/01/2019 14:32:44->Esperando un tiempo de Demora
+24/01/2019 14:32:44->Esperando un tiempo de Demora
+24/01/2019 14:32:44->Esperando un tiempo de Demora
+24/01/2019 14:32:44->Esperando un tiempo de Demora
+24/01/2019 14:32:44->Esperando un tiempo de Demora
+24/01/2019 14:32:44->Esperando un tiempo de Demora
+24/01/2019 14:32:44->Esperando un tiempo de Demora
+24/01/2019 14:32:44->Esperando un tiempo de Demora
+24/01/2019 14:32:44->Esperando un tiempo de Demora
+24/01/2019 14:32:44->Esperando un tiempo de Demora
+24/01/2019 14:32:44->Esperando un tiempo de Demora
+24/01/2019 14:32:44->Esperando un tiempo de Demora
+24/01/2019 14:32:44->Esperando un tiempo de Demora
+24/01/2019 14:32:44->Esperando un tiempo de Demora
+24/01/2019 14:32:44->Esperando un tiempo de Demora
+24/01/2019 14:32:44->Esperando un tiempo de Demora
+24/01/2019 14:32:45->Esperando un tiempo de Demora
+24/01/2019 14:32:45->Esperando un tiempo de Demora
+24/01/2019 14:32:45->Esperando un tiempo de Demora
+24/01/2019 14:32:45->Esperando un tiempo de Demora
+24/01/2019 14:32:45->Esperando un tiempo de Demora
+24/01/2019 14:32:45->Esperando un tiempo de Demora
+24/01/2019 14:32:45->Esperando un tiempo de Demora
+24/01/2019 14:32:45->Esperando un tiempo de Demora
+24/01/2019 14:32:45->Esperando un tiempo de Demora
+24/01/2019 14:32:45->Esperando un tiempo de Demora
+24/01/2019 14:32:45->Esperando un tiempo de Demora
+24/01/2019 14:32:45->Esperando un tiempo de Demora
+24/01/2019 14:32:45->Esperando un tiempo de Demora
+24/01/2019 14:32:45->Esperando un tiempo de Demora
+24/01/2019 14:32:45->Esperando un tiempo de Demora
+24/01/2019 14:32:45->Esperando un tiempo de Demora
+24/01/2019 14:32:45->Esperando un tiempo de Demora
+24/01/2019 14:32:45->Esperando un tiempo de Demora
+24/01/2019 14:32:45->Esperando un tiempo de Demora
+24/01/2019 14:32:46->Esperando un tiempo de Demora
+24/01/2019 14:32:46->Esperando un tiempo de Demora
+24/01/2019 14:32:46->Esperando un tiempo de Demora
+24/01/2019 14:32:46->Esperando un tiempo de Demora
+24/01/2019 14:32:46->Esperando un tiempo de Demora
+24/01/2019 14:32:46->Esperando un tiempo de Demora
+24/01/2019 14:32:46->Esperando un tiempo de Demora
+24/01/2019 14:32:46->Esperando un tiempo de Demora
+24/01/2019 14:32:46->Esperando un tiempo de Demora
+24/01/2019 14:32:46->Esperando un tiempo de Demora
+24/01/2019 14:32:46->Esperando un tiempo de Demora
+24/01/2019 14:32:46->Esperando un tiempo de Demora
+24/01/2019 14:32:46->Esperando un tiempo de Demora
+24/01/2019 14:32:46->Esperando un tiempo de Demora
+24/01/2019 14:32:46->Esperando un tiempo de Demora
+24/01/2019 14:32:46->Esperando un tiempo de Demora
+24/01/2019 14:32:46->Esperando un tiempo de Demora
+24/01/2019 14:32:46->Esperando un tiempo de Demora
+24/01/2019 14:32:46->Esperando un tiempo de Demora
+24/01/2019 14:32:46->Esperando un tiempo de Demora
+24/01/2019 14:32:47->Esperando un tiempo de Demora
+24/01/2019 14:32:47->Esperando un tiempo de Demora
+24/01/2019 14:32:47->Esperando un tiempo de Demora
+24/01/2019 14:32:47->Esperando un tiempo de Demora
+24/01/2019 14:32:47->Esperando un tiempo de Demora
+24/01/2019 14:32:47->Esperando un tiempo de Demora
+24/01/2019 14:32:47->Esperando un tiempo de Demora
+24/01/2019 14:32:47->Esperando un tiempo de Demora
+24/01/2019 14:32:47->Esperando un tiempo de Demora
+24/01/2019 14:32:47->Esperando un tiempo de Demora
+24/01/2019 14:32:47->Esperando un tiempo de Demora
+24/01/2019 14:32:47->Esperando un tiempo de Demora
+24/01/2019 14:32:47->Esperando un tiempo de Demora
+24/01/2019 14:32:47->Esperando un tiempo de Demora
+24/01/2019 14:32:47->Esperando un tiempo de Demora
+24/01/2019 14:32:47->Esperando un tiempo de Demora
+24/01/2019 14:32:47->Esperando un tiempo de Demora
+24/01/2019 14:32:47->Esperando un tiempo de Demora
+24/01/2019 14:32:47->Esperando un tiempo de Demora
+24/01/2019 14:32:48->Esperando un tiempo de Demora
+24/01/2019 14:32:48->Esperando un tiempo de Demora
+24/01/2019 14:32:48->Esperando un tiempo de Demora
+24/01/2019 14:32:48->Esperando un tiempo de Demora
+24/01/2019 14:32:48->Esperando un tiempo de Demora
+24/01/2019 14:32:48->Esperando un tiempo de Demora
+24/01/2019 14:32:48->Esperando un tiempo de Demora
+24/01/2019 14:32:48->Esperando un tiempo de Demora
+24/01/2019 14:32:48->Esperando un tiempo de Demora
+24/01/2019 14:32:48->Esperando un tiempo de Demora
+24/01/2019 14:32:48->Esperando un tiempo de Demora
+24/01/2019 14:32:48->Esperando un tiempo de Demora
+24/01/2019 14:32:48->Esperando un tiempo de Demora
+24/01/2019 14:32:48->Esperando un tiempo de Demora
+24/01/2019 14:32:48->Esperando un tiempo de Demora
+24/01/2019 14:32:48->Esperando un tiempo de Demora
+24/01/2019 14:32:48->Esperando un tiempo de Demora
+24/01/2019 14:32:48->Esperando un tiempo de Demora
+24/01/2019 14:32:48->Esperando un tiempo de Demora
+24/01/2019 14:32:49->Esperando un tiempo de Demora
+24/01/2019 14:32:49->Esperando un tiempo de Demora
+24/01/2019 14:32:49->Esperando un tiempo de Demora
+24/01/2019 14:32:49->Esperando un tiempo de Demora
+24/01/2019 14:32:49->Esperando un tiempo de Demora
+24/01/2019 14:32:49->Esperando un tiempo de Demora
+24/01/2019 14:32:49->Esperando un tiempo de Demora
+24/01/2019 14:32:49->Esperando un tiempo de Demora
+24/01/2019 14:32:49->Esperando un tiempo de Demora
+24/01/2019 14:32:49->Esperando un tiempo de Demora
+24/01/2019 14:32:49->Esperando un tiempo de Demora
+24/01/2019 14:32:49->Esperando un tiempo de Demora
+24/01/2019 14:32:49->Esperando un tiempo de Demora
+24/01/2019 14:32:49->Esperando un tiempo de Demora
+24/01/2019 14:32:49->Esperando un tiempo de Demora
+24/01/2019 14:32:49->Esperando un tiempo de Demora
+24/01/2019 14:32:49->Esperando un tiempo de Demora
+24/01/2019 14:32:49->Esperando un tiempo de Demora
+24/01/2019 14:32:49->Esperando un tiempo de Demora
+24/01/2019 14:32:50->Esperando un tiempo de Demora
+24/01/2019 14:32:50->Esperando un tiempo de Demora
+24/01/2019 14:32:50->Esperando un tiempo de Demora
+24/01/2019 14:32:50->Esperando un tiempo de Demora
+24/01/2019 14:32:50->Esperando un tiempo de Demora
+24/01/2019 14:32:50->Esperando un tiempo de Demora
+24/01/2019 14:32:50->Esperando un tiempo de Demora
+24/01/2019 14:32:50->Esperando un tiempo de Demora
+24/01/2019 14:32:50->Esperando un tiempo de Demora
+24/01/2019 14:32:50->Esperando un tiempo de Demora
+24/01/2019 14:32:50->Esperando un tiempo de Demora
+24/01/2019 14:32:50->Esperando un tiempo de Demora
+24/01/2019 14:32:50->Esperando un tiempo de Demora
+24/01/2019 14:32:50->Esperando un tiempo de Demora
+24/01/2019 14:32:50->Esperando un tiempo de Demora
+24/01/2019 14:32:50->Esperando un tiempo de Demora
+24/01/2019 14:32:50->Esperando un tiempo de Demora
+24/01/2019 14:32:50->Esperando un tiempo de Demora
+24/01/2019 14:32:50->Esperando un tiempo de Demora
+24/01/2019 14:32:51->Esperando un tiempo de Demora
+24/01/2019 14:32:51->Esperando un tiempo de Demora
+24/01/2019 14:32:51->Esperando un tiempo de Demora
+24/01/2019 14:32:51->Esperando un tiempo de Demora
+24/01/2019 14:32:51->Esperando un tiempo de Demora
+24/01/2019 14:32:51->Esperando un tiempo de Demora
+24/01/2019 14:32:51->Esperando un tiempo de Demora
+24/01/2019 14:32:51->Esperando un tiempo de Demora
+24/01/2019 14:32:51->Esperando un tiempo de Demora
+24/01/2019 14:32:51->Esperando un tiempo de Demora
+24/01/2019 14:32:51->Esperando un tiempo de Demora
+24/01/2019 14:32:51->Esperando un tiempo de Demora
+24/01/2019 14:32:51->Esperando un tiempo de Demora
+24/01/2019 14:32:51->Esperando un tiempo de Demora
+24/01/2019 14:32:51->Esperando un tiempo de Demora
+24/01/2019 14:32:51->Esperando un tiempo de Demora
+24/01/2019 14:32:51->Esperando un tiempo de Demora
+24/01/2019 14:32:51->Esperando un tiempo de Demora
+24/01/2019 14:32:52->Esperando un tiempo de Demora
+24/01/2019 14:32:52->Esperando un tiempo de Demora
+24/01/2019 14:32:52->Esperando un tiempo de Demora
+24/01/2019 14:32:52->Esperando un tiempo de Demora
+24/01/2019 14:32:52->Esperando un tiempo de Demora
+24/01/2019 14:32:52->Esperando un tiempo de Demora
+24/01/2019 14:32:52->Esperando un tiempo de Demora
+24/01/2019 14:32:52->Esperando un tiempo de Demora
+24/01/2019 14:32:52->Esperando un tiempo de Demora
+24/01/2019 14:32:52->Esperando un tiempo de Demora
+24/01/2019 14:32:52->Esperando un tiempo de Demora
+24/01/2019 14:32:52->Esperando un tiempo de Demora
+24/01/2019 14:32:52->Esperando un tiempo de Demora
+24/01/2019 14:32:52->Esperando un tiempo de Demora
+24/01/2019 14:32:52->Esperando un tiempo de Demora
+24/01/2019 14:32:52->Esperando un tiempo de Demora
+24/01/2019 14:32:52->Esperando un tiempo de Demora
+24/01/2019 14:32:52->Esperando un tiempo de Demora
+24/01/2019 14:32:52->Esperando un tiempo de Demora
+24/01/2019 14:32:53->Esperando un tiempo de Demora
+24/01/2019 14:32:53->Esperando un tiempo de Demora
+24/01/2019 14:32:53->Esperando un tiempo de Demora
+24/01/2019 14:32:53->Esperando un tiempo de Demora
+24/01/2019 14:32:53->Esperando un tiempo de Demora
+24/01/2019 14:32:53->Esperando un tiempo de Demora
+24/01/2019 14:32:53->Esperando un tiempo de Demora
+24/01/2019 14:32:53->Esperando un tiempo de Demora
+24/01/2019 14:32:53->Esperando un tiempo de Demora
+24/01/2019 14:32:53->Esperando un tiempo de Demora
+24/01/2019 14:32:53->Esperando un tiempo de Demora
+24/01/2019 14:32:53->Esperando un tiempo de Demora
+24/01/2019 14:32:53->Esperando un tiempo de Demora
+24/01/2019 14:32:53->Esperando un tiempo de Demora
+24/01/2019 14:32:53->Esperando un tiempo de Demora
+24/01/2019 14:32:53->Esperando un tiempo de Demora
+24/01/2019 14:32:53->Esperando un tiempo de Demora
+24/01/2019 14:32:53->Esperando un tiempo de Demora
+24/01/2019 14:32:54->Esperando un tiempo de Demora
+24/01/2019 14:32:54->Esperando un tiempo de Demora
+24/01/2019 14:32:54->Esperando un tiempo de Demora
+24/01/2019 14:32:54->Esperando un tiempo de Demora
+24/01/2019 14:32:54->Esperando un tiempo de Demora
+24/01/2019 14:32:54->Esperando un tiempo de Demora
+24/01/2019 14:32:54->Esperando un tiempo de Demora
+24/01/2019 14:32:54->Esperando un tiempo de Demora
+24/01/2019 14:32:54->Esperando un tiempo de Demora
+24/01/2019 14:32:54->Esperando un tiempo de Demora
+24/01/2019 14:32:54->Esperando un tiempo de Demora
+24/01/2019 14:32:54->Esperando un tiempo de Demora
+24/01/2019 14:32:54->Esperando un tiempo de Demora
+24/01/2019 14:32:54->Esperando un tiempo de Demora
+24/01/2019 14:32:54->Esperando un tiempo de Demora
+24/01/2019 14:32:54->Esperando un tiempo de Demora
+24/01/2019 14:32:54->Esperando un tiempo de Demora
+24/01/2019 14:32:55->Esperando un tiempo de Demora
+24/01/2019 14:32:55->Esperando un tiempo de Demora
+24/01/2019 14:32:55->Esperando un tiempo de Demora
+24/01/2019 14:32:55->Esperando un tiempo de Demora
+24/01/2019 14:32:55->Esperando un tiempo de Demora
+24/01/2019 14:32:55->Esperando un tiempo de Demora
+24/01/2019 14:32:55->Esperando un tiempo de Demora
+24/01/2019 14:32:55->Esperando un tiempo de Demora
+24/01/2019 14:32:55->Esperando un tiempo de Demora
+24/01/2019 14:32:55->Esperando un tiempo de Demora
+24/01/2019 14:32:55->Esperando un tiempo de Demora
+24/01/2019 14:32:55->Esperando un tiempo de Demora
+24/01/2019 14:32:55->Esperando un tiempo de Demora
+24/01/2019 14:32:55->Esperando un tiempo de Demora
+24/01/2019 14:32:56->Esperando un tiempo de Demora
+24/01/2019 14:32:56->Esperando un tiempo de Demora
+24/01/2019 14:32:56->Esperando un tiempo de Demora
+24/01/2019 14:32:56->Esperando un tiempo de Demora
+24/01/2019 14:32:56->Esperando un tiempo de Demora
+24/01/2019 14:32:56->Esperando un tiempo de Demora
+24/01/2019 14:32:56->Esperando un tiempo de Demora
+24/01/2019 14:32:56->Esperando un tiempo de Demora
+24/01/2019 14:32:56->Esperando un tiempo de Demora
+24/01/2019 14:32:56->Esperando un tiempo de Demora
+24/01/2019 14:32:56->Esperando un tiempo de Demora
+24/01/2019 14:32:56->Esperando un tiempo de Demora
+24/01/2019 14:32:56->Esperando un tiempo de Demora
+24/01/2019 14:32:56->Esperando un tiempo de Demora
+24/01/2019 14:32:57->Esperando un tiempo de Demora
+24/01/2019 14:32:57->Esperando un tiempo de Demora
+24/01/2019 14:32:57->Esperando un tiempo de Demora
+24/01/2019 14:32:57->Esperando un tiempo de Demora
+24/01/2019 14:32:57->Esperando un tiempo de Demora
+24/01/2019 14:32:57->Esperando un tiempo de Demora
+24/01/2019 14:32:57->Esperando un tiempo de Demora
+24/01/2019 14:32:57->Esperando un tiempo de Demora
+24/01/2019 14:32:57->Esperando un tiempo de Demora
+24/01/2019 14:32:57->Esperando un tiempo de Demora
+24/01/2019 14:32:57->Esperando un tiempo de Demora
+24/01/2019 14:32:57->Esperando un tiempo de Demora
+24/01/2019 14:32:57->Esperando un tiempo de Demora
+24/01/2019 14:32:57->Esperando un tiempo de Demora
+24/01/2019 14:32:58->Esperando un tiempo de Demora
+24/01/2019 14:32:58->Esperando un tiempo de Demora
+24/01/2019 14:32:58->Esperando un tiempo de Demora
+24/01/2019 14:32:58->Esperando un tiempo de Demora
+24/01/2019 14:32:58->Esperando un tiempo de Demora
+24/01/2019 14:32:58->Esperando un tiempo de Demora
+24/01/2019 14:32:58->Esperando un tiempo de Demora
+24/01/2019 14:32:58->Esperando un tiempo de Demora
+24/01/2019 14:32:58->Esperando un tiempo de Demora
+24/01/2019 14:32:58->Esperando un tiempo de Demora
+24/01/2019 14:32:58->Esperando un tiempo de Demora
+24/01/2019 14:32:58->Esperando un tiempo de Demora
+24/01/2019 14:32:58->Esperando un tiempo de Demora
+24/01/2019 14:32:58->Esperando un tiempo de Demora
+24/01/2019 14:32:59->Esperando un tiempo de Demora
+24/01/2019 14:32:59->Esperando un tiempo de Demora
+24/01/2019 14:32:59->Esperando un tiempo de Demora
+24/01/2019 14:32:59->Esperando un tiempo de Demora
+24/01/2019 14:32:59->Esperando un tiempo de Demora
+24/01/2019 14:32:59->Esperando un tiempo de Demora
+24/01/2019 14:32:59->Esperando un tiempo de Demora
+24/01/2019 14:32:59->Esperando un tiempo de Demora
+24/01/2019 14:32:59->Esperando un tiempo de Demora
+24/01/2019 14:32:59->Esperando un tiempo de Demora
+24/01/2019 14:32:59->Esperando un tiempo de Demora
+24/01/2019 14:32:59->Esperando un tiempo de Demora
+24/01/2019 14:32:59->Esperando un tiempo de Demora
+24/01/2019 14:32:59->Esperando un tiempo de Demora
+24/01/2019 14:32:59->Esperando un tiempo de Demora
+24/01/2019 14:33:00->Esperando un tiempo de Demora
+24/01/2019 14:34:21->Esperando un tiempo de Demora
+24/01/2019 14:34:49->Esperando un tiempo de Demora
+24/01/2019 14:34:51->Esperando un tiempo de Demora
+24/01/2019 14:34:51->Esperando un tiempo de Demora
+24/01/2019 14:34:51->Esperando un tiempo de Demora
+24/01/2019 14:34:52->Esperando un tiempo de Demora
+24/01/2019 14:34:52->Esperando un tiempo de Demora
+24/01/2019 14:34:52->Esperando un tiempo de Demora
+24/01/2019 14:34:52->Esperando un tiempo de Demora
+24/01/2019 14:34:52->Esperando un tiempo de Demora
+24/01/2019 14:34:52->Esperando un tiempo de Demora
+24/01/2019 14:34:52->Esperando un tiempo de Demora
+24/01/2019 14:34:52->Esperando un tiempo de Demora
+24/01/2019 14:34:52->Esperando un tiempo de Demora
+24/01/2019 14:34:52->Esperando un tiempo de Demora
+24/01/2019 14:34:52->Esperando un tiempo de Demora
+24/01/2019 14:34:52->Esperando un tiempo de Demora
+24/01/2019 14:34:52->Esperando un tiempo de Demora
+24/01/2019 14:34:52->Esperando un tiempo de Demora
+24/01/2019 14:34:52->Esperando un tiempo de Demora
+24/01/2019 14:34:52->Esperando un tiempo de Demora
+24/01/2019 14:34:52->Esperando un tiempo de Demora
+24/01/2019 14:34:52->Esperando un tiempo de Demora
+24/01/2019 14:34:52->Esperando un tiempo de Demora
+24/01/2019 14:34:52->Esperando un tiempo de Demora
+24/01/2019 14:34:52->Esperando un tiempo de Demora
+24/01/2019 14:34:52->Esperando un tiempo de Demora
+24/01/2019 14:34:52->Esperando un tiempo de Demora
+24/01/2019 14:34:52->Esperando un tiempo de Demora
+24/01/2019 14:34:52->Esperando un tiempo de Demora
+24/01/2019 14:34:52->Esperando un tiempo de Demora
+24/01/2019 14:34:52->Esperando un tiempo de Demora
+24/01/2019 14:34:52->Esperando un tiempo de Demora
+24/01/2019 14:34:53->Esperando un tiempo de Demora
+24/01/2019 14:34:53->Esperando un tiempo de Demora
+24/01/2019 14:34:53->Esperando un tiempo de Demora
+24/01/2019 14:34:53->Esperando un tiempo de Demora
+24/01/2019 14:34:53->Esperando un tiempo de Demora
+24/01/2019 14:34:53->Esperando un tiempo de Demora
+24/01/2019 14:34:53->Esperando un tiempo de Demora
+24/01/2019 14:34:53->Esperando un tiempo de Demora
+24/01/2019 14:34:53->Esperando un tiempo de Demora
+24/01/2019 14:34:53->Esperando un tiempo de Demora
+24/01/2019 14:34:53->Esperando un tiempo de Demora
+24/01/2019 14:34:53->Esperando un tiempo de Demora
+24/01/2019 14:34:53->Esperando un tiempo de Demora
+24/01/2019 14:34:53->Esperando un tiempo de Demora
+24/01/2019 14:34:53->Esperando un tiempo de Demora
+24/01/2019 14:34:53->Esperando un tiempo de Demora
+24/01/2019 14:34:53->Esperando un tiempo de Demora
+24/01/2019 14:34:53->Esperando un tiempo de Demora
+24/01/2019 14:34:53->Esperando un tiempo de Demora
+24/01/2019 14:34:53->Esperando un tiempo de Demora
+24/01/2019 14:34:53->Esperando un tiempo de Demora
+24/01/2019 14:34:53->Esperando un tiempo de Demora
+24/01/2019 14:34:53->Esperando un tiempo de Demora
+24/01/2019 14:34:53->Esperando un tiempo de Demora
+24/01/2019 14:34:53->Esperando un tiempo de Demora
+24/01/2019 14:34:53->Esperando un tiempo de Demora
+24/01/2019 14:34:53->Esperando un tiempo de Demora
+24/01/2019 14:34:54->Esperando un tiempo de Demora
+24/01/2019 14:34:54->Esperando un tiempo de Demora
+24/01/2019 14:34:54->Esperando un tiempo de Demora
+24/01/2019 14:34:54->Esperando un tiempo de Demora
+24/01/2019 14:34:54->Esperando un tiempo de Demora
+24/01/2019 14:34:54->Esperando un tiempo de Demora
+24/01/2019 14:34:54->Esperando un tiempo de Demora
+24/01/2019 14:34:54->Esperando un tiempo de Demora
+24/01/2019 14:34:54->Esperando un tiempo de Demora
+24/01/2019 14:34:54->Esperando un tiempo de Demora
+24/01/2019 14:34:54->Esperando un tiempo de Demora
+24/01/2019 14:34:54->Esperando un tiempo de Demora
+24/01/2019 14:34:54->Esperando un tiempo de Demora
+24/01/2019 14:34:54->Esperando un tiempo de Demora
+24/01/2019 14:34:54->Esperando un tiempo de Demora
+24/01/2019 14:34:54->Esperando un tiempo de Demora
+24/01/2019 14:34:54->Esperando un tiempo de Demora
+24/01/2019 14:34:54->Esperando un tiempo de Demora
+24/01/2019 14:34:54->Esperando un tiempo de Demora
+24/01/2019 14:34:54->Esperando un tiempo de Demora
+24/01/2019 14:34:54->Esperando un tiempo de Demora
+24/01/2019 14:34:54->Esperando un tiempo de Demora
+24/01/2019 14:34:54->Esperando un tiempo de Demora
+24/01/2019 14:34:54->Esperando un tiempo de Demora
+24/01/2019 14:34:54->Esperando un tiempo de Demora
+24/01/2019 14:34:54->Esperando un tiempo de Demora
+24/01/2019 14:34:54->Esperando un tiempo de Demora
+24/01/2019 14:34:55->Esperando un tiempo de Demora
+24/01/2019 14:34:55->Esperando un tiempo de Demora
+24/01/2019 14:34:55->Esperando un tiempo de Demora
+24/01/2019 14:34:55->Esperando un tiempo de Demora
+24/01/2019 14:34:55->Esperando un tiempo de Demora
+24/01/2019 14:34:55->Esperando un tiempo de Demora
+24/01/2019 14:34:55->Esperando un tiempo de Demora
+24/01/2019 14:34:55->Esperando un tiempo de Demora
+24/01/2019 14:34:55->Esperando un tiempo de Demora
+24/01/2019 14:34:55->Esperando un tiempo de Demora
+24/01/2019 14:34:55->Esperando un tiempo de Demora
+24/01/2019 14:34:55->Esperando un tiempo de Demora
+24/01/2019 14:34:55->Esperando un tiempo de Demora
+24/01/2019 14:34:55->Esperando un tiempo de Demora
+24/01/2019 14:34:55->Esperando un tiempo de Demora
+24/01/2019 14:34:55->Esperando un tiempo de Demora
+24/01/2019 14:34:55->Esperando un tiempo de Demora
+24/01/2019 14:34:55->Esperando un tiempo de Demora
+24/01/2019 14:34:55->Esperando un tiempo de Demora
+24/01/2019 14:34:56->Esperando un tiempo de Demora
+24/01/2019 14:34:56->Esperando un tiempo de Demora
+24/01/2019 14:34:56->Esperando un tiempo de Demora
+24/01/2019 14:34:56->Esperando un tiempo de Demora
+24/01/2019 14:34:56->Esperando un tiempo de Demora
+24/01/2019 14:34:56->Esperando un tiempo de Demora
+24/01/2019 14:34:56->Esperando un tiempo de Demora
+24/01/2019 14:34:56->Esperando un tiempo de Demora
+24/01/2019 14:34:56->Esperando un tiempo de Demora
+24/01/2019 14:34:56->Esperando un tiempo de Demora
+24/01/2019 14:34:56->Esperando un tiempo de Demora
+24/01/2019 14:34:56->Esperando un tiempo de Demora
+24/01/2019 14:34:56->Esperando un tiempo de Demora
+24/01/2019 14:34:56->Esperando un tiempo de Demora
+24/01/2019 14:34:56->Esperando un tiempo de Demora
+24/01/2019 14:34:56->Esperando un tiempo de Demora
+24/01/2019 14:34:56->Esperando un tiempo de Demora
+24/01/2019 14:34:56->Esperando un tiempo de Demora
+24/01/2019 14:34:56->Esperando un tiempo de Demora
+24/01/2019 14:34:56->Esperando un tiempo de Demora
+24/01/2019 14:34:56->Esperando un tiempo de Demora
+24/01/2019 14:34:57->Esperando un tiempo de Demora
+24/01/2019 14:34:57->Esperando un tiempo de Demora
+24/01/2019 14:34:57->Esperando un tiempo de Demora
+24/01/2019 14:34:57->Esperando un tiempo de Demora
+24/01/2019 14:34:57->Esperando un tiempo de Demora
+24/01/2019 14:34:57->Esperando un tiempo de Demora
+24/01/2019 14:34:57->Esperando un tiempo de Demora
+24/01/2019 14:34:57->Esperando un tiempo de Demora
+24/01/2019 14:34:57->Esperando un tiempo de Demora
+24/01/2019 14:34:57->Esperando un tiempo de Demora
+24/01/2019 14:34:57->Esperando un tiempo de Demora
+24/01/2019 14:34:57->Esperando un tiempo de Demora
+24/01/2019 14:34:57->Esperando un tiempo de Demora
+24/01/2019 14:34:57->Esperando un tiempo de Demora
+24/01/2019 14:34:57->Esperando un tiempo de Demora
+24/01/2019 14:34:57->Esperando un tiempo de Demora
+24/01/2019 14:34:57->Esperando un tiempo de Demora
+24/01/2019 14:34:57->Esperando un tiempo de Demora
+24/01/2019 14:34:57->Esperando un tiempo de Demora
+24/01/2019 14:34:57->Esperando un tiempo de Demora
+24/01/2019 14:34:57->Esperando un tiempo de Demora
+24/01/2019 14:34:57->Esperando un tiempo de Demora
+24/01/2019 14:34:57->Esperando un tiempo de Demora
+24/01/2019 14:34:57->Esperando un tiempo de Demora
+24/01/2019 14:34:57->Esperando un tiempo de Demora
+24/01/2019 14:34:58->Esperando un tiempo de Demora
+24/01/2019 14:34:58->Esperando un tiempo de Demora
+24/01/2019 14:34:58->Esperando un tiempo de Demora
+24/01/2019 14:34:58->Esperando un tiempo de Demora
+24/01/2019 14:34:58->Esperando un tiempo de Demora
+24/01/2019 14:34:58->Esperando un tiempo de Demora
+24/01/2019 14:34:58->Esperando un tiempo de Demora
+24/01/2019 14:34:58->Esperando un tiempo de Demora
+24/01/2019 14:34:58->Esperando un tiempo de Demora
+24/01/2019 14:34:58->Esperando un tiempo de Demora
+24/01/2019 14:34:58->Esperando un tiempo de Demora
+24/01/2019 14:34:58->Esperando un tiempo de Demora
+24/01/2019 14:34:58->Esperando un tiempo de Demora
+24/01/2019 14:34:58->Esperando un tiempo de Demora
+24/01/2019 14:34:58->Esperando un tiempo de Demora
+24/01/2019 14:34:58->Esperando un tiempo de Demora
+24/01/2019 14:34:58->Esperando un tiempo de Demora
+24/01/2019 14:34:58->Esperando un tiempo de Demora
+24/01/2019 14:34:58->Esperando un tiempo de Demora
+24/01/2019 14:34:58->Esperando un tiempo de Demora
+24/01/2019 14:34:58->Esperando un tiempo de Demora
+24/01/2019 14:34:58->Esperando un tiempo de Demora
+24/01/2019 14:34:58->Esperando un tiempo de Demora
+24/01/2019 14:34:58->Esperando un tiempo de Demora
+24/01/2019 14:34:58->Esperando un tiempo de Demora
+24/01/2019 14:34:58->Esperando un tiempo de Demora
+24/01/2019 14:34:58->Esperando un tiempo de Demora
+24/01/2019 14:34:59->Esperando un tiempo de Demora
+24/01/2019 14:34:59->Esperando un tiempo de Demora
+24/01/2019 14:34:59->Esperando un tiempo de Demora
+24/01/2019 14:34:59->Esperando un tiempo de Demora
+24/01/2019 14:34:59->Esperando un tiempo de Demora
+24/01/2019 14:34:59->Esperando un tiempo de Demora
+24/01/2019 14:34:59->Esperando un tiempo de Demora
+24/01/2019 14:34:59->Esperando un tiempo de Demora
+24/01/2019 14:34:59->Esperando un tiempo de Demora
+24/01/2019 14:34:59->Esperando un tiempo de Demora
+24/01/2019 14:34:59->Esperando un tiempo de Demora
+24/01/2019 14:34:59->Esperando un tiempo de Demora
+24/01/2019 14:34:59->Esperando un tiempo de Demora
+24/01/2019 14:34:59->Esperando un tiempo de Demora
+24/01/2019 14:34:59->Esperando un tiempo de Demora
+24/01/2019 14:34:59->Esperando un tiempo de Demora
+24/01/2019 14:34:59->Esperando un tiempo de Demora
+24/01/2019 14:34:59->Esperando un tiempo de Demora
+24/01/2019 14:34:59->Esperando un tiempo de Demora
+24/01/2019 14:34:59->Esperando un tiempo de Demora
+24/01/2019 14:34:59->Esperando un tiempo de Demora
+24/01/2019 14:34:59->Esperando un tiempo de Demora
+24/01/2019 14:34:59->Esperando un tiempo de Demora
+24/01/2019 14:34:59->Esperando un tiempo de Demora
+24/01/2019 14:34:59->Esperando un tiempo de Demora
+24/01/2019 14:34:59->Esperando un tiempo de Demora
+24/01/2019 14:34:59->Esperando un tiempo de Demora
+24/01/2019 14:35:00->Esperando un tiempo de Demora
+24/01/2019 14:35:00->Esperando un tiempo de Demora
+24/01/2019 14:35:00->Esperando un tiempo de Demora
+24/01/2019 14:35:00->Esperando un tiempo de Demora
+24/01/2019 14:35:00->Esperando un tiempo de Demora
+24/01/2019 14:35:00->Esperando un tiempo de Demora
+24/01/2019 14:35:00->Esperando un tiempo de Demora
+24/01/2019 14:35:00->Esperando un tiempo de Demora
+24/01/2019 14:35:00->Esperando un tiempo de Demora
+24/01/2019 14:35:00->Esperando un tiempo de Demora
+24/01/2019 14:35:00->Esperando un tiempo de Demora
+24/01/2019 14:35:00->Esperando un tiempo de Demora
+24/01/2019 14:35:00->Esperando un tiempo de Demora
+24/01/2019 14:35:00->Esperando un tiempo de Demora
+24/01/2019 14:35:00->Esperando un tiempo de Demora
+24/01/2019 14:35:00->Esperando un tiempo de Demora
+24/01/2019 14:35:00->Esperando un tiempo de Demora
+24/01/2019 14:35:00->Esperando un tiempo de Demora
+24/01/2019 14:35:00->Esperando un tiempo de Demora
+24/01/2019 14:35:00->Esperando un tiempo de Demora
+24/01/2019 14:35:00->Esperando un tiempo de Demora
+24/01/2019 14:35:00->Esperando un tiempo de Demora
+24/01/2019 14:35:00->Esperando un tiempo de Demora
+24/01/2019 14:35:00->Esperando un tiempo de Demora
+24/01/2019 14:35:00->Esperando un tiempo de Demora
+24/01/2019 14:35:00->Esperando un tiempo de Demora
+24/01/2019 14:35:01->Esperando un tiempo de Demora
+24/01/2019 14:35:01->Esperando un tiempo de Demora
+24/01/2019 14:35:01->Esperando un tiempo de Demora
+24/01/2019 14:35:01->Esperando un tiempo de Demora
+24/01/2019 14:35:01->Esperando un tiempo de Demora
+24/01/2019 14:35:01->Esperando un tiempo de Demora
+24/01/2019 14:35:01->Esperando un tiempo de Demora
+24/01/2019 14:35:01->Esperando un tiempo de Demora
+24/01/2019 14:35:01->Esperando un tiempo de Demora
+24/01/2019 14:35:01->Esperando un tiempo de Demora
+24/01/2019 14:35:01->Esperando un tiempo de Demora
+24/01/2019 14:35:01->Esperando un tiempo de Demora
+24/01/2019 14:35:01->Esperando un tiempo de Demora
+24/01/2019 14:35:01->Esperando un tiempo de Demora
+24/01/2019 14:35:01->Esperando un tiempo de Demora
+24/01/2019 14:35:01->Esperando un tiempo de Demora
+24/01/2019 14:35:01->Esperando un tiempo de Demora
+24/01/2019 14:35:01->Esperando un tiempo de Demora
+24/01/2019 14:35:01->Esperando un tiempo de Demora
+24/01/2019 14:35:01->Esperando un tiempo de Demora
+24/01/2019 14:35:01->Esperando un tiempo de Demora
+24/01/2019 14:35:01->Esperando un tiempo de Demora
+24/01/2019 14:35:01->Esperando un tiempo de Demora
+24/01/2019 14:35:01->Esperando un tiempo de Demora
+24/01/2019 14:35:01->Esperando un tiempo de Demora
+24/01/2019 14:35:02->Esperando un tiempo de Demora
+24/01/2019 14:35:02->Esperando un tiempo de Demora
+24/01/2019 14:35:02->Esperando un tiempo de Demora
+24/01/2019 14:35:02->Esperando un tiempo de Demora
+24/01/2019 14:35:02->Esperando un tiempo de Demora
+24/01/2019 14:35:02->Esperando un tiempo de Demora
+24/01/2019 14:35:02->Esperando un tiempo de Demora
+24/01/2019 14:35:02->Esperando un tiempo de Demora
+24/01/2019 14:35:02->Esperando un tiempo de Demora
+24/01/2019 14:35:02->Esperando un tiempo de Demora
+24/01/2019 14:35:02->Esperando un tiempo de Demora
+24/01/2019 14:35:02->Esperando un tiempo de Demora
+24/01/2019 14:35:02->Esperando un tiempo de Demora
+24/01/2019 14:35:02->Esperando un tiempo de Demora
+24/01/2019 14:35:02->Esperando un tiempo de Demora
+24/01/2019 14:35:02->Esperando un tiempo de Demora
+24/01/2019 14:35:02->Esperando un tiempo de Demora
+24/01/2019 14:35:02->Esperando un tiempo de Demora
+24/01/2019 14:35:02->Esperando un tiempo de Demora
+24/01/2019 14:35:02->Esperando un tiempo de Demora
+24/01/2019 14:35:02->Esperando un tiempo de Demora
+24/01/2019 14:35:03->Esperando un tiempo de Demora
+24/01/2019 14:35:03->Esperando un tiempo de Demora
+24/01/2019 14:35:03->Esperando un tiempo de Demora
+24/01/2019 14:35:03->Esperando un tiempo de Demora
+24/01/2019 14:35:03->Esperando un tiempo de Demora
+24/01/2019 14:35:03->Esperando un tiempo de Demora
+24/01/2019 14:35:03->Esperando un tiempo de Demora
+24/01/2019 14:35:03->Esperando un tiempo de Demora
+24/01/2019 14:35:03->Esperando un tiempo de Demora
+24/01/2019 14:35:03->Esperando un tiempo de Demora
+24/01/2019 14:35:03->Esperando un tiempo de Demora
+24/01/2019 14:35:03->Esperando un tiempo de Demora
+24/01/2019 14:35:04->Esperando un tiempo de Demora
+24/01/2019 14:35:04->Esperando un tiempo de Demora
+24/01/2019 14:35:04->Esperando un tiempo de Demora
+24/01/2019 14:35:04->Esperando un tiempo de Demora
+24/01/2019 14:35:04->Esperando un tiempo de Demora
+24/01/2019 14:35:04->Esperando un tiempo de Demora
+24/01/2019 14:35:04->Esperando un tiempo de Demora
+24/01/2019 14:35:04->Esperando un tiempo de Demora
+24/01/2019 14:35:05->Esperando un tiempo de Demora
+24/01/2019 14:35:05->Esperando un tiempo de Demora
+24/01/2019 14:35:05->Esperando un tiempo de Demora
+24/01/2019 14:35:05->Esperando un tiempo de Demora
+24/01/2019 14:35:05->Esperando un tiempo de Demora
+24/01/2019 14:35:05->Esperando un tiempo de Demora
+24/01/2019 14:35:05->Esperando un tiempo de Demora
+24/01/2019 14:35:05->Esperando un tiempo de Demora
+24/01/2019 14:35:05->Esperando un tiempo de Demora
+24/01/2019 14:35:05->Esperando un tiempo de Demora
+24/01/2019 14:35:05->Esperando un tiempo de Demora
+24/01/2019 14:35:05->Esperando un tiempo de Demora
+24/01/2019 14:35:05->Esperando un tiempo de Demora
+24/01/2019 14:35:05->Esperando un tiempo de Demora
+24/01/2019 14:35:05->Esperando un tiempo de Demora
+24/01/2019 14:35:05->Esperando un tiempo de Demora
+24/01/2019 14:35:05->Esperando un tiempo de Demora
+24/01/2019 14:35:05->Esperando un tiempo de Demora
+24/01/2019 14:35:05->Esperando un tiempo de Demora
+24/01/2019 14:35:06->Esperando un tiempo de Demora
+24/01/2019 14:35:06->Esperando un tiempo de Demora
+24/01/2019 14:35:06->Esperando un tiempo de Demora
+24/01/2019 14:35:06->Esperando un tiempo de Demora
+24/01/2019 14:35:06->Esperando un tiempo de Demora
+24/01/2019 14:35:06->Esperando un tiempo de Demora
+24/01/2019 14:35:06->Esperando un tiempo de Demora
+24/01/2019 14:35:06->Esperando un tiempo de Demora
+24/01/2019 14:35:06->Esperando un tiempo de Demora
+24/01/2019 14:35:06->Esperando un tiempo de Demora
+24/01/2019 14:35:06->Esperando un tiempo de Demora
+24/01/2019 14:35:06->Esperando un tiempo de Demora
+24/01/2019 14:35:06->Esperando un tiempo de Demora
+24/01/2019 14:35:06->Esperando un tiempo de Demora
+24/01/2019 14:35:06->Esperando un tiempo de Demora
+24/01/2019 14:35:06->Esperando un tiempo de Demora
+24/01/2019 14:35:06->Esperando un tiempo de Demora
+24/01/2019 14:35:06->Esperando un tiempo de Demora
+24/01/2019 14:35:06->Esperando un tiempo de Demora
+24/01/2019 14:35:06->Esperando un tiempo de Demora
+24/01/2019 14:35:06->Esperando un tiempo de Demora
+24/01/2019 14:35:06->Esperando un tiempo de Demora
+24/01/2019 14:35:07->Esperando un tiempo de Demora
+24/01/2019 14:35:07->Esperando un tiempo de Demora
+24/01/2019 14:35:07->Esperando un tiempo de Demora
+24/01/2019 14:35:07->Esperando un tiempo de Demora
+24/01/2019 14:35:07->Esperando un tiempo de Demora
+24/01/2019 14:35:07->Esperando un tiempo de Demora
+24/01/2019 14:35:07->Esperando un tiempo de Demora
+24/01/2019 14:35:07->Esperando un tiempo de Demora
+24/01/2019 14:35:07->Esperando un tiempo de Demora
+24/01/2019 14:35:07->Esperando un tiempo de Demora
+24/01/2019 14:35:07->Esperando un tiempo de Demora
+24/01/2019 14:35:07->Esperando un tiempo de Demora
+24/01/2019 14:35:07->Esperando un tiempo de Demora
+24/01/2019 14:35:07->Esperando un tiempo de Demora
+24/01/2019 14:35:07->Esperando un tiempo de Demora
+24/01/2019 14:35:07->Esperando un tiempo de Demora
+24/01/2019 14:35:07->Esperando un tiempo de Demora
+24/01/2019 14:35:07->Esperando un tiempo de Demora
+24/01/2019 14:35:07->Esperando un tiempo de Demora
+24/01/2019 14:35:08->Esperando un tiempo de Demora
+24/01/2019 14:35:08->Esperando un tiempo de Demora
+24/01/2019 14:35:08->Esperando un tiempo de Demora
+24/01/2019 14:35:08->Esperando un tiempo de Demora
+24/01/2019 14:35:08->Esperando un tiempo de Demora
+24/01/2019 14:35:08->Esperando un tiempo de Demora
+24/01/2019 14:35:08->Esperando un tiempo de Demora
+24/01/2019 14:35:08->Esperando un tiempo de Demora
+24/01/2019 14:35:08->Esperando un tiempo de Demora
+24/01/2019 14:35:08->Esperando un tiempo de Demora
+24/01/2019 14:35:08->Esperando un tiempo de Demora
+24/01/2019 14:35:08->Esperando un tiempo de Demora
+24/01/2019 14:35:08->Esperando un tiempo de Demora
+24/01/2019 14:35:08->Esperando un tiempo de Demora
+24/01/2019 14:35:08->Esperando un tiempo de Demora
+24/01/2019 14:35:08->Esperando un tiempo de Demora
+24/01/2019 14:35:08->Esperando un tiempo de Demora
+24/01/2019 14:35:09->Esperando un tiempo de Demora
+24/01/2019 14:35:09->Esperando un tiempo de Demora
+24/01/2019 14:35:09->Esperando un tiempo de Demora
+24/01/2019 14:35:09->Esperando un tiempo de Demora
+24/01/2019 14:35:09->Esperando un tiempo de Demora
+24/01/2019 14:35:09->Esperando un tiempo de Demora
+24/01/2019 14:35:09->Esperando un tiempo de Demora
+24/01/2019 14:35:09->Esperando un tiempo de Demora
+24/01/2019 14:35:09->Esperando un tiempo de Demora
+24/01/2019 14:35:09->Esperando un tiempo de Demora
+24/01/2019 14:35:09->Esperando un tiempo de Demora
+24/01/2019 14:35:09->Esperando un tiempo de Demora
+24/01/2019 14:35:09->Esperando un tiempo de Demora
+24/01/2019 14:35:09->Esperando un tiempo de Demora
+24/01/2019 14:35:09->Esperando un tiempo de Demora
+24/01/2019 14:35:09->Esperando un tiempo de Demora
+24/01/2019 14:35:09->Esperando un tiempo de Demora
+24/01/2019 14:35:09->Esperando un tiempo de Demora
+24/01/2019 14:35:09->Esperando un tiempo de Demora
+24/01/2019 14:35:10->Esperando un tiempo de Demora
+24/01/2019 14:35:10->Esperando un tiempo de Demora
+24/01/2019 14:35:10->Esperando un tiempo de Demora
+24/01/2019 14:35:10->Esperando un tiempo de Demora
+24/01/2019 14:35:10->Esperando un tiempo de Demora
+24/01/2019 14:35:10->Esperando un tiempo de Demora
+24/01/2019 14:35:10->Esperando un tiempo de Demora
+24/01/2019 14:35:10->Esperando un tiempo de Demora
+24/01/2019 14:35:10->Esperando un tiempo de Demora
+24/01/2019 14:35:10->Esperando un tiempo de Demora
+24/01/2019 14:35:10->Esperando un tiempo de Demora
+24/01/2019 14:35:10->Esperando un tiempo de Demora
+24/01/2019 14:35:10->Esperando un tiempo de Demora
+24/01/2019 14:35:10->Esperando un tiempo de Demora
+24/01/2019 14:35:10->Esperando un tiempo de Demora
+24/01/2019 14:35:10->Esperando un tiempo de Demora
+24/01/2019 14:35:10->Esperando un tiempo de Demora
+24/01/2019 14:35:11->Esperando un tiempo de Demora
+24/01/2019 14:35:11->Esperando un tiempo de Demora
+24/01/2019 14:35:11->Esperando un tiempo de Demora
+24/01/2019 14:35:11->Esperando un tiempo de Demora
+24/01/2019 14:35:11->Esperando un tiempo de Demora
+24/01/2019 14:35:11->Esperando un tiempo de Demora
+24/01/2019 14:35:11->Esperando un tiempo de Demora
+24/01/2019 14:35:11->Esperando un tiempo de Demora
+24/01/2019 14:35:11->Esperando un tiempo de Demora
+24/01/2019 14:35:11->Esperando un tiempo de Demora
+24/01/2019 14:35:11->Esperando un tiempo de Demora
+24/01/2019 14:35:11->Esperando un tiempo de Demora
+24/01/2019 14:35:11->Esperando un tiempo de Demora
+24/01/2019 14:35:11->Esperando un tiempo de Demora
+24/01/2019 14:35:11->Esperando un tiempo de Demora
+24/01/2019 14:35:11->Esperando un tiempo de Demora
+24/01/2019 14:35:11->Esperando un tiempo de Demora
+24/01/2019 14:35:12->Esperando un tiempo de Demora
+24/01/2019 14:35:12->Esperando un tiempo de Demora
+24/01/2019 14:35:12->Esperando un tiempo de Demora
+24/01/2019 14:35:12->Esperando un tiempo de Demora
+24/01/2019 14:35:12->Esperando un tiempo de Demora
+24/01/2019 14:35:12->Esperando un tiempo de Demora
+24/01/2019 14:35:12->Esperando un tiempo de Demora
+24/01/2019 14:35:12->Esperando un tiempo de Demora
+24/01/2019 14:35:12->Esperando un tiempo de Demora
+24/01/2019 14:35:12->Esperando un tiempo de Demora
+24/01/2019 14:35:12->Esperando un tiempo de Demora
+24/01/2019 14:35:12->Esperando un tiempo de Demora
+24/01/2019 14:35:12->Esperando un tiempo de Demora
+24/01/2019 14:35:12->Esperando un tiempo de Demora
+24/01/2019 14:35:12->Esperando un tiempo de Demora
+24/01/2019 14:35:12->Esperando un tiempo de Demora
+24/01/2019 14:35:12->Esperando un tiempo de Demora
+24/01/2019 14:35:12->Esperando un tiempo de Demora
+24/01/2019 14:35:12->Esperando un tiempo de Demora
+24/01/2019 14:35:12->Esperando un tiempo de Demora
+24/01/2019 14:35:12->Esperando un tiempo de Demora
+24/01/2019 14:35:13->Esperando un tiempo de Demora
+24/01/2019 14:35:13->Esperando un tiempo de Demora
+24/01/2019 14:35:13->Esperando un tiempo de Demora
+24/01/2019 14:35:13->Esperando un tiempo de Demora
+24/01/2019 14:35:13->Esperando un tiempo de Demora
+24/01/2019 14:35:13->Esperando un tiempo de Demora
+24/01/2019 14:35:13->Esperando un tiempo de Demora
+24/01/2019 14:35:13->Esperando un tiempo de Demora
+24/01/2019 14:35:13->Esperando un tiempo de Demora
+24/01/2019 14:35:13->Esperando un tiempo de Demora
+24/01/2019 14:35:13->Esperando un tiempo de Demora
+24/01/2019 14:35:13->Esperando un tiempo de Demora
+24/01/2019 14:35:13->Esperando un tiempo de Demora
+24/01/2019 14:35:13->Esperando un tiempo de Demora
+24/01/2019 14:35:13->Esperando un tiempo de Demora
+24/01/2019 14:35:13->Esperando un tiempo de Demora
+24/01/2019 14:35:13->Esperando un tiempo de Demora
+24/01/2019 14:35:13->Esperando un tiempo de Demora
+24/01/2019 14:35:13->Esperando un tiempo de Demora
+24/01/2019 14:35:14->Esperando un tiempo de Demora
+24/01/2019 14:35:14->Esperando un tiempo de Demora
+24/01/2019 14:35:14->Esperando un tiempo de Demora
+24/01/2019 14:35:14->Esperando un tiempo de Demora
+24/01/2019 14:35:14->Esperando un tiempo de Demora
+24/01/2019 14:35:14->Esperando un tiempo de Demora
+24/01/2019 14:35:14->Esperando un tiempo de Demora
+24/01/2019 14:35:14->Esperando un tiempo de Demora
+24/01/2019 14:35:14->Esperando un tiempo de Demora
+24/01/2019 14:35:14->Esperando un tiempo de Demora
+24/01/2019 14:35:14->Esperando un tiempo de Demora
+24/01/2019 14:35:14->Esperando un tiempo de Demora
+24/01/2019 14:35:14->Esperando un tiempo de Demora
+24/01/2019 14:35:14->Esperando un tiempo de Demora
+24/01/2019 14:35:14->Esperando un tiempo de Demora
+24/01/2019 14:35:14->Esperando un tiempo de Demora
+24/01/2019 14:35:14->Esperando un tiempo de Demora
+24/01/2019 14:35:14->Esperando un tiempo de Demora
+24/01/2019 14:35:14->Esperando un tiempo de Demora
+24/01/2019 14:35:14->Esperando un tiempo de Demora
+24/01/2019 14:35:14->Esperando un tiempo de Demora
+24/01/2019 14:35:14->Esperando un tiempo de Demora
+24/01/2019 14:35:14->Esperando un tiempo de Demora
+24/01/2019 14:35:14->Esperando un tiempo de Demora
+24/01/2019 14:35:15->Esperando un tiempo de Demora
+24/01/2019 14:35:15->Esperando un tiempo de Demora
+24/01/2019 14:35:15->Esperando un tiempo de Demora
+24/01/2019 14:35:15->Esperando un tiempo de Demora
+24/01/2019 14:35:15->Esperando un tiempo de Demora
+24/01/2019 14:35:15->Esperando un tiempo de Demora
+24/01/2019 14:35:15->Esperando un tiempo de Demora
+24/01/2019 14:35:15->Esperando un tiempo de Demora
+24/01/2019 14:35:15->Esperando un tiempo de Demora
+24/01/2019 14:35:15->Esperando un tiempo de Demora
+24/01/2019 14:35:15->Esperando un tiempo de Demora
+24/01/2019 14:35:15->Esperando un tiempo de Demora
+24/01/2019 14:35:15->Esperando un tiempo de Demora
+24/01/2019 14:35:15->Esperando un tiempo de Demora
+24/01/2019 14:35:15->Esperando un tiempo de Demora
+24/01/2019 14:35:15->Esperando un tiempo de Demora
+24/01/2019 14:35:15->Esperando un tiempo de Demora
+24/01/2019 14:35:15->Esperando un tiempo de Demora
+24/01/2019 14:35:15->Esperando un tiempo de Demora
+24/01/2019 14:35:15->Esperando un tiempo de Demora
+24/01/2019 14:35:15->Esperando un tiempo de Demora
+24/01/2019 14:35:15->Esperando un tiempo de Demora
+24/01/2019 14:35:15->Esperando un tiempo de Demora
+24/01/2019 14:35:16->Esperando un tiempo de Demora
+24/01/2019 14:35:16->Esperando un tiempo de Demora
+24/01/2019 14:35:16->Esperando un tiempo de Demora
+24/01/2019 14:35:16->Esperando un tiempo de Demora
+24/01/2019 14:35:16->Esperando un tiempo de Demora
+24/01/2019 14:35:16->Esperando un tiempo de Demora
+24/01/2019 14:35:16->Esperando un tiempo de Demora
+24/01/2019 14:35:16->Esperando un tiempo de Demora
+24/01/2019 14:35:16->Esperando un tiempo de Demora
+24/01/2019 14:35:16->Esperando un tiempo de Demora
+24/01/2019 14:35:16->Esperando un tiempo de Demora
+24/01/2019 14:35:16->Esperando un tiempo de Demora
+24/01/2019 14:35:16->Esperando un tiempo de Demora
+24/01/2019 14:35:16->Esperando un tiempo de Demora
+24/01/2019 14:35:16->Esperando un tiempo de Demora
+24/01/2019 14:35:16->Esperando un tiempo de Demora
+24/01/2019 14:35:16->Esperando un tiempo de Demora
+24/01/2019 14:35:16->Esperando un tiempo de Demora
+24/01/2019 14:35:16->Esperando un tiempo de Demora
+24/01/2019 14:35:16->Esperando un tiempo de Demora
+24/01/2019 14:35:16->Esperando un tiempo de Demora
+24/01/2019 14:35:16->Esperando un tiempo de Demora
+24/01/2019 14:35:17->Esperando un tiempo de Demora
+24/01/2019 14:35:17->Esperando un tiempo de Demora
+24/01/2019 14:35:17->Esperando un tiempo de Demora
+24/01/2019 14:35:17->Esperando un tiempo de Demora
+24/01/2019 14:35:17->Esperando un tiempo de Demora
+24/01/2019 14:35:17->Esperando un tiempo de Demora
+24/01/2019 14:35:17->Esperando un tiempo de Demora
+24/01/2019 14:35:17->Esperando un tiempo de Demora
+24/01/2019 14:35:17->Esperando un tiempo de Demora
+24/01/2019 14:35:17->Esperando un tiempo de Demora
+24/01/2019 14:35:17->Esperando un tiempo de Demora
+24/01/2019 14:35:17->Esperando un tiempo de Demora
+24/01/2019 14:35:17->Esperando un tiempo de Demora
+24/01/2019 14:35:17->Esperando un tiempo de Demora
+24/01/2019 14:35:17->Esperando un tiempo de Demora
+24/01/2019 14:35:17->Esperando un tiempo de Demora
+24/01/2019 14:35:17->Esperando un tiempo de Demora
+24/01/2019 14:35:17->Esperando un tiempo de Demora
+24/01/2019 14:35:17->Esperando un tiempo de Demora
+24/01/2019 14:35:17->Esperando un tiempo de Demora
+24/01/2019 14:35:17->Esperando un tiempo de Demora
+24/01/2019 14:35:17->Esperando un tiempo de Demora
+24/01/2019 14:35:17->Esperando un tiempo de Demora
+24/01/2019 14:35:18->Esperando un tiempo de Demora
+24/01/2019 14:35:18->Esperando un tiempo de Demora
+24/01/2019 14:35:18->Esperando un tiempo de Demora
+24/01/2019 14:35:18->Esperando un tiempo de Demora
+24/01/2019 14:35:18->Esperando un tiempo de Demora
+24/01/2019 14:35:18->Esperando un tiempo de Demora
+24/01/2019 14:35:18->Esperando un tiempo de Demora
+24/01/2019 14:35:18->Esperando un tiempo de Demora
+24/01/2019 14:35:18->Esperando un tiempo de Demora
+24/01/2019 14:35:18->Esperando un tiempo de Demora
+24/01/2019 14:35:18->Esperando un tiempo de Demora
+24/01/2019 14:35:18->Esperando un tiempo de Demora
+24/01/2019 14:35:18->Esperando un tiempo de Demora
+24/01/2019 14:35:18->Esperando un tiempo de Demora
+24/01/2019 14:35:18->Esperando un tiempo de Demora
+24/01/2019 14:35:18->Esperando un tiempo de Demora
+24/01/2019 14:35:18->Esperando un tiempo de Demora
+24/01/2019 14:35:18->Esperando un tiempo de Demora
+24/01/2019 14:35:18->Esperando un tiempo de Demora
+24/01/2019 14:35:18->Esperando un tiempo de Demora
+24/01/2019 14:35:18->Esperando un tiempo de Demora
+24/01/2019 14:35:18->Esperando un tiempo de Demora
+24/01/2019 14:35:18->Esperando un tiempo de Demora
+24/01/2019 14:35:19->Esperando un tiempo de Demora
+24/01/2019 14:35:19->Esperando un tiempo de Demora
+24/01/2019 14:35:19->Esperando un tiempo de Demora
+24/01/2019 14:35:19->Esperando un tiempo de Demora
+24/01/2019 14:35:19->Esperando un tiempo de Demora
+24/01/2019 14:35:19->Esperando un tiempo de Demora
+24/01/2019 14:35:19->Esperando un tiempo de Demora
+24/01/2019 14:35:19->Esperando un tiempo de Demora
+24/01/2019 14:35:19->Esperando un tiempo de Demora
+24/01/2019 14:35:19->Esperando un tiempo de Demora
+24/01/2019 14:35:19->Esperando un tiempo de Demora
+24/01/2019 14:35:19->Esperando un tiempo de Demora
+24/01/2019 14:35:19->Esperando un tiempo de Demora
+24/01/2019 14:35:19->Esperando un tiempo de Demora
+24/01/2019 14:35:19->Esperando un tiempo de Demora
+24/01/2019 14:35:19->Esperando un tiempo de Demora
+24/01/2019 14:35:19->Esperando un tiempo de Demora
+24/01/2019 14:35:19->Esperando un tiempo de Demora
+24/01/2019 14:35:19->Esperando un tiempo de Demora
+24/01/2019 14:35:19->Esperando un tiempo de Demora
+24/01/2019 14:35:19->Esperando un tiempo de Demora
+24/01/2019 14:35:19->Esperando un tiempo de Demora
+24/01/2019 14:35:19->Esperando un tiempo de Demora
+24/01/2019 14:35:20->Esperando un tiempo de Demora
+24/01/2019 14:35:20->Esperando un tiempo de Demora
+24/01/2019 14:35:20->Esperando un tiempo de Demora
+24/01/2019 14:35:20->Esperando un tiempo de Demora
+24/01/2019 14:35:20->Esperando un tiempo de Demora
+24/01/2019 14:35:20->Esperando un tiempo de Demora
+24/01/2019 14:35:20->Esperando un tiempo de Demora
+24/01/2019 14:35:20->Esperando un tiempo de Demora
+24/01/2019 14:35:20->Esperando un tiempo de Demora
+24/01/2019 14:35:20->Esperando un tiempo de Demora
+24/01/2019 14:35:20->Esperando un tiempo de Demora
+24/01/2019 14:35:20->Esperando un tiempo de Demora
+24/01/2019 14:35:20->Esperando un tiempo de Demora
+24/01/2019 14:35:20->Esperando un tiempo de Demora
+24/01/2019 14:35:20->Esperando un tiempo de Demora
+24/01/2019 14:35:20->Esperando un tiempo de Demora
+24/01/2019 14:35:20->Esperando un tiempo de Demora
+24/01/2019 14:35:20->Esperando un tiempo de Demora
+24/01/2019 14:35:20->Esperando un tiempo de Demora
+24/01/2019 14:35:20->Esperando un tiempo de Demora
+24/01/2019 14:35:20->Esperando un tiempo de Demora
+24/01/2019 14:35:20->Esperando un tiempo de Demora
+24/01/2019 14:35:21->Esperando un tiempo de Demora
+24/01/2019 14:35:21->Esperando un tiempo de Demora
+24/01/2019 14:35:21->Esperando un tiempo de Demora
+24/01/2019 14:35:21->Esperando un tiempo de Demora
+24/01/2019 14:35:21->Esperando un tiempo de Demora
+24/01/2019 14:35:21->Esperando un tiempo de Demora
+24/01/2019 14:35:21->Esperando un tiempo de Demora
+24/01/2019 14:35:21->Esperando un tiempo de Demora
+24/01/2019 14:35:21->Esperando un tiempo de Demora
+24/01/2019 14:35:21->Esperando un tiempo de Demora
+24/01/2019 14:35:21->Esperando un tiempo de Demora
+24/01/2019 14:35:21->Esperando un tiempo de Demora
+24/01/2019 14:35:21->Esperando un tiempo de Demora
+24/01/2019 14:35:21->Esperando un tiempo de Demora
+24/01/2019 14:35:21->Esperando un tiempo de Demora
+24/01/2019 14:35:21->Esperando un tiempo de Demora
+24/01/2019 14:35:21->Esperando un tiempo de Demora
+24/01/2019 14:35:21->Esperando un tiempo de Demora
+24/01/2019 14:35:21->Esperando un tiempo de Demora
+24/01/2019 14:35:21->Esperando un tiempo de Demora
+24/01/2019 14:35:21->Esperando un tiempo de Demora
+24/01/2019 14:35:21->Esperando un tiempo de Demora
+24/01/2019 14:35:21->Esperando un tiempo de Demora
+24/01/2019 14:35:22->Esperando un tiempo de Demora
+24/01/2019 14:35:22->Esperando un tiempo de Demora
+24/01/2019 14:35:22->Esperando un tiempo de Demora
+24/01/2019 14:35:22->Esperando un tiempo de Demora
+24/01/2019 14:35:22->Esperando un tiempo de Demora
+24/01/2019 14:35:22->Esperando un tiempo de Demora
+24/01/2019 14:35:22->Esperando un tiempo de Demora
+24/01/2019 14:35:22->Esperando un tiempo de Demora
+24/01/2019 14:35:22->Esperando un tiempo de Demora
+24/01/2019 14:35:22->Esperando un tiempo de Demora
+24/01/2019 14:35:22->Esperando un tiempo de Demora
+24/01/2019 14:35:22->Esperando un tiempo de Demora
+24/01/2019 14:35:22->Esperando un tiempo de Demora
+24/01/2019 14:35:22->Esperando un tiempo de Demora
+24/01/2019 14:35:22->Esperando un tiempo de Demora
+24/01/2019 14:35:22->Esperando un tiempo de Demora
+24/01/2019 14:35:22->Esperando un tiempo de Demora
+24/01/2019 14:35:22->Esperando un tiempo de Demora
+24/01/2019 14:35:22->Esperando un tiempo de Demora
+24/01/2019 14:35:22->Esperando un tiempo de Demora
+24/01/2019 14:35:23->Esperando un tiempo de Demora
+24/01/2019 14:35:23->Esperando un tiempo de Demora
+24/01/2019 14:35:23->Esperando un tiempo de Demora
+24/01/2019 14:35:23->Esperando un tiempo de Demora
+24/01/2019 14:35:23->Esperando un tiempo de Demora
+24/01/2019 14:35:23->Esperando un tiempo de Demora
+24/01/2019 14:35:23->Esperando un tiempo de Demora
+24/01/2019 14:35:23->Esperando un tiempo de Demora
+24/01/2019 14:35:23->Esperando un tiempo de Demora
+24/01/2019 14:35:23->Esperando un tiempo de Demora
+24/01/2019 14:35:23->Esperando un tiempo de Demora
+24/01/2019 14:35:23->Esperando un tiempo de Demora
+24/01/2019 14:35:23->Esperando un tiempo de Demora
+24/01/2019 14:35:23->Esperando un tiempo de Demora
+24/01/2019 14:35:23->Esperando un tiempo de Demora
+24/01/2019 14:35:23->Esperando un tiempo de Demora
+24/01/2019 14:35:23->Esperando un tiempo de Demora
+24/01/2019 14:35:23->Esperando un tiempo de Demora
+24/01/2019 14:35:23->Esperando un tiempo de Demora
+24/01/2019 14:35:23->Esperando un tiempo de Demora
+24/01/2019 14:35:23->Esperando un tiempo de Demora
+24/01/2019 14:35:23->Esperando un tiempo de Demora
+24/01/2019 14:35:24->Esperando un tiempo de Demora
+24/01/2019 14:35:24->Esperando un tiempo de Demora
+24/01/2019 14:35:24->Esperando un tiempo de Demora
+24/01/2019 14:35:24->Esperando un tiempo de Demora
+24/01/2019 14:35:24->Esperando un tiempo de Demora
+24/01/2019 14:35:24->Esperando un tiempo de Demora
+24/01/2019 14:35:24->Esperando un tiempo de Demora
+24/01/2019 14:35:24->Esperando un tiempo de Demora
+24/01/2019 14:35:24->Esperando un tiempo de Demora
+24/01/2019 14:35:24->Esperando un tiempo de Demora
+24/01/2019 14:35:24->Esperando un tiempo de Demora
+24/01/2019 14:35:24->Esperando un tiempo de Demora
+24/01/2019 14:35:24->Esperando un tiempo de Demora
+24/01/2019 14:35:24->Esperando un tiempo de Demora
+24/01/2019 14:35:24->Esperando un tiempo de Demora
+24/01/2019 14:35:24->Esperando un tiempo de Demora
+24/01/2019 14:35:24->Esperando un tiempo de Demora
+24/01/2019 14:35:24->Esperando un tiempo de Demora
+24/01/2019 14:35:24->Esperando un tiempo de Demora
+24/01/2019 14:35:24->Esperando un tiempo de Demora
+24/01/2019 14:35:24->Esperando un tiempo de Demora
+24/01/2019 14:35:25->Esperando un tiempo de Demora
+24/01/2019 14:35:25->Esperando un tiempo de Demora
+24/01/2019 14:35:25->Esperando un tiempo de Demora
+24/01/2019 14:35:25->Esperando un tiempo de Demora
+24/01/2019 14:35:25->Esperando un tiempo de Demora
+24/01/2019 14:35:25->Esperando un tiempo de Demora
+24/01/2019 14:35:25->Esperando un tiempo de Demora
+24/01/2019 14:35:25->Esperando un tiempo de Demora
+24/01/2019 14:35:25->Esperando un tiempo de Demora
+24/01/2019 14:35:25->Esperando un tiempo de Demora
+24/01/2019 14:35:25->Esperando un tiempo de Demora
+24/01/2019 14:35:25->Esperando un tiempo de Demora
+24/01/2019 14:35:25->Esperando un tiempo de Demora
+24/01/2019 14:35:25->Esperando un tiempo de Demora
+24/01/2019 14:35:25->Esperando un tiempo de Demora
+24/01/2019 14:35:25->Esperando un tiempo de Demora
+24/01/2019 14:35:25->Esperando un tiempo de Demora
+24/01/2019 14:35:25->Esperando un tiempo de Demora
+24/01/2019 14:38:00->		 ----> Copiar Archivos 
+24/01/2019 14:38:00->Copiando -> Infragistics4.Win.UltraWinTabbedMdi.v12.2.xml
+24/01/2019 14:38:01->Copiando -> Infragistics4.Win.Misc.v12.2.xml
+24/01/2019 14:38:01->Copiando -> Infragistics4.Shared.v12.2.xml
+24/01/2019 14:38:01->Copiando -> Infragistics4.Win.v12.2.xml
+24/01/2019 14:38:01->Copiando -> Infragistics4.Shared.v12.2.dll
+24/01/2019 14:38:01->		 ----> Finalizar Copiado 
+24/01/2019 14:38:01->		 ----> Finalizado el proceso 
+24/01/2019 14:38:53->		 ----> Copiar Archivos 
+24/01/2019 14:38:53->Copiando -> Infragistics4.Win.UltraWinTabbedMdi.v12.2.xml
+24/01/2019 14:38:53->Copiando -> Infragistics4.Win.Misc.v12.2.xml
+24/01/2019 14:38:53->Copiando -> Infragistics4.Shared.v12.2.xml
+24/01/2019 14:38:53->Copiando -> Infragistics4.Win.v12.2.xml
+24/01/2019 14:38:53->Copiando -> Infragistics4.Shared.v12.2.dll
+24/01/2019 14:38:53->		 ----> Finalizar Copiado 
+24/01/2019 14:38:53->		 ----> Finalizado el proceso 
+24/01/2019 14:40:43->		 ----> Copiar Archivos 
+24/01/2019 14:40:43->Copiando -> EntityFramework.dll
+24/01/2019 14:40:43->Copiando -> EntityFramework.SqlServer.dll
+24/01/2019 14:40:43->Copiando -> EntityFramework.SqlServer.xml
+24/01/2019 14:40:43->Copiando -> EntityFramework.xml
+24/01/2019 14:40:44->Copiando -> Infragistics4.Shared.v12.2.dll
+24/01/2019 14:40:44->Copiando -> Infragistics4.Shared.v12.2.xml
+24/01/2019 14:40:44->Copiando -> Infragistics4.Win.Misc.v12.2.dll
+24/01/2019 14:40:44->Copiando -> Infragistics4.Win.Misc.v12.2.xml
+24/01/2019 14:40:44->Copiando -> Infragistics4.Win.UltraWinTabbedMdi.v12.2.dll
+24/01/2019 14:40:44->Copiando -> Infragistics4.Win.UltraWinTabbedMdi.v12.2.xml
+24/01/2019 14:40:45->Copiando -> Infragistics4.Win.v12.2.dll
+24/01/2019 14:40:45->Copiando -> Infragistics4.Win.v12.2.xml
+24/01/2019 14:40:45->Copiando -> Microsoft.AspNet.Identity.Core.dll
+24/01/2019 14:40:45->Copiando -> Microsoft.AspNet.Identity.Core.xml
+24/01/2019 14:40:45->Copiando -> MiniGestorCodigo.BL.dll
+24/01/2019 14:40:45->Copiando -> MiniGestorCodigo.BL.dll.config
+24/01/2019 14:40:45->Copiando -> MiniGestorCodigo.DM.dll
+24/01/2019 14:40:45->Copiando -> MiniGestorCodigo.DM.dll.config
+24/01/2019 14:40:46->Copiando -> MiniGestorCodigo.Security.exe
+24/01/2019 14:40:46->Copiando -> MiniGestorCodigo.Security.exe.config
+24/01/2019 14:40:46->Copiando -> MiniGestorCodigo.Starter.exe
+24/01/2019 14:40:46->Copiando -> MiniGestorCodigo.Starter.exe.config
+24/01/2019 14:40:46->Copiando -> MiniGestorCodigo.UI.exe
+24/01/2019 14:40:46->Copiando -> MiniGestorCodigo.UI.exe.config
+24/01/2019 14:40:46->Copiando -> Utilities.Clases.dll
+24/01/2019 14:40:46->Copiando -> Utilities.Controls.dll
+24/01/2019 14:40:47->Copiando -> Utilities.Extensions.dll
+24/01/2019 14:40:47->		 ----> Finalizar Copiado 
+24/01/2019 14:40:47->		 ----> Finalizado el proceso 
+24/01/2019 14:41:25->		 ----> Copiar Archivos 
+24/01/2019 14:41:25->Copiando -> Infragistics4.Win.UltraWinTabbedMdi.v12.2.xml
+24/01/2019 14:41:25->Copiando -> Infragistics4.Win.Misc.v12.2.xml
+24/01/2019 14:41:26->Copiando -> Infragistics4.Shared.v12.2.xml
+24/01/2019 14:41:26->Copiando -> Infragistics4.Win.v12.2.xml
+24/01/2019 14:41:26->Copiando -> Infragistics4.Shared.v12.2.dll
+24/01/2019 14:41:26->		 ----> Finalizar Copiado 
+24/01/2019 14:41:26->		 ----> Finalizado el proceso 
+24/01/2019 14:42:08->		 ----> Copiar Archivos 
+24/01/2019 14:42:08->Copiando -> EntityFramework.dll
+24/01/2019 14:42:08->Copiando -> EntityFramework.SqlServer.dll
+24/01/2019 14:42:08->Copiando -> EntityFramework.SqlServer.xml
+24/01/2019 14:42:08->Copiando -> EntityFramework.xml
+24/01/2019 14:42:08->Copiando -> Infragistics4.Shared.v12.2.dll
+24/01/2019 14:42:09->Copiando -> Infragistics4.Shared.v12.2.xml
+24/01/2019 14:42:09->Copiando -> Infragistics4.Win.Misc.v12.2.dll
+24/01/2019 14:42:09->Copiando -> Infragistics4.Win.Misc.v12.2.xml
+24/01/2019 14:42:09->Copiando -> Infragistics4.Win.UltraWinTabbedMdi.v12.2.dll
+24/01/2019 14:42:09->Copiando -> Infragistics4.Win.UltraWinTabbedMdi.v12.2.xml
+24/01/2019 14:42:09->Copiando -> Infragistics4.Win.v12.2.dll
+24/01/2019 14:42:09->Copiando -> Infragistics4.Win.v12.2.xml
+24/01/2019 14:42:09->Copiando -> Microsoft.AspNet.Identity.Core.dll
+24/01/2019 14:42:09->Copiando -> Microsoft.AspNet.Identity.Core.xml
+24/01/2019 14:42:09->Copiando -> MiniGestorCodigo.BL.dll
+24/01/2019 14:42:09->Copiando -> MiniGestorCodigo.BL.dll.config
+24/01/2019 14:42:09->Copiando -> MiniGestorCodigo.DM.dll
+24/01/2019 14:42:09->Copiando -> MiniGestorCodigo.DM.dll.config
+24/01/2019 14:42:09->Copiando -> MiniGestorCodigo.Security.exe
+24/01/2019 14:42:09->Copiando -> MiniGestorCodigo.Security.exe.config
+24/01/2019 14:42:09->Copiando -> MiniGestorCodigo.Starter.exe
+24/01/2019 14:42:09->Copiando -> MiniGestorCodigo.Starter.exe.config
+24/01/2019 14:42:09->Copiando -> MiniGestorCodigo.UI.exe
+24/01/2019 14:42:09->Copiando -> MiniGestorCodigo.UI.exe.config
+24/01/2019 14:42:09->Copiando -> Utilities.Clases.dll
+24/01/2019 14:42:10->Copiando -> Utilities.Controls.dll
+24/01/2019 14:42:10->Copiando -> Utilities.Extensions.dll
+24/01/2019 14:42:10->		 ----> Finalizar Copiado 
+24/01/2019 14:42:10->		 ----> Finalizado el proceso 
+24/01/2019 14:42:31->		 ----> Copiar Archivos 
+24/01/2019 14:42:31->Copiando -> EntityFramework.dll
+24/01/2019 14:42:31->Copiando -> EntityFramework.SqlServer.dll
+24/01/2019 14:42:31->Copiando -> EntityFramework.SqlServer.xml
+24/01/2019 14:42:31->Copiando -> EntityFramework.xml
+24/01/2019 14:42:31->Copiando -> Infragistics4.Shared.v12.2.dll
+24/01/2019 14:42:31->Copiando -> Infragistics4.Shared.v12.2.xml
+24/01/2019 14:42:31->Copiando -> Infragistics4.Win.Misc.v12.2.dll
+24/01/2019 14:42:31->Copiando -> Infragistics4.Win.Misc.v12.2.xml
+24/01/2019 14:42:31->Copiando -> Infragistics4.Win.UltraWinTabbedMdi.v12.2.dll
+24/01/2019 14:42:31->Copiando -> Infragistics4.Win.UltraWinTabbedMdi.v12.2.xml
+24/01/2019 14:42:31->Copiando -> Infragistics4.Win.v12.2.dll
+24/01/2019 14:42:31->Copiando -> Infragistics4.Win.v12.2.xml
+24/01/2019 14:42:31->Copiando -> Microsoft.AspNet.Identity.Core.dll
+24/01/2019 14:42:31->Copiando -> Microsoft.AspNet.Identity.Core.xml
+24/01/2019 14:42:32->Copiando -> MiniGestorCodigo.BL.dll
+24/01/2019 14:42:32->Copiando -> MiniGestorCodigo.BL.dll.config
+24/01/2019 14:42:32->Copiando -> MiniGestorCodigo.DM.dll
+24/01/2019 14:42:32->Copiando -> MiniGestorCodigo.DM.dll.config
+24/01/2019 14:42:32->Copiando -> MiniGestorCodigo.Security.exe
+24/01/2019 14:42:32->Copiando -> MiniGestorCodigo.Security.exe.config
+24/01/2019 14:42:32->Copiando -> MiniGestorCodigo.Starter.exe
+24/01/2019 14:42:32->Copiando -> MiniGestorCodigo.Starter.exe.config
+24/01/2019 14:42:32->Copiando -> MiniGestorCodigo.UI.exe
+24/01/2019 14:42:32->Copiando -> MiniGestorCodigo.UI.exe.config
+24/01/2019 14:42:32->Copiando -> Utilities.Clases.dll
+24/01/2019 14:42:32->Copiando -> Utilities.Controls.dll
+24/01/2019 14:42:32->Copiando -> Utilities.Extensions.dll
+24/01/2019 14:42:32->Copiando -> Infragistics4.Win.UltraWinTabbedMdi.v12.2.xml
+24/01/2019 14:42:32->Copiando -> Infragistics4.Win.Misc.v12.2.xml
+24/01/2019 14:42:32->Copiando -> Infragistics4.Shared.v12.2.xml
+24/01/2019 14:42:32->Copiando -> Infragistics4.Win.v12.2.xml
+24/01/2019 14:42:32->Copiando -> Infragistics4.Shared.v12.2.dll
+24/01/2019 14:42:32->		 ----> Finalizar Copiado 
+24/01/2019 14:42:32->		 ----> Finalizado el proceso 
+24/01/2019 14:43:18->Esperando un tiempo de Demora
+24/01/2019 14:44:19->		 ----> Copiar Archivos 
+24/01/2019 14:44:19->Copiando -> EntityFramework.dll
+24/01/2019 14:44:19->Copiando -> EntityFramework.SqlServer.dll
+24/01/2019 14:44:19->Copiando -> EntityFramework.SqlServer.xml
+24/01/2019 14:44:19->Copiando -> EntityFramework.xml
+24/01/2019 14:44:19->Copiando -> Infragistics4.Shared.v12.2.dll
+24/01/2019 14:44:19->Copiando -> Infragistics4.Shared.v12.2.xml
+24/01/2019 14:44:19->Copiando -> Infragistics4.Win.Misc.v12.2.dll
+24/01/2019 14:44:19->Copiando -> Infragistics4.Win.Misc.v12.2.xml
+24/01/2019 14:44:19->Copiando -> Infragistics4.Win.UltraWinTabbedMdi.v12.2.dll
+24/01/2019 14:44:19->Copiando -> Infragistics4.Win.UltraWinTabbedMdi.v12.2.xml
+24/01/2019 14:44:19->Copiando -> Infragistics4.Win.v12.2.dll
+24/01/2019 14:44:19->Copiando -> Infragistics4.Win.v12.2.xml
+24/01/2019 14:44:19->Copiando -> Microsoft.AspNet.Identity.Core.dll
+24/01/2019 14:44:19->Copiando -> Microsoft.AspNet.Identity.Core.xml
+24/01/2019 14:44:20->Copiando -> MiniGestorCodigo.BL.dll
+24/01/2019 14:44:20->Copiando -> MiniGestorCodigo.BL.dll.config
+24/01/2019 14:44:20->Copiando -> MiniGestorCodigo.DM.dll
+24/01/2019 14:44:20->Copiando -> MiniGestorCodigo.DM.dll.config
+24/01/2019 14:44:20->Copiando -> MiniGestorCodigo.Security.exe
+24/01/2019 14:44:20->Copiando -> MiniGestorCodigo.Security.exe.config
+24/01/2019 14:44:20->Copiando -> MiniGestorCodigo.Starter.exe
+24/01/2019 14:44:20->Copiando -> MiniGestorCodigo.Starter.exe.config
+24/01/2019 14:44:20->Copiando -> MiniGestorCodigo.UI.exe
+24/01/2019 14:44:20->Copiando -> MiniGestorCodigo.UI.exe.config
+24/01/2019 14:44:20->Copiando -> Utilities.Clases.dll
+24/01/2019 14:44:20->Copiando -> Utilities.Controls.dll
+24/01/2019 14:44:20->Copiando -> Utilities.Extensions.dll
+24/01/2019 14:44:20->		 ----> Finalizar Copiado 
+24/01/2019 14:44:20->		 ----> Finalizado el proceso 
+24/01/2019 14:44:45->		 ----> Copiar Archivos 
+24/01/2019 14:44:45->Copiando -> EntityFramework.dll
+24/01/2019 14:44:45->Copiando -> EntityFramework.SqlServer.dll
+24/01/2019 14:44:45->Copiando -> EntityFramework.SqlServer.xml
+24/01/2019 14:44:45->Copiando -> EntityFramework.xml
+24/01/2019 14:44:45->Copiando -> Infragistics4.Shared.v12.2.dll
+24/01/2019 14:44:45->Copiando -> Infragistics4.Shared.v12.2.xml
+24/01/2019 14:44:45->Copiando -> Infragistics4.Win.Misc.v12.2.dll
+24/01/2019 14:44:45->Copiando -> Infragistics4.Win.Misc.v12.2.xml
+24/01/2019 14:44:45->Copiando -> Infragistics4.Win.UltraWinTabbedMdi.v12.2.dll
+24/01/2019 14:44:45->Copiando -> Infragistics4.Win.UltraWinTabbedMdi.v12.2.xml
+24/01/2019 14:44:45->Copiando -> Infragistics4.Win.v12.2.dll
+24/01/2019 14:44:45->Copiando -> Infragistics4.Win.v12.2.xml
+24/01/2019 14:44:45->Copiando -> Microsoft.AspNet.Identity.Core.dll
+24/01/2019 14:44:45->Copiando -> Microsoft.AspNet.Identity.Core.xml
+24/01/2019 14:44:45->Copiando -> MiniGestorCodigo.BL.dll
+24/01/2019 14:44:45->Copiando -> MiniGestorCodigo.BL.dll.config
+24/01/2019 14:44:46->Copiando -> MiniGestorCodigo.DM.dll
+24/01/2019 14:44:46->Copiando -> MiniGestorCodigo.DM.dll.config
+24/01/2019 14:44:46->Copiando -> MiniGestorCodigo.Security.exe
+24/01/2019 14:44:46->Copiando -> MiniGestorCodigo.Security.exe.config
+24/01/2019 14:44:46->Copiando -> MiniGestorCodigo.Starter.exe
+24/01/2019 14:44:46->Copiando -> MiniGestorCodigo.Starter.exe.config
+24/01/2019 14:44:46->Copiando -> MiniGestorCodigo.UI.exe
+24/01/2019 14:44:46->Copiando -> MiniGestorCodigo.UI.exe.config
+24/01/2019 14:44:46->Copiando -> Utilities.Clases.dll
+24/01/2019 14:44:46->Copiando -> Utilities.Controls.dll
+24/01/2019 14:44:46->Copiando -> Utilities.Extensions.dll
+24/01/2019 14:44:46->Copiando -> Infragistics4.Win.UltraWinTabbedMdi.v12.2.xml
+24/01/2019 14:44:46->Copiando -> Infragistics4.Win.Misc.v12.2.xml
+24/01/2019 14:44:46->Copiando -> Infragistics4.Shared.v12.2.xml
+24/01/2019 14:44:46->Copiando -> Infragistics4.Win.v12.2.xml
+24/01/2019 14:44:46->Copiando -> Infragistics4.Shared.v12.2.dll
+24/01/2019 14:44:46->		 ----> Finalizar Copiado 
+24/01/2019 14:44:46->		 ----> Finalizado el proceso 
+24/01/2019 14:45:14->Esperando un tiempo de Demora
+24/01/2019 14:46:14->		 ----> Copiar Archivos 
+24/01/2019 14:46:14->Copiando -> EntityFramework.dll
+24/01/2019 14:46:14->Copiando -> EntityFramework.SqlServer.dll
+24/01/2019 14:46:14->Copiando -> EntityFramework.SqlServer.xml
+24/01/2019 14:46:14->Copiando -> EntityFramework.xml
+24/01/2019 14:46:14->Copiando -> Infragistics4.Shared.v12.2.dll
+24/01/2019 14:46:14->Copiando -> Infragistics4.Shared.v12.2.xml
+24/01/2019 14:46:14->Copiando -> Infragistics4.Win.Misc.v12.2.dll
+24/01/2019 14:46:14->Copiando -> Infragistics4.Win.Misc.v12.2.xml
+24/01/2019 14:46:14->Copiando -> Infragistics4.Win.UltraWinTabbedMdi.v12.2.dll
+24/01/2019 14:46:14->Copiando -> Infragistics4.Win.UltraWinTabbedMdi.v12.2.xml
+24/01/2019 14:46:14->Copiando -> Infragistics4.Win.v12.2.dll
+24/01/2019 14:46:14->Copiando -> Infragistics4.Win.v12.2.xml
+24/01/2019 14:46:14->Copiando -> Microsoft.AspNet.Identity.Core.dll
+24/01/2019 14:46:14->Copiando -> Microsoft.AspNet.Identity.Core.xml
+24/01/2019 14:46:14->Copiando -> MiniGestorCodigo.BL.dll
+24/01/2019 14:46:14->Copiando -> MiniGestorCodigo.BL.dll.config
+24/01/2019 14:46:14->Copiando -> MiniGestorCodigo.DM.dll
+24/01/2019 14:46:14->Copiando -> MiniGestorCodigo.DM.dll.config
+24/01/2019 14:46:14->Copiando -> MiniGestorCodigo.Security.exe
+24/01/2019 14:46:14->Copiando -> MiniGestorCodigo.Security.exe.config
+24/01/2019 14:46:15->Copiando -> MiniGestorCodigo.Starter.exe
+24/01/2019 14:46:15->Copiando -> MiniGestorCodigo.Starter.exe.config
+24/01/2019 14:46:15->Copiando -> MiniGestorCodigo.UI.exe
+24/01/2019 14:46:15->Copiando -> MiniGestorCodigo.UI.exe.config
+24/01/2019 14:46:15->Copiando -> Utilities.Clases.dll
+24/01/2019 14:46:15->Copiando -> Utilities.Controls.dll
+24/01/2019 14:46:15->Copiando -> Utilities.Extensions.dll
+24/01/2019 14:46:15->		 ----> Finalizar Copiado 
+24/01/2019 14:46:15->		 ----> Finalizado el proceso 
+24/01/2019 14:48:22->		 ----> Copiar Archivos 
+24/01/2019 14:48:23->Copiando -> Infragistics4.Win.UltraWinTabbedMdi.v12.2.xml
+24/01/2019 14:48:23->Copiando -> Infragistics4.Win.Misc.v12.2.xml
+24/01/2019 14:48:23->Copiando -> Infragistics4.Shared.v12.2.xml
+24/01/2019 14:48:23->Copiando -> Infragistics4.Win.v12.2.xml
+24/01/2019 14:48:23->Copiando -> Infragistics4.Shared.v12.2.dll
+24/01/2019 14:48:23->		 ----> Finalizar Copiado 
+24/01/2019 14:48:24->		 ----> Finalizado el proceso 
+24/01/2019 14:48:57->Esperando un tiempo de Demora
+24/01/2019 14:49:43->		 ----> Copiar Archivos 
+24/01/2019 14:50:48->		 ----> Copiar Archivos 
+24/01/2019 14:50:50->Copiando -> EntityFramework.dll
+24/01/2019 14:50:50->Copiando -> EntityFramework.SqlServer.dll
+24/01/2019 14:50:50->Copiando -> EntityFramework.SqlServer.xml
+24/01/2019 14:50:50->Copiando -> EntityFramework.xml
+24/01/2019 14:50:50->Copiando -> Infragistics4.Shared.v12.2.dll
+24/01/2019 14:50:50->Copiando -> Infragistics4.Shared.v12.2.xml
+24/01/2019 14:50:50->Copiando -> Infragistics4.Win.Misc.v12.2.dll
+24/01/2019 14:50:50->Copiando -> Infragistics4.Win.Misc.v12.2.xml
+24/01/2019 14:50:50->Copiando -> Infragistics4.Win.UltraWinTabbedMdi.v12.2.dll
+24/01/2019 14:50:50->Copiando -> Infragistics4.Win.UltraWinTabbedMdi.v12.2.xml
+24/01/2019 14:50:50->Copiando -> Infragistics4.Win.v12.2.dll
+24/01/2019 14:50:50->Copiando -> Infragistics4.Win.v12.2.xml
+24/01/2019 14:50:50->Copiando -> Microsoft.AspNet.Identity.Core.dll
+24/01/2019 14:50:51->Copiando -> Microsoft.AspNet.Identity.Core.xml
+24/01/2019 14:50:51->Copiando -> MiniGestorCodigo.BL.dll
+24/01/2019 14:50:51->Copiando -> MiniGestorCodigo.BL.dll.config
+24/01/2019 14:50:51->Copiando -> MiniGestorCodigo.DM.dll
+24/01/2019 14:50:51->Copiando -> MiniGestorCodigo.DM.dll.config
+24/01/2019 14:50:51->Copiando -> MiniGestorCodigo.Security.exe
+24/01/2019 14:50:51->Copiando -> MiniGestorCodigo.Security.exe.config
+24/01/2019 14:50:51->Copiando -> MiniGestorCodigo.Starter.exe
+24/01/2019 14:50:51->Copiando -> MiniGestorCodigo.Starter.exe.config
+24/01/2019 14:50:51->Copiando -> MiniGestorCodigo.UI.exe
+24/01/2019 14:50:51->Copiando -> MiniGestorCodigo.UI.exe.config
+24/01/2019 14:50:51->Copiando -> Utilities.Clases.dll
+24/01/2019 14:50:51->Copiando -> Utilities.Controls.dll
+24/01/2019 14:50:51->Copiando -> Utilities.Extensions.dll
+24/01/2019 14:50:51->		 ----> Finalizar Copiado 
+24/01/2019 14:54:48->		 ----> Copiar Archivos 
+24/01/2019 14:54:49->Copiando -> Infragistics4.Win.UltraWinTabbedMdi.v12.2.xml
+24/01/2019 14:54:49->Copiando -> Infragistics4.Win.Misc.v12.2.xml
+24/01/2019 14:54:49->Copiando -> Infragistics4.Shared.v12.2.xml
+24/01/2019 14:54:49->Copiando -> Infragistics4.Win.v12.2.xml
+24/01/2019 14:54:49->Copiando -> Infragistics4.Shared.v12.2.dll
+24/01/2019 14:54:49->		 ----> Finalizar Copiado 
+24/01/2019 14:54:53->Esperando un tiempo de Demora
+24/01/2019 14:55:11->		 ----> Finalizado el proceso 
+24/01/2019 15:04:54->		 ----> Copiar Archivos 
+24/01/2019 15:04:54->Copiando -> EntityFramework.dll
+24/01/2019 15:04:54->Copiando -> EntityFramework.SqlServer.dll
+24/01/2019 15:04:55->Copiando -> EntityFramework.SqlServer.xml
+24/01/2019 15:04:55->Copiando -> EntityFramework.xml
+24/01/2019 15:04:55->Copiando -> Infragistics4.Shared.v12.2.dll
+24/01/2019 15:04:55->Copiando -> Infragistics4.Shared.v12.2.xml
+24/01/2019 15:04:55->Copiando -> Infragistics4.Win.Misc.v12.2.dll
+24/01/2019 15:04:55->Copiando -> Infragistics4.Win.Misc.v12.2.xml
+24/01/2019 15:04:55->Copiando -> Infragistics4.Win.UltraWinTabbedMdi.v12.2.dll
+24/01/2019 15:04:55->Copiando -> Infragistics4.Win.UltraWinTabbedMdi.v12.2.xml
+24/01/2019 15:04:55->Copiando -> Infragistics4.Win.v12.2.dll
+24/01/2019 15:04:55->Copiando -> Infragistics4.Win.v12.2.xml
+24/01/2019 15:04:55->Copiando -> Microsoft.AspNet.Identity.Core.dll
+24/01/2019 15:04:55->Copiando -> Microsoft.AspNet.Identity.Core.xml
+24/01/2019 15:04:55->Copiando -> MiniGestorCodigo.BL.dll
+24/01/2019 15:04:55->Copiando -> MiniGestorCodigo.BL.dll.config
+24/01/2019 15:04:55->Copiando -> MiniGestorCodigo.DM.dll
+24/01/2019 15:04:55->Copiando -> MiniGestorCodigo.DM.dll.config
+24/01/2019 15:04:55->Copiando -> MiniGestorCodigo.Security.exe
+24/01/2019 15:04:56->Copiando -> MiniGestorCodigo.Security.exe.config
+24/01/2019 15:04:56->Copiando -> MiniGestorCodigo.Starter.exe
+24/01/2019 15:04:56->Copiando -> MiniGestorCodigo.Starter.exe.config
+24/01/2019 15:04:56->Copiando -> MiniGestorCodigo.UI.exe
+24/01/2019 15:04:56->Copiando -> MiniGestorCodigo.UI.exe.config
+24/01/2019 15:04:56->Copiando -> Utilities.Clases.dll
+24/01/2019 15:04:56->Copiando -> Utilities.Controls.dll
+24/01/2019 15:04:56->Copiando -> Utilities.Extensions.dll
+24/01/2019 15:04:56->		 ----> Finalizar Copiado 
+24/01/2019 15:05:36->		 ----> Copiar Archivos 
+24/01/2019 15:05:36->Copiando -> Infragistics4.Win.UltraWinTabbedMdi.v12.2.xml
+24/01/2019 15:05:36->Copiando -> Infragistics4.Win.Misc.v12.2.xml
+24/01/2019 15:05:36->Copiando -> Infragistics4.Shared.v12.2.xml
+24/01/2019 15:05:36->Copiando -> Infragistics4.Win.v12.2.xml
+24/01/2019 15:05:36->Copiando -> Infragistics4.Shared.v12.2.dll
+24/01/2019 15:05:36->		 ----> Finalizar Copiado 
+24/01/2019 15:05:36->Esperando un tiempo de Demora
+24/01/2019 15:15:34->		 ----> Copiar Archivos 
+24/01/2019 15:15:36->Copiando -> Infragistics4.Win.UltraWinTabbedMdi.v12.2.xml
+24/01/2019 15:15:36->Copiando -> Infragistics4.Win.Misc.v12.2.xml
+24/01/2019 15:15:36->Copiando -> Infragistics4.Shared.v12.2.xml
+24/01/2019 15:15:36->Copiando -> Infragistics4.Win.v12.2.xml
+24/01/2019 15:15:37->Copiando -> Infragistics4.Shared.v12.2.dll
+24/01/2019 15:15:37->		 ----> Finalizar Copiado 
+24/01/2019 15:15:41->Esperando un tiempo de Demora
+24/01/2019 15:15:50->		 ----> Copiar Archivos 
+24/01/2019 15:15:50->Copiando -> Infragistics4.Win.UltraWinTabbedMdi.v12.2.xml
+24/01/2019 15:15:50->Copiando -> Infragistics4.Win.Misc.v12.2.xml
+24/01/2019 15:15:50->Copiando -> Infragistics4.Shared.v12.2.xml
+24/01/2019 15:15:50->Copiando -> Infragistics4.Win.v12.2.xml
+24/01/2019 15:15:50->Copiando -> Infragistics4.Shared.v12.2.dll
+24/01/2019 15:15:50->		 ----> Finalizar Copiado 
+24/01/2019 15:16:03->Esperando un tiempo de Demora
+24/01/2019 15:16:22->		 ----> Copiar Archivos 
+24/01/2019 15:16:22->Copiando -> Infragistics4.Win.UltraWinTabbedMdi.v12.2.xml
+24/01/2019 15:16:22->Copiando -> Infragistics4.Win.Misc.v12.2.xml
+24/01/2019 15:16:22->Copiando -> Infragistics4.Shared.v12.2.xml
+24/01/2019 15:16:22->Copiando -> Infragistics4.Win.v12.2.xml
+24/01/2019 15:16:22->Copiando -> Infragistics4.Shared.v12.2.dll
+24/01/2019 15:16:22->		 ----> Finalizar Copiado 
+24/01/2019 15:16:25->Esperando un tiempo de Demora
+24/01/2019 15:16:36->		 ----> Copiar Archivos 
+24/01/2019 15:16:36->Copiando -> Infragistics4.Win.UltraWinTabbedMdi.v12.2.xml
+24/01/2019 15:16:36->Copiando -> Infragistics4.Win.Misc.v12.2.xml
+24/01/2019 15:16:36->Copiando -> Infragistics4.Shared.v12.2.xml
+24/01/2019 15:16:36->Copiando -> Infragistics4.Win.v12.2.xml
+24/01/2019 15:16:36->Copiando -> Infragistics4.Shared.v12.2.dll
+24/01/2019 15:16:36->		 ----> Finalizar Copiado 
+24/01/2019 15:16:40->Esperando un tiempo de Demora
+24/01/2019 15:16:48->		 ----> Copiar Archivos 
+24/01/2019 15:17:16->Copiando -> Infragistics4.Win.UltraWinTabbedMdi.v12.2.xml
+24/01/2019 15:17:16->Copiando -> Infragistics4.Win.Misc.v12.2.xml
+24/01/2019 15:17:16->Copiando -> Infragistics4.Shared.v12.2.xml
+24/01/2019 15:17:16->Copiando -> Infragistics4.Win.v12.2.xml
+24/01/2019 15:17:16->Copiando -> Infragistics4.Shared.v12.2.dll
+24/01/2019 15:17:16->		 ----> Finalizar Copiado 
+24/01/2019 15:19:37->		 ----> Copiar Archivos 
+24/01/2019 15:19:40->Copiando -> Infragistics4.Win.UltraWinTabbedMdi.v12.2.xml
+24/01/2019 15:19:40->Copiando -> Infragistics4.Win.Misc.v12.2.xml
+24/01/2019 15:19:40->Copiando -> Infragistics4.Shared.v12.2.xml
+24/01/2019 15:19:40->Copiando -> Infragistics4.Win.v12.2.xml
+24/01/2019 15:19:41->Copiando -> Infragistics4.Shared.v12.2.dll
+24/01/2019 15:19:41->		 ----> Finalizar Copiado 
+24/01/2019 15:19:41->Esperando un tiempo de Demora
+24/01/2019 15:20:46->		 ----> Copiar Archivos 
+24/01/2019 15:20:46->Copiando -> Infragistics4.Win.UltraWinTabbedMdi.v12.2.xml
+24/01/2019 15:20:46->Copiando -> Infragistics4.Win.Misc.v12.2.xml
+24/01/2019 15:20:46->Copiando -> Infragistics4.Shared.v12.2.xml
+24/01/2019 15:20:46->Copiando -> Infragistics4.Win.v12.2.xml
+24/01/2019 15:20:46->Copiando -> Infragistics4.Shared.v12.2.dll
+24/01/2019 15:20:46->		 ----> Finalizar Copiado 
+24/01/2019 15:20:46->Esperando un tiempo de Demora
+24/01/2019 15:20:57->		 ----> Copiar Archivos 
+24/01/2019 15:20:58->Copiando -> Infragistics4.Win.v12.2.dll
+24/01/2019 15:20:58->Copiando -> Infragistics4.Win.Misc.v12.2.dll
+24/01/2019 15:20:58->Copiando -> Infragistics4.Win.UltraWinTabbedMdi.v12.2.dll
+24/01/2019 15:20:58->Copiando -> EntityFramework.dll
+24/01/2019 15:20:59->Copiando -> EntityFramework.SqlServer.dll
+24/01/2019 15:20:59->		 ----> Finalizar Copiado 
+24/01/2019 15:20:59->Esperando un tiempo de Demora
+24/01/2019 15:21:06->		 ----> Copiar Archivos 
+24/01/2019 15:21:06->Copiando -> EntityFramework.SqlServer.xml
+24/01/2019 15:21:06->Copiando -> EntityFramework.xml
+24/01/2019 15:21:06->Copiando -> Microsoft.AspNet.Identity.Core.dll
+24/01/2019 15:21:06->Copiando -> Microsoft.AspNet.Identity.Core.xml
+24/01/2019 15:21:06->Copiando -> MiniGestorCodigo.DM.dll.config
+24/01/2019 15:21:07->		 ----> Finalizar Copiado 
+24/01/2019 15:21:07->Esperando un tiempo de Demora
+24/01/2019 15:21:12->		 ----> Copiar Archivos 
+24/01/2019 15:21:12->Copiando -> MiniGestorCodigo.BL.dll.config
+24/01/2019 15:21:12->Copiando -> MiniGestorCodigo.Security.exe.config
+24/01/2019 15:21:12->Copiando -> MiniGestorCodigo.Starter.exe.config
+24/01/2019 15:21:12->Copiando -> MiniGestorCodigo.UI.exe.config
+24/01/2019 15:21:12->Copiando -> MiniGestorCodigo.Security.exe
+24/01/2019 15:21:12->		 ----> Finalizar Copiado 
+24/01/2019 15:21:12->Esperando un tiempo de Demora
+24/01/2019 15:21:17->		 ----> Copiar Archivos 
+24/01/2019 15:21:17->Copiando -> Utilities.Clases.dll
+24/01/2019 15:21:17->Copiando -> Utilities.Extensions.dll
+24/01/2019 15:21:17->Copiando -> Utilities.Controls.dll
+24/01/2019 15:21:17->Copiando -> MiniGestorCodigo.DM.dll
+24/01/2019 15:21:18->Copiando -> MiniGestorCodigo.BL.dll
+24/01/2019 15:21:18->		 ----> Finalizar Copiado 
+24/01/2019 15:21:27->		 ----> Finalizado el proceso 
+24/01/2019 16:51:41->		 ----> Mover Archivos 
+24/01/2019 16:51:41->Moviendo -> Infragistics4.Win.UltraWinTabbedMdi.v12.2.xml
+24/01/2019 16:51:42->Moviendo -> Infragistics4.Win.Misc.v12.2.xml
+24/01/2019 16:51:42->Moviendo -> Infragistics4.Shared.v12.2.xml
+24/01/2019 16:51:42->Moviendo -> Infragistics4.Win.v12.2.xml
+24/01/2019 16:51:43->Moviendo -> Infragistics4.Shared.v12.2.dll
+24/01/2019 16:51:44->		 ----> Finalizar Moviemiento de Archivos 
+24/01/2019 16:51:44->		 ----> Eliminar Residuos de la carpeta Origen
+24/01/2019 16:51:44->		 ----> Finalizar Eliminar 
+24/01/2019 16:51:44->Esperando un tiempo de Demora
+24/01/2019 16:54:01->		 ----> Mover Archivos 
+24/01/2019 16:54:01->Moviendo -> Infragistics4.Win.UltraWinTabbedMdi.v12.2.xml
+24/01/2019 16:54:01->Moviendo -> Infragistics4.Win.Misc.v12.2.xml
+24/01/2019 16:54:01->Moviendo -> Infragistics4.Shared.v12.2.xml
+24/01/2019 16:54:01->Moviendo -> Infragistics4.Win.v12.2.xml
+24/01/2019 16:54:02->Moviendo -> Infragistics4.Shared.v12.2.dll
+24/01/2019 16:54:02->		 ----> Finalizar Moviemiento de Archivos 
+24/01/2019 16:54:02->		 ----> Eliminar Residuos de la carpeta Origen
+24/01/2019 16:54:02->		 ----> Finalizar Eliminar 
+24/01/2019 16:54:02->Esperando un tiempo de Demora
+24/01/2019 16:54:07->		 ----> Mover Archivos 
+24/01/2019 16:54:07->Moviendo -> Infragistics4.Win.v12.2.dll
+24/01/2019 16:54:07->Moviendo -> Infragistics4.Win.Misc.v12.2.dll
+24/01/2019 16:54:08->Moviendo -> Infragistics4.Win.UltraWinTabbedMdi.v12.2.dll
+24/01/2019 16:54:08->Moviendo -> EntityFramework.dll
+24/01/2019 16:54:08->Moviendo -> EntityFramework.SqlServer.dll
+24/01/2019 16:54:08->		 ----> Finalizar Moviemiento de Archivos 
+24/01/2019 16:54:08->		 ----> Eliminar Residuos de la carpeta Origen
+24/01/2019 16:54:08->		 ----> Finalizar Eliminar 
+24/01/2019 16:54:08->Esperando un tiempo de Demora
+24/01/2019 16:54:13->		 ----> Mover Archivos 
+24/01/2019 16:54:13->Moviendo -> EntityFramework.SqlServer.xml
+24/01/2019 16:54:13->Moviendo -> EntityFramework.xml
+24/01/2019 16:54:13->Moviendo -> Microsoft.AspNet.Identity.Core.dll
+24/01/2019 16:54:13->Moviendo -> Microsoft.AspNet.Identity.Core.xml
+24/01/2019 16:54:13->Moviendo -> MiniGestorCodigo.DM.dll.config
+24/01/2019 16:54:14->		 ----> Finalizar Moviemiento de Archivos 
+24/01/2019 16:54:14->		 ----> Eliminar Residuos de la carpeta Origen
+24/01/2019 16:54:14->		 ----> Finalizar Eliminar 
+24/01/2019 16:54:14->Esperando un tiempo de Demora
+24/01/2019 16:54:19->		 ----> Mover Archivos 
+24/01/2019 16:54:19->Moviendo -> MiniGestorCodigo.BL.dll.config
+24/01/2019 16:54:19->Moviendo -> MiniGestorCodigo.Security.exe.config
+24/01/2019 16:54:19->Moviendo -> MiniGestorCodigo.Starter.exe.config
+24/01/2019 16:54:19->Moviendo -> MiniGestorCodigo.UI.exe.config
+24/01/2019 16:54:19->Moviendo -> MiniGestorCodigo.Security.exe
+24/01/2019 16:54:19->		 ----> Finalizar Moviemiento de Archivos 
+24/01/2019 16:54:19->		 ----> Eliminar Residuos de la carpeta Origen
+24/01/2019 16:54:19->		 ----> Finalizar Eliminar 
+24/01/2019 16:54:19->Esperando un tiempo de Demora
+24/01/2019 16:54:24->		 ----> Mover Archivos 
+24/01/2019 16:54:24->Moviendo -> Utilities.Clases.dll
+24/01/2019 16:54:24->Moviendo -> Utilities.Extensions.dll
+24/01/2019 16:54:25->Moviendo -> Utilities.Controls.dll
+24/01/2019 16:54:25->Moviendo -> MiniGestorCodigo.DM.dll
+24/01/2019 16:54:25->Moviendo -> MiniGestorCodigo.BL.dll
+24/01/2019 16:54:25->		 ----> Finalizar Moviemiento de Archivos 
+24/01/2019 16:54:25->		 ----> Eliminar Residuos de la carpeta Origen
+24/01/2019 16:54:25->		 ----> Finalizar Eliminar 
+24/01/2019 16:54:25->		 ----> Finalizado el proceso 
+29/01/2019 17:49:10->		 ----> Copiar Archivos 
+29/01/2019 17:49:10->Copiando -> Infragistics4.Win.UltraWinTabbedMdi.v12.2.xml
+29/01/2019 17:49:10->Copiando -> Infragistics4.Win.Misc.v12.2.xml
+29/01/2019 17:49:10->Copiando -> Infragistics4.Shared.v12.2.xml
+29/01/2019 17:49:10->Copiando -> Infragistics4.Win.v12.2.xml
+29/01/2019 17:49:10->Copiando -> Infragistics4.Shared.v12.2.dll
+29/01/2019 17:49:10->		 ----> Finalizar Copiado 
+29/01/2019 17:49:10->Esperando un tiempo de Demora
+29/01/2019 17:49:38->		 ----> Copiar Archivos 
+29/01/2019 17:49:38->Copiando -> Infragistics4.Win.v12.2.dll
+29/01/2019 17:49:39->Copiando -> Infragistics4.Win.Misc.v12.2.dll
+29/01/2019 17:49:39->Copiando -> Infragistics4.Win.UltraWinTabbedMdi.v12.2.dll
+29/01/2019 17:49:39->Copiando -> EntityFramework.dll
+29/01/2019 17:49:39->Copiando -> EntityFramework.SqlServer.dll
+29/01/2019 17:49:39->		 ----> Finalizar Copiado 
+29/01/2019 17:49:39->Esperando un tiempo de Demora
+29/01/2019 17:49:57->		 ----> Copiar Archivos 
+29/01/2019 17:49:57->Copiando -> EntityFramework.SqlServer.xml
+29/01/2019 17:49:57->Copiando -> EntityFramework.xml
+29/01/2019 17:49:57->Copiando -> Microsoft.AspNet.Identity.Core.dll
+29/01/2019 17:49:57->Copiando -> Microsoft.AspNet.Identity.Core.xml
+29/01/2019 17:49:57->Copiando -> MiniGestorCodigo.DM.dll.config
+29/01/2019 17:49:57->		 ----> Finalizar Copiado 
+29/01/2019 17:49:57->Esperando un tiempo de Demora
+29/01/2019 17:50:20->		 ----> Copiar Archivos 
+29/01/2019 17:50:20->Copiando -> MiniGestorCodigo.BL.dll.config
+29/01/2019 17:50:20->Copiando -> MiniGestorCodigo.Security.exe.config
+29/01/2019 17:50:20->Copiando -> MiniGestorCodigo.Starter.exe.config
+29/01/2019 17:50:20->Copiando -> MiniGestorCodigo.UI.exe.config
+29/01/2019 17:50:20->Copiando -> MiniGestorCodigo.Security.exe
+29/01/2019 17:50:21->		 ----> Finalizar Copiado 
+29/01/2019 17:50:21->Esperando un tiempo de Demora
+29/01/2019 17:51:05->		 ----> Copiar Archivos 
+29/01/2019 17:51:05->Copiando -> Utilities.Clases.dll
+29/01/2019 17:51:05->Copiando -> Utilities.Extensions.dll
+29/01/2019 17:51:05->Copiando -> Utilities.Controls.dll
+29/01/2019 17:51:05->Copiando -> MiniGestorCodigo.DM.dll
+29/01/2019 17:51:05->Copiando -> MiniGestorCodigo.BL.dll
+29/01/2019 17:51:05->		 ----> Finalizar Copiado 
+29/01/2019 17:51:06->		 ----> Finalizado el proceso 
+29/01/2019 17:52:17->		 ----> Copiar Archivos 
+29/01/2019 17:52:17->Copiando -> Infragistics4.Win.UltraWinTabbedMdi.v12.2.xml
+29/01/2019 17:52:17->Copiando -> Infragistics4.Win.Misc.v12.2.xml
+29/01/2019 17:52:17->Copiando -> Infragistics4.Shared.v12.2.xml
+29/01/2019 17:52:17->Copiando -> Infragistics4.Win.v12.2.xml
+29/01/2019 17:52:17->Copiando -> Infragistics4.Shared.v12.2.dll
+29/01/2019 17:52:17->		 ----> Finalizar Copiado 
+29/01/2019 17:52:17->Esperando un tiempo de Demora
+29/01/2019 17:52:42->		 ----> Copiar Archivos 
+29/01/2019 17:52:42->Copiando -> Infragistics4.Win.v12.2.dll
+29/01/2019 17:52:42->Copiando -> Infragistics4.Win.Misc.v12.2.dll
+29/01/2019 17:52:42->Copiando -> Infragistics4.Win.UltraWinTabbedMdi.v12.2.dll
+29/01/2019 17:52:42->Copiando -> EntityFramework.dll
+29/01/2019 17:52:43->Copiando -> EntityFramework.SqlServer.dll
+29/01/2019 17:52:43->		 ----> Finalizar Copiado 
+29/01/2019 17:52:43->Esperando un tiempo de Demora
+29/01/2019 17:52:56->		 ----> Copiar Archivos 
+29/01/2019 17:52:56->Copiando -> EntityFramework.SqlServer.xml
+29/01/2019 17:52:56->Copiando -> EntityFramework.xml
+29/01/2019 17:52:56->Copiando -> Microsoft.AspNet.Identity.Core.dll
+29/01/2019 17:52:56->Copiando -> Microsoft.AspNet.Identity.Core.xml
+29/01/2019 17:52:56->Copiando -> MiniGestorCodigo.DM.dll.config
+29/01/2019 17:52:56->		 ----> Finalizar Copiado 
+29/01/2019 17:52:56->Esperando un tiempo de Demora
+29/01/2019 17:53:10->		 ----> Copiar Archivos 
+29/01/2019 17:53:10->Copiando -> MiniGestorCodigo.BL.dll.config
+29/01/2019 17:53:10->Copiando -> MiniGestorCodigo.Security.exe.config
+29/01/2019 17:53:10->Copiando -> MiniGestorCodigo.Starter.exe.config
+29/01/2019 17:53:10->Copiando -> MiniGestorCodigo.UI.exe.config
+29/01/2019 17:53:10->Copiando -> MiniGestorCodigo.Security.exe
+29/01/2019 17:53:10->		 ----> Finalizar Copiado 
+29/01/2019 17:53:10->Esperando un tiempo de Demora
+29/01/2019 17:53:31->		 ----> Copiar Archivos 
+29/01/2019 17:53:31->Copiando -> Utilities.Clases.dll
+29/01/2019 17:53:31->Copiando -> Utilities.Extensions.dll
+29/01/2019 17:53:31->Copiando -> Utilities.Controls.dll
+29/01/2019 17:53:31->Copiando -> MiniGestorCodigo.DM.dll
+29/01/2019 17:53:31->Copiando -> MiniGestorCodigo.BL.dll
+29/01/2019 17:53:31->		 ----> Finalizar Copiado 
+29/01/2019 17:53:31->Esperando un tiempo de Demora
+29/01/2019 17:53:52->		 ----> Copiar Archivos 
+29/01/2019 17:53:52->Copiando -> MiniGestorCodigo.UI.exe
+29/01/2019 17:53:52->Copiando -> MiniGestorCodigo.Starter.exe
+29/01/2019 17:53:52->		 ----> Finalizar Copiado 
+29/01/2019 17:53:52->		 ----> Finalizado el proceso 
